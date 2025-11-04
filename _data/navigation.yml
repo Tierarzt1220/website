@@ -1,0 +1,18 @@
+main:
+  - title: "Terminbuchung"
+    url: /buchungstool/
+  - title: "Team"
+    url: /team/
+  - title: "Leistungen"
+    url: /leistungen/
+  - title: "Kontakt"
+    url: /kontakt/
+  - title: "Hausbesuche"
+    url: /hausbesuche/
+  - title: "English"
+    url: /english/
+  - title: "Español"
+    url: /espanol/
+  - title: "Blog"
+    url: /news/    
+    

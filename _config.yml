@@ -1,0 +1,138 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+liquid:
+  error_mode: strict
+
+logo: /assets/images/tab_animals_sml.webp
+name: "Ihr Tierarzt in 1050 Wien"
+title: "Tierarztpraxis Bacherplatz"
+tagline: "Ihr Tierarzt in Wien"
+description:  "Ihre kompetenten Tierärztinnen in 1050 Wien. Wir freuen uns, für Ihr Haustier da sein zu dürfen. Hund, Katze, Maus, alle Tiere sind bei uns willkommen."
+image: "/assets/images/tab_animals_sml.webp"
+
+email: "praxis@vetcat.at"
+locale: de_AT
+baseurl: "" # the subpath of your site, e.g. /blog
+domain: "vetcat.at"
+url: "https://vetcat.at" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+#github_username: migocode
+social:
+  name: "Tierarztpraxis am Bacherplatz"
+  links:
+    - https://www.facebook.com/TierambulatoriumAmBacherplatz
+    - https://www.instagram.com/tierarztpraxisambacherplatz
+# Build settings
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "default"  # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+plugins:
+  - jekyll-paginate
+  - jekyll-data
+  - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      classes: wide
+      author_profile: false
+      share: false
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      show_date: false
+      author_profile: false
+      read_time: false
+      comments: false
+      related: false
+      share: true
+
+include: ["_pages"]
+
+author:
+  name: "Tierarztpraxis <br/>am Bacherplatz <br/> <br/>
+  Mag. Corinna Rotsejdl"
+  bio: "<b>Unsere Öffnungszeiten</b><br/>
+Mo-Fr: 09:30 - 19:00 <br/>
+Sa: 09:30 - 13:30 "
+  avatar: "/assets/images/corinna-2.jpg"
+  links:
+    - label: "Arbeitergasse 4, 1050 Wien"
+      icon: "fa-solid fa-fw fa-location-dot"
+      url: "https://www.google.com/maps/place/Tierarztpraxis+am+Bacherplatz/@48.1871774,16.352214,16.87z/data=!4m5!3m4!1s0x476da82f2e762efb:0x205402a529b2d653!8m2!3d48.1870109!4d16.354401?hl=de"
+    - label: "praxis@vetcat.at"
+      icon: "fa-solid fa-fw fa-envelope"
+      url: "mailto:praxis@vetcat.at"
+    - label: "+43 1 54 54 976"
+      icon: "fa-solid fa-fw fa-phone"
+      url: "tel:+43 1 54 54 976"
+    - label: "Facebook"
+      icon: "fa-brands fa-fw fa-facebook"
+      url: "https://www.facebook.com/TierambulatoriumAmBacherplatz/"
+    - label: "Instagram"
+      icon: "fa-brands fa-fw fa-instagram"
+      url: "https://www.instagram.com/tierarztpraxisambacherplatz/"
+
+footer:
+  links:
+    - label: "E-Mail"
+      icon: "fas fa-envelope"
+      url: "mailto:praxis@vetcat.at"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/company/tierarztpraxisambacherplatz/"
+    - label: "Facebook"
+      icon: "fab fa-facebook"
+      url: "https://www.facebook.com/TierambulatoriumAmBacherplatz/"
+    - label: "Instagram"
+      icon: "fa-brands fa-fw fa-instagram"
+      url: "https://www.instagram.com/tierarztpraxisambacherplatz/"
+
+atom_feed:
+  hide: true
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
