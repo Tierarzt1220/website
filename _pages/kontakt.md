@@ -23,13 +23,16 @@ Langobardenstrasse 44, 1220 Wien
 
 | Tag | Öffnungszeiten |
 |-------|--------|
-| Montag - Freitag | 09:30 - 19:00 |
-| Samstag | 09:30 - 13:30 | 
+| Montag | 16:00 - 20:00 |
+| Dienstag | 16:00 - 18:00 |
+| Mittwoch | 16:00 - 19:00 |
+| Donnerstag | 16:00 - 18:00 |
+| Freitag | 11:00 - 13:00 |
 
 **Derzeit kein Notdienst!**
 
 **So finden Sie zu uns:**
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2660.017492576028!2d16.35221241598973!3d48.187014455694914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476da82f2e762efb%3A0x205402a529b2d653!2sTierarztpraxis%20am%20Bacherplatz!5e0!3m2!1sde!2sat!4v1650568162198!5m2!1sde!2sat" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJVVUlwSgBbUcRhJKRX-gCIr0" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Ihr Tierarzt in der Nähe!**
 
