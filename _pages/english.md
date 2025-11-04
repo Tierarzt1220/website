@@ -68,13 +68,12 @@ Langobardenstrasse 44, 1220 Wien
 
 
 **Find our ordination in 1220 Vienna:**
-<iframe src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJVVUlwSgBbUcRhJKRX-gCIr0" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe width="100%" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://maps.google.com/maps?width=100%25&amp;height=450&amp;hl=en&amp;q=Langobardenstrasse%2044+(Tierarztpraxis%20am%20M%C3%BChlgrund)&amp;t=&amp;z=16&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
+
 <br />
 
 **How to reach us with public transportation**
 <div>
-  <b>Wiener Linien Stations near us:</b><br />
-  <i class="fa-solid fa-fw fa-train-subway"></i> U4 (Pilgramgasse)<br />
-  <i class="fa-solid fa-fw fa-bus"></i> 12A, 14A, 59A (Reinprechtsdorf Straße, Arbeitergasse)<br />
-  <i class="fa-solid fa-fw fa-train"></i> R 3, R, REX 1, REX 2, REX 3, REX 9, S1, S2, S3, S4, S80 (Bahnhof Matzleinsdorfer Platz)
+  <b>Wiener Linien Stations near us:</b><br />  <i class="fa-solid fa-fw fa-train-subway"></i> U2 Hardeggasse<br />
+  <i class="fa-solid fa-fw fa-bus"></i> Bus 95A, Tramway 25<br />
 </div>{: .notice}
