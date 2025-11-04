@@ -1,7 +1,7 @@
 ---
 title: Impressum
-description: Impressum der Tierarztpraxis am Bacherplatz Tierarztpraxis 1050 Wien
-excerpt: Impressum der Tierarztpraxis am Bacherplatz, 1050 Wien
+description: Impressum der Tierarztpraxis am Bacherplatz Tierarztpraxis 1220 Wien
+excerpt: Impressum der Tierarztpraxis am Bacherplatz, 1220 Wien
 toc: false
 layout: single
 author_profile: true
@@ -16,8 +16,8 @@ header:
 **Tierarztpraxis am Bacherplatz**
 
 Tierarztpraxis am Bacherplatz - Mag. Corinna Rotsejdl<br />
-Arbeitergasse 4/4<br />
-1050 Wien<br />
+Langobardenstrasse 44/4<br />
+1220 Wien<br />
 Österreich<br />
 Website: [vetcat.at](https://vetcat.at)<br />
 UID Nummer: ATU77816026<br />

@@ -3,7 +3,7 @@ Corinna Rotsejdl:
   bio: "Ihr Tierarzt für Wien. Für Ihr Tier. Für Sie."
   avatar: "/assets/images/corinna.jpg"
   links:
-    - label: "Arbeitergasse 4, 1050 Wien"
+    - label: "Langobardenstrasse 44, 1220 Wien"
       icon: "fa-solid fa-fw fa-location-dot"
       url: "https://www.google.com/maps/place/Tierarztpraxis+am+Bacherplatz/@48.1871774,16.352214,16z/data=!4m6!3m5!1s0x476da82f2e762efb:0x205402a529b2d653!8m2!3d48.1871127!4d16.3543961!16s%2Fg%2F1tdvyq1g?hl=de&entry=ttu"
     - label: "praxis@vetcat.at"

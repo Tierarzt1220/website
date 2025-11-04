@@ -22,10 +22,10 @@ liquid:
   error_mode: strict
 
 logo: /assets/images/tab_animals_sml.webp
-name: "Ihr Tierarzt in 1050 Wien"
+name: "Ihr Tierarzt in 1220 Wien"
 title: "Tierarztpraxis Bacherplatz"
 tagline: "Ihr Tierarzt in Wien"
-description:  "Ihre kompetenten Tierärztinnen in 1050 Wien. Wir freuen uns, für Ihr Haustier da sein zu dürfen. Hund, Katze, Maus, alle Tiere sind bei uns willkommen."
+description:  "Ihre kompetenten Tierärztinnen in 1220 Wien. Wir freuen uns, für Ihr Haustier da sein zu dürfen. Hund, Katze, Maus, alle Tiere sind bei uns willkommen."
 image: "/assets/images/tab_animals_sml.webp"
 
 email: "praxis@vetcat.at"
@@ -83,7 +83,7 @@ Mo-Fr: 09:30 - 19:00 <br/>
 Sa: 09:30 - 13:30 "
   avatar: "/assets/images/corinna-2.jpg"
   links:
-    - label: "Arbeitergasse 4, 1050 Wien"
+    - label: "Langobardenstrasse 44, 1220 Wien"
       icon: "fa-solid fa-fw fa-location-dot"
       url: "https://www.google.com/maps/place/Tierarztpraxis+am+Bacherplatz/@48.1871774,16.352214,16.87z/data=!4m5!3m4!1s0x476da82f2e762efb:0x205402a529b2d653!8m2!3d48.1870109!4d16.354401?hl=de"
     - label: "praxis@vetcat.at"

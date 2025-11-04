@@ -78,7 +78,7 @@ Anfragen und die Geltendmachung Ihrer Rechte können Sie jederzeit sowohl an uns
 
 Tierarztpraxis am Bacherplatz<br />
 Mag. Corinna Rotsejdl<br />
-Arbeitergasse 4/4<br />
-1050 Wien<br />
+Langobardenstrasse 44/4<br />
+1220 Wien<br />
 Tel.: <a href="tel:+43 1 54 54 976">+43 1 54 54 976</a><br />
 E-Mail: <i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@vetcat.at">praxis@vetcat.at</a>  

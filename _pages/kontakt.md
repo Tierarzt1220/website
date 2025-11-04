@@ -13,7 +13,7 @@ excerpt: "Zentral gelegen und leicht zu erreichen."
 **Tierarztpraxis am Bacherplatz im 5. Bezirk**  
 
 Mag. Corinna Rotsejdl  
-Arbeitergasse 4/4, 1050 Wien  
+Langobardenstrasse 44/4, 1220 Wien  
 <i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@vetcat.at">praxis@vetcat.at</a>  
 <i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 54 54 976">+43 1 54 54 976</a>
 {: .notice}
@@ -33,7 +33,7 @@ Arbeitergasse 4/4, 1050 Wien
 
 **Ihr Tierarzt in der Nähe!**
 
-Wir sind Ihr idealer Ansprechpartner für Tiergesundheit, mitten in 1050 Wien.
+Wir sind Ihr idealer Ansprechpartner für Tiergesundheit, mitten in 1220 Wien.
 
 <div>
   <b>Wiener Linien Stationen in der Nähe:</b><br />

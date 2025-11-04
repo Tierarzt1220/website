@@ -10,7 +10,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: "/assets/images/termin.jpg"
-excerpt: "Ihr Termin bei uns in 1050 Wien"
+excerpt: "Ihr Termin bei uns in 1220 Wien"
 ---
 **Willkommen bei unserem Buchungssystem!**
 

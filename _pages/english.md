@@ -1,6 +1,6 @@
 ---
 title: Welcome english speakers!
-description: English speaking veterinary surgeon 1050 Vienna.
+description: English speaking veterinary surgeon 1220 Vienna.
 classes: wide
 layout: single
 locale: en_US
@@ -27,13 +27,13 @@ feature_row:
    
 ---
 
-**Tierarztpraxis am Bacherplatz, your english speaking veterinarian in 1050 Vienna**  
+**Tierarztpraxis am Bacherplatz, your english speaking veterinarian in 1220 Vienna**  
 
 Dear pet owners,
 
 Veterinarian Corinna Rotsejdl and the veterinary team of the animal outpatient clinic at Bacherplatz (Tierambulattorium am Bacherplatz) will be happy to take care of all the medical needs of your pet. Personal advice and support are particularly important to us.
 
-Our ordination in 1050 Vienna is equipped with the most modern equipment at the clinic level. Our goal is to combine the personal care of a small practice with the performance of a large veterinary clinic.
+Our ordination in 1220 Vienna is equipped with the most modern equipment at the clinic level. Our goal is to combine the personal care of a small practice with the performance of a large veterinary clinic.
 
 We offer consultation hours in German, English and also Spanish.
 
@@ -47,7 +47,7 @@ We are looking forward to your visit!
 
 **Our address**  
 Tierarztpraxis am Bacherplatz - Mag. Corinna Rotsejdl    
-Arbeitergasse 4/4, 1050 Wien  
+Langobardenstrasse 44/4, 1220 Wien  
 <i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@vetcat.at">praxis@vetcat.at</a>  
 <i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 54 54 976">+43 1 54 54 976</a>
 {: .notice}
@@ -64,7 +64,7 @@ Arbeitergasse 4/4, 1050 Wien
 
 
 
-**Find our ordination in 1050 Vienna:**
+**Find our ordination in 1220 Vienna:**
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2660.017492576028!2d16.35221241598973!3d48.187014455694914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476da82f2e762efb%3A0x205402a529b2d653!2sTierarztpraxis%20am%20Bacherplatz!5e0!3m2!1sde!2sat!4v1650568162198!5m2!1sde!2sat" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br />
 

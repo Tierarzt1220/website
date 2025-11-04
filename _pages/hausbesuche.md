@@ -1,7 +1,7 @@
 ---
 title: "Tierarzt Hausbesuch Wien"
 canonical_url: 'https://vetcat.at/'
-description: "Tierarzt 1010, Tierarzt 1020, Tierarzt 1030, Tierarzt 1040, Tierarzt 1050, Tierarzt 1060, Tierarzt 1070, Tierarzt 1080, Tierarzt 1090, Tierarzt 1100, Tierarzt 1110, Tierarzt 1120, Tierarzt 1130, Tierarzt Meidling, Tierarzt 1140, Tierarzt 1150, Tierarzt 1160, Tierarzt 1170, Tierarzt 1180, Tierarzt 1190, Tierarzt 1200, Tierarzt 1210, Tierarzt 1220, Tierarzt 1230"
+description: "Tierarzt 1010, Tierarzt 1020, Tierarzt 1030, Tierarzt 1040, Tierarzt 1220, Tierarzt 1060, Tierarzt 1070, Tierarzt 1080, Tierarzt 1090, Tierarzt 1100, Tierarzt 1110, Tierarzt 1120, Tierarzt 1130, Tierarzt Meidling, Tierarzt 1140, Tierarzt 1150, Tierarzt 1160, Tierarzt 1170, Tierarzt 1180, Tierarzt 1190, Tierarzt 1200, Tierarzt 1210, Tierarzt 1220, Tierarzt 1230"
 layout: single
 permalink: /hausbesuche/
 header:
@@ -14,7 +14,7 @@ excerpt: "Um zu helfen, kommen wir gerne zu Ihnen."
 **Ihre TierärztInnen in Wien**
 
 Tierarztpraxis am Bacherplatz 
-Arbeitergasse 4/4, 1050 Wien  
+Langobardenstrasse 44/4, 1220 Wien  
 <i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@vetcat.at">praxis@vetcat.at</a>  
 <i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 54 54 976">+43 1 54 54 976</a>
 {: .notice}
@@ -39,7 +39,7 @@ Je nach Lage, kommen wir zu Fuß, oder mit unserem Ordinationsauto zu Ihnen. Wir
 Wenn Sie einen Hausbesuch wünschen, melden Sie sich bitte telefonisch oder via E-Mail bei uns, um alle Details abzuklären.
 
 Tierarztpraxis am Bacherplatz 
-Arbeitergasse 4/4, 1050 Wien  
+Langobardenstrasse 44/4, 1220 Wien  
 <i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@vetcat.at">praxis@vetcat.at</a>  
 <i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 54 54 976">+43 1 54 54 976</a>
 {: .notice}

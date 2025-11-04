@@ -20,7 +20,7 @@ Mit unserem Online Buchungstool können Sie zu jeder Tageszeit einen Termin bei 
 **Ihre Tierärztin in Wien**
 
 Mag. Corinna Rotsejdl  
-Arbeitergasse 4/4, 1050 Wien  
+Langobardenstrasse 44/4, 1220 Wien  
 <i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@vetcat.at">praxis@vetcat.at</a>  
 <i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 54 54 976">+43 1 54 54 976</a>
 {: .notice}
@@ -36,7 +36,7 @@ Unsere Ordination ist wenige Schritte von der Reinprechtsdorferstrasse entfernt,
 
 **Ihr Tierarzt in der Nähe!**
 
-Wir sind Ihr idealer Ansprechpartner für Tiergesundheit. Ihr Tierarzt in 1050 Wien.
+Wir sind Ihr idealer Ansprechpartner für Tiergesundheit. Ihr Tierarzt in 1220 Wien.
 Sie erreichen uns leicht mit den öffentlichen Verkehrsmitteln:
 <div>
   <i class="fa-solid fa-fw fa-train-subway"></i> U4 (Pilgramgasse)<br />
