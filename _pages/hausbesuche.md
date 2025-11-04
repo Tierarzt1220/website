@@ -13,8 +13,8 @@ excerpt: "Um zu helfen, kommen wir gerne zu Ihnen."
 
 **Ihre TierärztInnen in Wien**
 
-Tierarztpraxis am Bacherplatz 
-Langobardenstrasse 44/4, 1220 Wien  
+Tierarztpraxis am Mühlgrund 
+Langobardenstrasse 44, 1220 Wien  
 <i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@vetcat.at">praxis@vetcat.at</a>  
 <i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 54 54 976">+43 1 54 54 976</a>
 {: .notice}
@@ -38,8 +38,8 @@ Je nach Lage, kommen wir zu Fuß, oder mit unserem Ordinationsauto zu Ihnen. Wir
 
 Wenn Sie einen Hausbesuch wünschen, melden Sie sich bitte telefonisch oder via E-Mail bei uns, um alle Details abzuklären.
 
-Tierarztpraxis am Bacherplatz 
-Langobardenstrasse 44/4, 1220 Wien  
+Tierarztpraxis am Mühlgrund 
+Langobardenstrasse 44, 1220 Wien  
 <i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@vetcat.at">praxis@vetcat.at</a>  
 <i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 54 54 976">+43 1 54 54 976</a>
 {: .notice}

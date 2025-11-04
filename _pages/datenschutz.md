@@ -21,7 +21,7 @@ Personenbezogene Daten sind alle Informationen, die sich auf eine identifizierte
 **Rechtsgrundlage und Zweck der Datenverarbeitung**
 
 Ihre personenbezogenen Daten werden nur bei Vorliegen einer rechtlichen Grundlage im Sinne der DSGVO, sohin primär zum Zweck der Vertragsanbahnung und -erfüllung, aufgrund von gesetzlichen Pflichten oder nach Einholung entsprechender Einwilligungen verarbeitet. 
-In Einzelfällen verarbeiten wir Ihre personenbezogenen Daten auch auf Grund von berechtigten Interessen der Tierarztpraxis am Bacherplatz, Mag. Corinna Rotsejdl. Es werden nur jene personenbezogenen Daten verarbeitet, die zur Erreichung des jeweiligen Zwecks notwendig sind, wie insbesondere: Name und E-Mail-Adresse sowie gegebenenfalls auch weitere Daten, sofern sie von Ihnen im Rahmen einer Anfrage bzw. Registrierung, bei Abschluss eines Vertrages oder im Rahmen einer Terminreservierung bekanntgegeben worden sind. 
+In Einzelfällen verarbeiten wir Ihre personenbezogenen Daten auch auf Grund von berechtigten Interessen der Tierarztpraxis am Mühlgrund, Mag. Corinna Rotsejdl. Es werden nur jene personenbezogenen Daten verarbeitet, die zur Erreichung des jeweiligen Zwecks notwendig sind, wie insbesondere: Name und E-Mail-Adresse sowie gegebenenfalls auch weitere Daten, sofern sie von Ihnen im Rahmen einer Anfrage bzw. Registrierung, bei Abschluss eines Vertrages oder im Rahmen einer Terminreservierung bekanntgegeben worden sind. 
 
 **Speicherdauer**
 
@@ -30,7 +30,7 @@ Ihre personenbezogenen Daten werden nur so lange gespeichert, wie es von Gesetze
 **Weitergabe Ihrer personenbezogenen Daten an Dritte**
 
 Eine Übermittlung Ihrer personenbezogenen Daten an Dritte findet grundsätzlich nicht statt, es sei denn, dies ist zur Erfüllung unserer gesetzlichen Pflichten bzw. zur Durchführung eines Vertragsverhältnisses erforderlich. 
-Ausgenommen hiervon sind Dienstleister, die im Auftrag der Tierarztpraxis am Bacherplatz, Mag. Corinna Rotsejdl tätig werden. Es handelt sich dabei insbesondere um IT-Dienstleister, die das Terminbuchungstool oder die Praxismanagementsoftware der Tierarztpraxis am Bacherplatz, Mag. Corinna Rotsejdl betreuen. Sämtliche Dienstleister unterliegen strengen technischen und organisatorischen Sicherheitsmaßnahmen und haben die Datenschutzvorschriften einzuhalten. 
+Ausgenommen hiervon sind Dienstleister, die im Auftrag der Tierarztpraxis am Mühlgrund, Mag. Corinna Rotsejdl tätig werden. Es handelt sich dabei insbesondere um IT-Dienstleister, die das Terminbuchungstool oder die Praxismanagementsoftware der Tierarztpraxis am Mühlgrund, Mag. Corinna Rotsejdl betreuen. Sämtliche Dienstleister unterliegen strengen technischen und organisatorischen Sicherheitsmaßnahmen und haben die Datenschutzvorschriften einzuhalten. 
 Informationen zu den Drittanbietern:
 -	Buchungstool, Praxismanagementsoftware: CHD Electronic Engineering, Christian Dumhart Sperlgasse 13, 2284 Untersiebenbrunn
 
@@ -76,9 +76,9 @@ Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht v
 
 Anfragen und die Geltendmachung Ihrer Rechte können Sie jederzeit sowohl an unsere E-Mail als auch an unsere Postadresse richten:<br />
 
-Tierarztpraxis am Bacherplatz<br />
+Tierarztpraxis am Mühlgrund<br />
 Mag. Corinna Rotsejdl<br />
-Langobardenstrasse 44/4<br />
+Langobardenstrasse 44<br />
 1220 Wien<br />
 Tel.: <a href="tel:+43 1 54 54 976">+43 1 54 54 976</a><br />
 E-Mail: <i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@vetcat.at">praxis@vetcat.at</a>  

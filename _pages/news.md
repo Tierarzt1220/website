@@ -13,5 +13,5 @@ excerpt: Aktuelles und spannende Artikel über Prävention, Kranktheiten und The
 ---
 
 ## Neuigkeiten und lesenswertes...
-... von der Tierarztpraxis am Bacherplatz finden Sie hier, aber auch auf unseren Facebook und Instagram Seiten!
+... von der Tierarztpraxis am Mühlgrund finden Sie hier, aber auch auf unseren Facebook und Instagram Seiten!
 

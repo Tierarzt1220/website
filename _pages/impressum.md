@@ -1,7 +1,7 @@
 ---
 title: Impressum
-description: Impressum der Tierarztpraxis am Bacherplatz Tierarztpraxis 1220 Wien
-excerpt: Impressum der Tierarztpraxis am Bacherplatz, 1220 Wien
+description: Impressum der Tierarztpraxis am Mühlgrund Tierarztpraxis 1220 Wien
+excerpt: Impressum der Tierarztpraxis am Mühlgrund, 1220 Wien
 toc: false
 layout: single
 author_profile: true
@@ -13,10 +13,10 @@ header:
 ---
 
 
-**Tierarztpraxis am Bacherplatz**
+**Tierarztpraxis am Mühlgrund**
 
-Tierarztpraxis am Bacherplatz - Mag. Corinna Rotsejdl<br />
-Langobardenstrasse 44/4<br />
+Tierarztpraxis am Mühlgrund - Mag. Corinna Rotsejdl<br />
+Langobardenstrasse 44<br />
 1220 Wien<br />
 Österreich<br />
 Website: [vetcat.at](https://vetcat.at)<br />
@@ -26,7 +26,7 @@ E-Mail: [praxis@vetcat.at](mailto:praxis@vetcat.at)
 
 **Hinweis: neue Inhaberin seit 1.3.2022**
 
-Die Tierarztpraxis am Bacherplatz (vormals Tierambulatorium am Bacherplatz) ist seit 1.3.2022 im Besitz von Mag. Corinna Rotsejdl. Vor dem 1.3.2022 war das Tierambulatorium am Bacherplatz im Besitz von Mag. Judith Katzensteiner. Sämtliche Kontaktdaten bleiben unverändert.
+Die Tierarztpraxis am Mühlgrund (vormals Tierambulatorium am Bacherplatz) ist seit 1.3.2022 im Besitz von Mag. Corinna Rotsejdl. Vor dem 1.3.2022 war das Tierambulatorium am Bacherplatz im Besitz von Mag. Judith Katzensteiner. Sämtliche Kontaktdaten bleiben unverändert.
 
 **Haftungsausschluss**
 

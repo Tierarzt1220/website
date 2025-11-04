@@ -9,7 +9,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/kontakt.jpg
-excerpt: "Tierarztpraxis am Bacherplatz : Tierarzt in Wien"
+excerpt: "Tierarztpraxis am Mühlgrund : Tierarzt in Wien"
 ---
 
 **Buchen Sie hier Ihren Termin bei uns:**
@@ -20,7 +20,7 @@ Mit unserem Online Buchungstool können Sie zu jeder Tageszeit einen Termin bei 
 **Ihre Tierärztin in Wien**
 
 Mag. Corinna Rotsejdl  
-Langobardenstrasse 44/4, 1220 Wien  
+Langobardenstrasse 44, 1220 Wien  
 <i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@vetcat.at">praxis@vetcat.at</a>  
 <i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 54 54 976">+43 1 54 54 976</a>
 {: .notice}

@@ -18,4 +18,4 @@ Sa: 09:30 – 13:30<br />
 
 Herzliche Grüße,<br /> 
 Mag. Corinna Rotsejdl<br /> 
-und das Team der Tierarztpraxis am Bacherplatz<br />
+und das Team der Tierarztpraxis am Mühlgrund<br />

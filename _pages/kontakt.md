@@ -10,10 +10,10 @@ header:
   overlay_image: /assets/images/title.jpg
 excerpt: "Zentral gelegen und leicht zu erreichen."
 ---
-**Tierarztpraxis am Bacherplatz im 5. Bezirk**  
+**Tierarztpraxis am Mühlgrund im 5. Bezirk**  
 
 Mag. Corinna Rotsejdl  
-Langobardenstrasse 44/4, 1220 Wien  
+Langobardenstrasse 44, 1220 Wien  
 <i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@vetcat.at">praxis@vetcat.at</a>  
 <i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 54 54 976">+43 1 54 54 976</a>
 {: .notice}
