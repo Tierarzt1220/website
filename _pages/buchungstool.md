@@ -14,7 +14,7 @@ excerpt: "Ihr Termin bei uns in 1220 Wien"
 ---
 **Willkommen bei unserem Buchungssystem!**
 
-In unserem Buchungstool können Sie bequem zu jeder Tages- und Nachtzeit einen Termin bei uns buchen. Falls es sich bei Ihrem Anliegen um einen Notfall handelt und Sie noch heute einen Termin brauchen, rufen Sie bitte auf jeden Fall an! <a href="tel:+43 1 54 54 976">+43 1 54 54 976</a>
+In unserem Buchungstool können Sie bequem zu jeder Tages- und Nachtzeit einen Termin bei uns buchen. Falls es sich bei Ihrem Anliegen um einen Notfall handelt und Sie noch heute einen Termin brauchen, rufen Sie bitte auf jeden Fall an! <a href="tel:+43 1 28 32 779">+43 1 28 32 779</a>
 {: .notice--success}
 
 Bitte folgen Sie den Anweisungen im blauen Feld, um Ihre Buchung abzuschließen:
@@ -23,4 +23,4 @@ Bitte folgen Sie den Anweisungen im blauen Feld, um Ihre Buchung abzuschließen:
 
 
 ### Buchen Sie Ihren Tierarzttermin gleich online... 
-...oder rufen Sie unter <a href="tel:+43 1 54 54 976">+43 1 54 54 976</a> in unserer Ordination an. Wir beraten Sie gerne.
+...oder rufen Sie unter <a href="tel:+43 1 28 32 779">+43 1 28 32 779</a> in unserer Ordination an. Wir beraten Sie gerne.

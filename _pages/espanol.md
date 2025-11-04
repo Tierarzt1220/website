@@ -30,13 +30,13 @@ feature_row:
 **Tierarztpraxis am Mühlgrund, Su veterinario en español en el distrito 5 de Viena.**  
 
 
-La Médica Veterinaria Corinna Rotsejdl y su equipo del consultorio veterinario en Bacherplatz (Tierarztpraxis am Mühlgrund) estará encantado de atenderlo en todas las necesidades médicas para sus mascotas. Es para nosotros muy importante la asesoría y el apoyo de forma personal.
+La Médica Veterinaria Corinna Rotsejdl y su equipo del consultorio veterinario en Mühlgrund (Tierarztpraxis am Mühlgrund) estará encantado de atenderlo en todas las necesidades médicas para sus mascotas. Es para nosotros muy importante la asesoría y el apoyo de forma personal.
 
 Nuestro consultorio veterinario, ubicado en el distrito 5 de Viena, está equipado con los equipos más modernos, que están al nivel de una clínica veterinaria. Nuestro objetivo es el combinar la atención personal de una pequeña práctica con el desempeño de una gran clínica veterinaria.
 
 Nosotros estamos atendiendo consulta en alemán, inglés y español.
 
-Para disminuir el tiempo de espera, le pedimos que haga una cita previa, puede ser en nuestro [calendario de citas en línea (esta solo disponible en alemán, pero es muy fácil de usar)](./buchungstool.md) o estaremos atentos de atenderlos en nuestro teléfono +43 1 54 54 976.
+Para disminuir el tiempo de espera, le pedimos que haga una cita previa, puede ser en nuestro [calendario de citas en línea (esta solo disponible en alemán, pero es muy fácil de usar)](./buchungstool.md) o estaremos atentos de atenderlos en nuestro teléfono +43 1 28 32 779.
 
 Esperamos su visita.
 
@@ -45,8 +45,8 @@ Esperamos su visita.
 **Nuestra dirección**  
 Tierarztpraxis am Mühlgrund - Mag. Corinna Rotsejdl  
 Langobardenstrasse 44, 1220 Wien  
-<i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@vetcat.at">praxis@vetcat.at</a>  
-<i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 54 54 976">+43 1 54 54 976</a>
+<i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@tierarzt.cc">praxis@tierarzt.cc</a>  
+<i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 28 32 779">+43 1 28 32 779</a>
 {: .notice}
 
 **Nuestro horario de apertura:**
@@ -62,7 +62,7 @@ Langobardenstrasse 44, 1220 Wien
 
 
 **Encuentre nuestra ordenación en 1220 Viena:**
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2660.017492576028!2d16.35221241598973!3d48.187014455694914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476da82f2e762efb%3A0x205402a529b2d653!2sTierarztpraxis%20am%20Bacherplatz!5e0!3m2!1sde!2sat!4v1650568162198!5m2!1sde!2sat" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2660.017492576028!2d16.35221241598973!3d48.187014455694914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476da82f2e762efb%3A0x205402a529b2d653!2sTierarztpraxis%20am%20Mühlgrund!5e0!3m2!1sde!2sat!4v1650568162198!5m2!1sde!2sat" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br />
 
 **Cómo llegar con transporte público**

@@ -21,8 +21,8 @@ Langobardenstrasse 44<br />
 Österreich<br />
 Website: [vetcat.at](https://vetcat.at)<br />
 UID Nummer: ATU77816026<br />
-Tel.:<a href="tel: +43 1 54 54 976">+43 1 54 54 976</a><br />
-E-Mail: [praxis@vetcat.at](mailto:praxis@vetcat.at)
+Tel.:<a href="tel: +43 1 28 32 779">+43 1 28 32 779</a><br />
+E-Mail: [praxis@tierarzt.cc](mailto:praxis@tierarzt.cc)
 
 **Hinweis: neue Inhaberin seit 1.3.2022**
 

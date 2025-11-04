@@ -23,12 +23,12 @@ liquid:
 
 logo: /assets/images/tab_animals_sml.webp
 name: "Ihr Tierarzt in 1220 Wien"
-title: "Tierarztpraxis Bacherplatz"
+title: "Tierarztpraxis Mühlgrund"
 tagline: "Ihr Tierarzt in Wien"
 description:  "Ihre kompetenten Tierärztinnen in 1220 Wien. Wir freuen uns, für Ihr Haustier da sein zu dürfen. Hund, Katze, Maus, alle Tiere sind bei uns willkommen."
 image: "/assets/images/tab_animals_sml.webp"
 
-email: "praxis@vetcat.at"
+email: "praxis@tierarzt.cc"
 locale: de_AT
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: "vetcat.at"
@@ -76,7 +76,7 @@ defaults:
 include: ["_pages"]
 
 author:
-  name: "Tierarztpraxis <br/>am Bacherplatz <br/> <br/>
+  name: "Tierarztpraxis <br/>am Mühlgrund <br/> <br/>
   Mag. Corinna Rotsejdl"
   bio: "<b>Unsere Öffnungszeiten</b><br/>
 Mo-Fr: 09:30 - 19:00 <br/>
@@ -86,12 +86,12 @@ Sa: 09:30 - 13:30 "
     - label: "Langobardenstrasse 44, 1220 Wien"
       icon: "fa-solid fa-fw fa-location-dot"
       url: "https://www.google.com/maps/place/Tierarztpraxis+am+Bacherplatz/@48.1871774,16.352214,16.87z/data=!4m5!3m4!1s0x476da82f2e762efb:0x205402a529b2d653!8m2!3d48.1870109!4d16.354401?hl=de"
-    - label: "praxis@vetcat.at"
+    - label: "praxis@tierarzt.cc"
       icon: "fa-solid fa-fw fa-envelope"
-      url: "mailto:praxis@vetcat.at"
-    - label: "+43 1 54 54 976"
+      url: "mailto:praxis@tierarzt.cc"
+    - label: "+43 1 28 32 779"
       icon: "fa-solid fa-fw fa-phone"
-      url: "tel:+43 1 54 54 976"
+      url: "tel:+43 1 28 32 779"
     - label: "Facebook"
       icon: "fa-brands fa-fw fa-facebook"
       url: "https://www.facebook.com/TierambulatoriumAmBacherplatz/"
@@ -103,7 +103,7 @@ footer:
   links:
     - label: "E-Mail"
       icon: "fas fa-envelope"
-      url: "mailto:praxis@vetcat.at"
+      url: "mailto:praxis@tierarzt.cc"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/company/tierarztpraxisambacherplatz/"

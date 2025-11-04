@@ -15,8 +15,8 @@ excerpt: "Um zu helfen, kommen wir gerne zu Ihnen."
 
 Tierarztpraxis am Mühlgrund 
 Langobardenstrasse 44, 1220 Wien  
-<i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@vetcat.at">praxis@vetcat.at</a>  
-<i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 54 54 976">+43 1 54 54 976</a>
+<i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@tierarzt.cc">praxis@tierarzt.cc</a>  
+<i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 28 32 779">+43 1 28 32 779</a>
 {: .notice}
 
 
@@ -40,8 +40,8 @@ Wenn Sie einen Hausbesuch wünschen, melden Sie sich bitte telefonisch oder via 
 
 Tierarztpraxis am Mühlgrund 
 Langobardenstrasse 44, 1220 Wien  
-<i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@vetcat.at">praxis@vetcat.at</a>  
-<i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 54 54 976">+43 1 54 54 976</a>
+<i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@tierarzt.cc">praxis@tierarzt.cc</a>  
+<i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 28 32 779">+43 1 28 32 779</a>
 {: .notice}
 
 **Region**

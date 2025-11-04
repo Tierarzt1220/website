@@ -80,5 +80,5 @@ Tierarztpraxis am Mühlgrund<br />
 Mag. Corinna Rotsejdl<br />
 Langobardenstrasse 44<br />
 1220 Wien<br />
-Tel.: <a href="tel:+43 1 54 54 976">+43 1 54 54 976</a><br />
-E-Mail: <i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@vetcat.at">praxis@vetcat.at</a>  
+Tel.: <a href="tel:+43 1 28 32 779">+43 1 28 32 779</a><br />
+E-Mail: <i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@tierarzt.cc">praxis@tierarzt.cc</a>  

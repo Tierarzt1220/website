@@ -22,7 +22,7 @@ Unsere Tierarztpraxis in 1220 Wien sind mit den modernsten Geräten auf Klinik N
 
 Unsere Tierärztinnen und Tierärzte bieten Sprechstunden auf Deutsch, [Englisch](/english/) und [Spanisch](/espanol/) an.
 
-Um Wartezeiten zu vermeiden, bitten wir Sie, sich vor Ihrem Besuch bei uns anzumelden. Entweder in unserem <b>[Online Buchungssystem](/buchungstool/)</b> oder gerne auch telefonisch unter <b><a href="tel:+43 1 54 54 976">+43 1 54 54 976</a></b>.
+Um Wartezeiten zu vermeiden, bitten wir Sie, sich vor Ihrem Besuch bei uns anzumelden. Entweder in unserem <b>[Online Buchungssystem](/buchungstool/)</b> oder gerne auch telefonisch unter <b><a href="tel:+43 1 28 32 779">+43 1 28 32 779</a></b>.
 
 Gerne besuchen wir Sie und Ihre Vierbeiner auch zu Hause! Mit unserem Ordinationsauto kommen wir in ganz Wien zu Ihnen. Mehr dazu: <b>[Hausbesuche](/hausbesuche/)</b>
 
@@ -32,12 +32,15 @@ Tierarztpraxis am Mühlgrund<br />
 Langobardenstraße 44<br />
 1220 Wien  <br />
 <i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@tierarzt.cc">praxis@tierarzt.cc</a>  
-<i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 54 54 976">+43 1 54 54 976</a>
+<i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 28 32 779">+43 1 28 32 779</a>
 {: .notice}
 
 ## Unsere Öffnungszeiten:
 
 | Tag | Öffnungszeiten |
 |-------|--------|
-| Montag - Freitag | TBD |
-| Samstag | TBD | 
+| Montag | 16:00 - 20:00 |
+| Dienstag | 16:00 - 18:00 |
+| Mittwoch | 16:00 - 19:00 |
+| Donnerstag | 16:00 - 18:00 |
+| Freitag | 11:00 - 13:00 |
