@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/images/title.jpg
 excerpt: "Zentral gelegen und leicht zu erreichen."
 ---
-**Tierarztpraxis am Mühlgrund im 5. Bezirk**  
+**Tierarztpraxis am Mühlgrund im 22. Bezirk**  
 
 Mag. Corinna Rotsejdl  
 Langobardenstrasse 44, 1220 Wien  
