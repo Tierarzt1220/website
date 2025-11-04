@@ -3,7 +3,7 @@ title: Terminbuchung
 description: Buchen Sie hier Ihren Termin!
 author_profile: false
 layout: single
-canonical_url: 'https://vetcat.at/'
+canonical_url: 'https://tierarzt.cc/'
 author_profile: false
 permalink: /buchungstool/
 header:

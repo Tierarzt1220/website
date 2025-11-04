@@ -1,6 +1,6 @@
 ---
 title: "Tierarzt Hausbesuch Wien"
-canonical_url: 'https://vetcat.at/'
+canonical_url: 'https://tierarzt.cc/'
 description: "Tierarzt 1010, Tierarzt 1020, Tierarzt 1030, Tierarzt 1040, Tierarzt 1220, Tierarzt 1060, Tierarzt 1070, Tierarzt 1080, Tierarzt 1090, Tierarzt 1100, Tierarzt 1110, Tierarzt 1120, Tierarzt 1130, Tierarzt Meidling, Tierarzt 1140, Tierarzt 1150, Tierarzt 1160, Tierarzt 1170, Tierarzt 1180, Tierarzt 1190, Tierarzt 1200, Tierarzt 1210, Tierarzt 1220, Tierarzt 1230"
 layout: single
 permalink: /hausbesuche/

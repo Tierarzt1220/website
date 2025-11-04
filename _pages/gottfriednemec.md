@@ -3,7 +3,7 @@ title: "Mag. med. vet. Gottfried Nemec"
 description: "Tierarzt"
 layout: single
 permalink: /team/gottfriednemec/
-canonical_url: 'https://vetcat.at/team/'
+canonical_url: 'https://tierarzt.cc/team/'
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

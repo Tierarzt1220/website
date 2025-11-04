@@ -4,7 +4,7 @@ description: "Tierärztin"
 layout: single
 classes: wide
 permalink: /team/corinnarotsejdl/
-canonical_url: 'https://vetcat.at/team/'
+canonical_url: 'https://tierarzt.cc/team/'
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

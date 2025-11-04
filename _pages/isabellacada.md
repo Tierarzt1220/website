@@ -3,7 +3,7 @@ title: "Isabella Cada"
 description: "Tierpflegerin"
 layout: single
 permalink: /team/isabellacada/
-canonical_url: 'https://vetcat.at/team/'
+canonical_url: 'https://tierarzt.cc/team/'
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

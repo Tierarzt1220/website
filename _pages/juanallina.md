@@ -3,7 +3,7 @@ title: "Mag. med. vet. Juan Allina"
 description: "Tierarzt"
 layout: single
 permalink: /team/juanallina/
-canonical_url: 'https://vetcat.at/team/'
+canonical_url: 'https://tierarzt.cc/team/'
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

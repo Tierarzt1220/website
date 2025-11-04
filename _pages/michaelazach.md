@@ -3,7 +3,7 @@ title: "Mag. med. vet. Michaela Zach"
 description: "Tierarzt"
 layout: single
 permalink: /team/michaelazach/
-canonical_url: 'https://vetcat.at/team/'
+canonical_url: 'https://tierarzt.cc/team/'
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

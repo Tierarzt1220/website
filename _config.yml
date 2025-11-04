@@ -31,8 +31,8 @@ image: "/assets/images/tab_animals_sml.webp"
 email: "praxis@tierarzt.cc"
 locale: de_AT
 baseurl: "" # the subpath of your site, e.g. /blog
-domain: "vetcat.at"
-url: "https://vetcat.at" # the base hostname & protocol for your site, e.g. http://example.com
+domain: "tierarzt.cc"
+url: "https://tierarzt.cc" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 #github_username: migocode
 social:
@@ -42,7 +42,7 @@ social:
     - https://www.instagram.com/tierarztpraxisambacherplatz
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "default"  # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "mint"  # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 plugins:
   - jekyll-paginate
   - jekyll-data
