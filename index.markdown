@@ -16,15 +16,14 @@ header:
 
 ## Liebe Tierbesitzerinnen und Tierbesitzer,
 
-Mag. Corinna Rotsejdl und das Team der Tierarztpraxis am Mühlgrund kümmern sich gerne um alle medizinischen Bedürfnisse Ihres Haustieres. Dabei ist uns persönliche Beratung und Betreuung besonders wichtig.
+Ab dem 1.1.2026 ist dies die neue Website der Tierarztpraxis am Mühlgrund.
+Nachdem die geschätzte Kollegin, Dipl. Tierarzt. Eva Panner Frisch in den Ruhestand geht, wird die Ordination von Mag. Corinna Rotsejdl und ihrem erfahrenen Team weitergeführt. Wir kümmern uns gerne um alle medizinischen Bedürfnisse Ihres Haustieres. Dabei ist uns persönliche Beratung und Betreuung besonders wichtig.
 
-Unsere Tierarztpraxis in 1220 Wien sind mit den modernsten Geräten auf Klinik Niveau ausgestattet. Unser Ziel ist es, die persönliche Betreuung einer kleinen Tierarztpraxis mit der Leistung einer großen Tierklinik zu vereinen.
+Wir sind ein eingespieltes Team von Tierärzten und Tieräztinnen, und betreiben bereits im 5. Bezirk die Tierarztpraxis am Bacherplatz. Ab 1.1.2026, freuen wir uns sehr, unsere Erfahrung und Tierliebe auch hier, in der Tierarztpraxis am Mühlgrund einzubringen!
+Unser Ziel ist es, die persönliche Betreuung einer kleinen Tierarztpraxis mit der Leistung einer großen Tierklinik zu vereinen.
 
 Unsere Tierärztinnen und Tierärzte bieten Sprechstunden auf Deutsch, [Englisch](/english/) und [Spanisch](/espanol/) an.
 
-Um Wartezeiten zu vermeiden, bitten wir Sie, sich vor Ihrem Besuch bei uns anzumelden. Entweder in unserem <b>[Online Buchungssystem](/buchungstool/)</b> oder gerne auch telefonisch unter <b><a href="tel:+43 1 28 32 779">+43 1 28 32 779</a></b>.
-
-Gerne besuchen wir Sie und Ihre Vierbeiner auch zu Hause! Mit unserem Ordinationsauto kommen wir in ganz Wien zu Ihnen. Mehr dazu: <b>[Hausbesuche](/hausbesuche/)</b>
 
 Wir freuen uns auf Ihren Besuch!
 
