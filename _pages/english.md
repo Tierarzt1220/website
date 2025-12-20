@@ -57,11 +57,11 @@ Langobardenstrasse 44, 1220 Wien
 
 | Day | Time |
 |-------|--------|
-| Monday | 16:00 - 20:00 |
-| Tuesday | 16:00 - 18:00 |
-| Wednesday | 16:00 - 19:00 |
-| Thursday | 16:00 - 18:00 |
-| Friday | 11:00 - 13:00 |
+| Monday | 15:00 - 19:00 |
+| Tuesday | 15:00 - 19:00 |
+| Wednesday | 15:00 - 19:00 |
+| Thursday | 15:00 - 19:00 |
+| Friday | 09:30 - 19:00 |
 
 <br />
 
