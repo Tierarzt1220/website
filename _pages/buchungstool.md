@@ -14,13 +14,11 @@ excerpt: "Ihr Termin bei uns in 1220 Wien"
 ---
 **Willkommen bei unserem Buchungssystem!**
 
-In unserem Buchungstool können Sie ab 1.1.2026 online Ihre Termine bei uns buchen!<!--bequem zu jeder Tages- und Nachtzeit einen Termin bei uns buchen. Falls es sich bei Ihrem Anliegen um einen Notfall handelt und Sie noch heute einen Termin brauchen, rufen Sie bitte auf jeden Fall an! <a href="tel:+43 1 28 32 779">+43 1 28 32 779</a>
+
 {: .notice--success}
-<!-->
-Bitte folgen Sie den Anweisungen im blauen Feld, um Ihre Buchung abzuschließen:
-!<iframe src="https://bacherplatz.vet-booking.net" width="100%" height="990" style="border:0;" allowfullscreen="" loading="eager" scrolling="no" referrerpolicy="no-referrer-when-downgrade"></iframe>
+Leider ist unser Buchungstool aktuell noch nicht verfügbar. Sobald es online ist, werden Sie es an genaus dieser Stelle finden. Danke für Ihr Verständnis!
 {: .notice}
-!-->
+
 
 ### Buchen Sie Ihren Tierarzttermin gleich online... 
 ...oder rufen Sie unter <a href="tel:+43 1 28 32 779">+43 1 28 32 779</a> in unserer Ordination an. Wir beraten Sie gerne.
