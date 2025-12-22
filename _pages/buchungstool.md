@@ -16,7 +16,7 @@ excerpt: "Ihr Termin bei uns in 1220 Wien"
 
 
 {: .notice--success}
-Leider ist unser Buchungstool aktuell noch nicht verfügbar. Sobald es online ist, werden Sie es an genaus dieser Stelle finden. Danke für Ihr Verständnis!
+Leider ist unser Buchungstool aktuell noch nicht verfügbar. Sobald es online ist, werden Sie es an genau dieser Stelle finden. Danke für Ihr Verständnis!
 {: .notice}
 
 
