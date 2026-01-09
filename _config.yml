@@ -25,7 +25,7 @@ logo: /assets/images/tab_animals_sml.webp
 name: "Ihr Tierarzt in 1220 Wien"
 title: "Tierarztpraxis Mühlgrund"
 tagline: "Ihr Tierarzt in Wien"
-description:  "Ihre kompetenten Tierärztinnen in 1220 Wien. Wir freuen uns, für Ihr Haustier da sein zu dürfen. Hund, Katze, Maus, alle Tiere sind bei uns willkommen."
+description:  "Ihre kompetenten TierärztInnen in 1220 Wien. Wir freuen uns, für Ihr Haustier da sein zu dürfen. Hund, Katze, Maus, alle Tiere sind bei uns willkommen."
 image: "/assets/images/tab_animals_sml.webp"
 
 email: "praxis@tierarzt.cc"
@@ -38,8 +38,8 @@ url: "https://tierarzt.cc" # the base hostname & protocol for your site, e.g. ht
 social:
   name: "Tierarztpraxis am Mühlgrund"
   links:
-    - https://www.facebook.com/TierambulatoriumAmBacherplatz
-    - https://www.instagram.com/tierarztpraxisambacherplatz
+    - https://www.facebook.com/199155823471124
+    - https://www.instagram.com/tierarztpraxisammuehlgrund
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "dirt"  # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
@@ -76,7 +76,7 @@ defaults:
 include: ["_pages"]
 
 author:
-  name: "Tierarztpraxis <br/>am Mühlgrund <br/> <br/>
+  name: "Tierarztpraxis am Mühlgrund <br/> <br/>
   Mag. Corinna Rotsejdl"
   bio: "<b>Unsere Öffnungszeiten</b><br/>
 Mo-Do: 15:00 - 19:00 <br/>
@@ -94,10 +94,10 @@ Fr: 09:30 - 19:00"
       url: "tel:+43 1 28 32 779"
     - label: "Facebook"
       icon: "fa-brands fa-fw fa-facebook"
-      url: "https://www.facebook.com/TierambulatoriumAmBacherplatz/"
+      url: "https://www.facebook.com/199155823471124"
     - label: "Instagram"
       icon: "fa-brands fa-fw fa-instagram"
-      url: "https://www.instagram.com/tierarztpraxisambacherplatz/"
+      url: "https://www.instagram.com/tierarztpraxisammuehlgrund"
 
 footer:
   links:
@@ -109,10 +109,10 @@ footer:
       url: "https://www.linkedin.com/company/tierarztpraxisambacherplatz/"
     - label: "Facebook"
       icon: "fab fa-facebook"
-      url: "https://www.facebook.com/TierambulatoriumAmBacherplatz/"
+      url: "https://www.facebook.com/199155823471124"
     - label: "Instagram"
       icon: "fa-brands fa-fw fa-instagram"
-      url: "https://www.instagram.com/tierarztpraxisambacherplatz/"
+      url: "https://www.instagram.com/tierarztpraxisammuehlgrund"
 
 atom_feed:
   hide: true
