@@ -85,7 +85,7 @@ Fr: 09:30 - 19:00"
   links:
     - label: "Langobardenstrasse 44, 1220 Wien"
       icon: "fa-solid fa-fw fa-location-dot"
-      url: "https://www.google.com/maps/place/Tierarztpraxis+am+Bacherplatz/@48.1871774,16.352214,16.87z/data=!4m5!3m4!1s0x476da82f2e762efb:0x205402a529b2d653!8m2!3d48.1870109!4d16.354401?hl=de"
+      url: "https://maps.app.goo.gl/33UCWQS7CZb23Yoz5"
     - label: "praxis@tierarzt.cc"
       icon: "fa-solid fa-fw fa-envelope"
       url: "mailto:praxis@tierarzt.cc"
