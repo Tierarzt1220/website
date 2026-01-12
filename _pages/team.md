@@ -50,6 +50,13 @@ feature_row:
     url: "/team/annazacher/"
     btn_label: "Mehr"
     btn_class: "btn--inverse"
+  - image_path: "/assets/images/johanna.jpg" 
+    alt: "Mag. med. vet. Johanna Mihalko"
+    title: "Mag. med. vet. Johanna Mihalko"
+    excerpt: "Tierärztin"
+    url: "/team/johannamihalko/"
+    btn_label: "Mehr"
+    btn_class: "btn--inverse"
 ---
 Wir freuen uns, Ihnen unser professionelles und engagiertes Tierarzt-Team vorzustellen.
 
