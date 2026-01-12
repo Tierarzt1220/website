@@ -13,7 +13,7 @@ excerpt: "Tierarztpraxis am Mühlgrund : Unser Team"
 
 **Mag. med. vet. Johanna Mihalko**
 
-![Mag. med. vet. Gottfried Nemec](/assets/images/johanna_large.jpg){: .align-left style="width: 50%;"}
+![Mag. med. vet. Johanna Mihalko](/assets/images/johanna_large.jpg){: .align-left style="width: 50%;"}
 
 Schon seit meiner Kindheit begleiten mich Tiere und die Faszination für sie habe ich in jungen Jahren entdeckt - heute darf ich meine Leidenschaft als Tierärztin täglich ausüben. Nach meinem Studium an der Veterinärmedizinischen Universität Wien und der Erfahrungsammlung in diversen Tierarztpraxen freue ich mich, Teil der Tierarztpraxis am Mühlgrund zu sein.
 Mein besonderes Interesse gilt der Allgemeinmedizin, da sie eine ganzheitliche Betreuung unserer Patienten ermöglicht und sowohl präventive als auch diagnostische und therapeutische Aspekte vereint. Außerdem besuche ich den Universitätslehrgang für Certified Canine Rehabilitation Practioner (Physiotherapie), um Hunde nach Operationen, Verletzungen oder bei chronischer Erkrankungen gezielt unterstützen zu können. 
