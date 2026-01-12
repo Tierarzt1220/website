@@ -2,14 +2,6 @@
 title: Gallerie
 permalink: /gallery/
 gallery:
-  - url: assets/images/exterior2_large.jpeg
-    image_path: assets/images/exterior2.jpeg
-    alt: "Unsere Praxis von außen"
-    title: "Unsere Praxis von außen"
-  - url: assets/images/exterior1_large.jpeg
-    image_path: assets/images/exterior1.jpeg
-    alt: "Unsere Praxis von außen"
-    title: "Unsere Praxis von außen"
   - url: assets/images/blutdruck_large.jpeg
     image_path: assets/images/blutdruck.jpeg
     alt: "Blutdruckmessung bei einem Hund"
@@ -26,10 +18,6 @@ gallery:
     image_path: assets/images/cassy.jpg
     alt: "Cassy"
     title: "Cassy"
-  - url: assets/images/wartezimmer1_large.jpeg
-    image_path: assets/images/wartezimmer1.jpeg
-    alt: "Wartezimmer"
-    title: "Wartezimmer"
 ---
 
 ## Willkommen bei unserer Fotogallerie
