@@ -20,7 +20,7 @@ Wir bieten Ihnen das komplette Leistungsspektrum der modernen Veterinärmedizin 
 - Hauseigenes Blutlabor
 - Ultraschall
 - EKG
-- Digitales Detektor Röntgen
+- Digitales Röntgen
 - Gynäkologie
 - Urologie
 - Dermatologie
