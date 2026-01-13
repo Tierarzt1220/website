@@ -39,7 +39,8 @@ Unsere Ordination ist wenige Schritte von der Reinprechtsdorferstrasse entfernt,
 Wir sind Ihr idealer Ansprechpartner für Tiergesundheit. Ihr Tierarzt in 1220 Wien.
 Sie erreichen uns leicht mit den öffentlichen Verkehrsmitteln:
 <div>
-  <i class="fa-solid fa-fw fa-train-subway"></i> U2 (Hardeggasse)<br />
+  <i class="fa-solid fa-fw fa-train-subway"></i> Ubahn Linie U2, Station Hardeggasse<br />
+  <i class="fa-solid fa-fw fa-bus"></i> Autobus 95A Station Hardeggasse<br />
   <i class="fa-solid fa-fw fa-tram"></i>Straßenbahnlinie 25 Station Hardeggasse<br />
 </div>{: .notice}
 
