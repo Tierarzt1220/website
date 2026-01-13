@@ -40,8 +40,7 @@ Wir sind Ihr idealer Ansprechpartner für Tiergesundheit. Ihr Tierarzt in 1220 W
 Sie erreichen uns leicht mit den öffentlichen Verkehrsmitteln:
 <div>
   <i class="fa-solid fa-fw fa-train-subway"></i> U2 (Hardeggasse)<br />
-  <i class="fa-solid fa-fw fa-bus"></i> 12A, 14A, 59A (Reinprechtsdorf Straße, Arbeitergasse)<br />
-
+  <i class="fa-solid fa-fw fa-tram"></i>Straßenbahnlinie 25 Station Hardeggasse<br />
 </div>{: .notice}
 
 
