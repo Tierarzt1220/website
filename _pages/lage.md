@@ -51,7 +51,6 @@ Sie erreichen uns leicht mit den öffentlichen Verkehrsmitteln:
 Mit unserem Online Buchungstool können Sie zu jeder Tageszeit einen Termin bei uns ausmachen!
 [Buchungstool](./buchungstool.md)
 
-**Tierarzt für Ihren Bezirk!**
+**Besuchen Sie auch unsere Zweigstelle in der Margareten - die Tierarztpraxis am Bacherplatz!
 
-Unser Einzugsgebiet geht weit über den 22. Bezirk hinaus!
-Unsere lieben Patienten kommen häufig aus Favoriten (1100), Hauptbahnhof und Sonnwendviertel, aus Wien Landstraße (1030), Wien Meidling (1120), Mariahilf (1060), Neubau (1070), Rudolfsheim-Fünfhaus (1150) und Innere Stadt (1010).
+Im Herzen von 1050 Wien! [www.vetcat.at](www.vetcat.at)
