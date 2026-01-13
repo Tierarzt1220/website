@@ -27,12 +27,12 @@ feature_row:
    
 ---
 
-**Tierarztpraxis am Mühlgrund, Su veterinario en español en el distrito 5 de Viena.**  
+**Tierarztpraxis am Mühlgrund, Su veterinario en español en el distrito 22 de Viena.**  
 
 
 La Médica Veterinaria Corinna Rotsejdl y su equipo del consultorio veterinario en Mühlgrund (Tierarztpraxis am Mühlgrund) estará encantado de atenderlo en todas las necesidades médicas para sus mascotas. Es para nosotros muy importante la asesoría y el apoyo de forma personal.
 
-Nuestro consultorio veterinario, ubicado en el distrito 5 de Viena, está equipado con los equipos más modernos, que están al nivel de una clínica veterinaria. Nuestro objetivo es el combinar la atención personal de una pequeña práctica con el desempeño de una gran clínica veterinaria.
+Nuestro consultorio veterinario, ubicado en el distrito 22 de Viena, está equipado con los equipos más modernos, que están al nivel de una clínica veterinaria. Nuestro objetivo es el combinar la atención personal de una pequeña práctica con el desempeño de una gran clínica veterinaria.
 
 Nosotros estamos atendiendo consulta en alemán, inglés y español.
 
@@ -71,6 +71,8 @@ Langobardenstrasse 44, 1220 Wien
 
 **Cómo llegar con transporte público**
 <div>
-  <b>Wiener Linien Stations near us:</b><br />  <i class="fa-solid fa-fw fa-train-subway"></i> U2 Hardeggasse<br />
-  <i class="fa-solid fa-fw fa-bus"></i> Bus 95A, Tramway 25<br />
+  <b>Wiener Linien Stations near us:</b><br /> 
+  <i class="fa-solid fa-fw fa-bus"></i> Bus 95A<br />
+  <i class="fa-solid fa-fw fa-train-subway"></i> U2 Hardeggasse<br />
+  <i class="fa-solid fa-fw fa-tram"></i>25<br />
 </div>{: .notice}
