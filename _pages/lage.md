@@ -51,6 +51,6 @@ Sie erreichen uns leicht mit den öffentlichen Verkehrsmitteln:
 Mit unserem Online Buchungstool können Sie zu jeder Tageszeit einen Termin bei uns ausmachen!
 [Buchungstool](./buchungstool.md)
 
-**Besuchen Sie auch unsere Zweigstelle in der Margareten - die Tierarztpraxis am Bacherplatz!
+**Besuchen Sie auch unsere Zweigstelle in der Margareten - die Tierarztpraxis am Bacherplatz!**
 
 Im Herzen von 1050 Wien! [www.vetcat.at](www.vetcat.at)
