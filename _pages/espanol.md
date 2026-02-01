@@ -1,5 +1,5 @@
 ---
-title: Bienvenidos hispanohablantes!
+title: ¡Bienvenidos, hispanohablantes!
 description: Veterinario de habla inglesa 1220 Viena.
 classes: wide
 layout: single
@@ -44,7 +44,7 @@ Esperamos su visita.
 
 **Nuestra dirección**  
 Tierarztpraxis am Mühlgrund - Mag. Corinna Rotsejdl  
-Langobardenstrasse 44, 1220 Wien  
+Langobardenstraße 44, 1220 Wien  
 <i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@tierarzt.cc">praxis@tierarzt.cc</a>  
 <i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 28 32 779">+43 1 28 32 779</a>
 {: .notice}
@@ -53,11 +53,11 @@ Langobardenstrasse 44, 1220 Wien
 
 | día | tiempo |
 |-------|--------|
-| Montag | 15:00 - 19:00 |
-| Dienstag | 15:00 - 19:00 |
-| Mittwoch | 15:00 - 19:00 |
-| Donnerstag | 15:00 - 19:00 |
-| Freitag | 09:30 - 19:00 |
+| Lunes | 15:00 - 19:00 |
+| Martes | 15:00 - 19:00 |
+| Miércoles | 15:00 - 19:00 |
+| Jueves | 15:00 - 19:00 |
+| Viernes | 09:30 - 19:00 |
 
 
 <br />
@@ -72,7 +72,7 @@ Langobardenstrasse 44, 1220 Wien
 **Cómo llegar con transporte público**
 <div>
   <b>Wiener Linien Stations near us:</b><br /> 
-  <i class="fa-solid fa-fw fa-bus"></i> Bus 95A<br />
-  <i class="fa-solid fa-fw fa-train-subway"></i> U2 Hardeggasse<br />
-  <i class="fa-solid fa-fw fa-tram"></i>25<br />
+  <i class="fa-solid fa-fw fa-bus"></i>Autobús 95A<br />
+  <i class="fa-solid fa-fw fa-train-subway"></i>Metro U2 (Hardeggasse)<br />
+  <i class="fa-solid fa-fw fa-tram"></i>Tranvía 25<br />
 </div>{: .notice}
