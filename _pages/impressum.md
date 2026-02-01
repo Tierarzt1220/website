@@ -34,11 +34,11 @@ Beim Verfassen der auf dieser Website veröffentlichten Texte und Informationen 
 
 **Copyright & Nutzungsbestimmungen**
 
-Die auf dieser Website veröffentlichten Inhalte sind urheberrechtlich geschützt. Eine Verwendeung erfordert die schriftliche Zustimmung des Medieninhabers (Mag. Corinna Rotsejdl).
+Die auf dieser Website veröffentlichten Inhalte sind urheberrechtlich geschützt. Eine Verwendung erfordert die schriftliche Zustimmung des Medieninhabers (Mag. Corinna Rotsejdl).
 Darüber hinaus kommen auf [tierarzt.cc](https://tierarzt.cc) Bilder von unsplash.com zur Verwendung Lizenz: [Unsplash](https://unsplash.com/license).
 
 **Links** 
 
 Links zu [tierarzt.cc](https://tierarzt.cc) (inkl. einzelner Seiten) sind  zulässig und auch erwünscht. Nicht gestattet ist lediglich die direkte Verlinkung der eingebundenen Grafiken.
 
-Für Links von [tierarzt.cc](https://tierarzt.cc) zu externen Seiten wird keine Haftung übernommen (geregelt durch § 17 ECG). Grundsätzlich gilt, dass alle auf [tierarzt.cc](https://tierarzt.cc) gesetzen Links überprüft wurden und zum Zeitpunkt ihrer Verlinkung keinerlei rechtswidrigen oder bedenklichen Inhalt hatten. Sollte Ihnen dennoch ein solcher Link auffallen (etwa, weil sich der Inhalt in der Zwischenzeit geändert hat), bitten wir um entsprechende Mitteilung per E-Mail. Der Link wird dann unverzüglich entfernt.
+Für Links von [tierarzt.cc](https://tierarzt.cc) zu externen Seiten wird keine Haftung übernommen (geregelt durch § 17 ECG). Grundsätzlich gilt, dass alle auf [tierarzt.cc](https://tierarzt.cc) gesetzten Links überprüft wurden und zum Zeitpunkt ihrer Verlinkung keinerlei rechtswidrigen oder bedenklichen Inhalt hatten. Sollte Ihnen dennoch ein solcher Link auffallen (etwa, weil sich der Inhalt in der Zwischenzeit geändert hat), bitten wir um entsprechende Mitteilung per E-Mail. Der Link wird dann unverzüglich entfernt.
