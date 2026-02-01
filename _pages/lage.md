@@ -31,7 +31,7 @@ Langobardenstrasse 44, 1220 Wien
 Unsere Ordination ist wenige Schritte von der U2 Station Hardeggasse entfernt, in der Langobardenstrasse 44. Zwischen dem Donauspital (Klinik Donaustadt) und Stadlau.
 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2660.017492576028!2d16.35221241598973!3d48.187014455694914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476da82f2e762efb%3A0x205402a529b2d653!2sTierambulatorium%20am%20Mühlgrund!5e0!3m2!1sde!2sat!4v1650568162198!5m2!1sde!2sat" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe width="100%" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://maps.google.com/maps?width=100%25&amp;height=450&amp;hl=en&amp;q=Langobardenstrasse%2044+(Tierarztpraxis%20am%20M%C3%BChlgrund)&amp;t=&amp;z=16&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
 
 
 **Ihr Tierarzt Team in der Nähe!**
