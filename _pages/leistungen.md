@@ -22,7 +22,7 @@ feature_row:
   - image_path: /assets/images/blutdruck.jpeg
     alt: "Diagnostik"
     title: "Diagnostik"
-    excerpt: "Digital Röngtgen, Ultraschall, EKG, In-House Labor, Blutdruckmessung"
+    excerpt: "Digital Röntgen, Ultraschall, EKG, In-House Labor, Blutdruckmessung"
     url: "/diagnostik/"
     btn_label: "Mehr lesen"
     btn_class: "btn--inverse"
