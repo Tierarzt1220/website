@@ -54,7 +54,7 @@ Informationen zum Drittanbieter:
 
 Google Conversion Tracking Tag 
 Auf dieser Website kommt das Google Conversion Tag zum Einsatz. Conversion Tag ist ein Tool zur Bestätigung von Buchungen über Google Ads. Das Tool selbst erfasst keine personenbezogenen Daten. Es erfasst lediglich eine technische ID. 
-[Details in der Anleidung zu Google Tags](https://developers.google.com/tag-platform/devguides/cross-domain)
+[Details in der Anleitung zu Google Tags](https://developers.google.com/tag-platform/devguides/cross-domain)
 [Datenschutzerklärung von Google](https://policies.google.com/privacy)
 [Datenverarbeitungsbedingungen für Google Ads](https://privacy.google.com/businesses/processorterms/)
 Informationen zum Drittanbieter:
