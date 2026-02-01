@@ -11,7 +11,7 @@ header:
 excerpt: "Um zu helfen, kommen wir gerne zu Ihnen."
 ---
 
-**Ihre TierärztInnen in Wien**
+**Ihre Tierärztinnen und Tierärzte in Wien**
 
 Tierarztpraxis am Mühlgrund 
 Langobardenstrasse 44, 1220 Wien  
@@ -28,7 +28,7 @@ Wir sind stets bemüht, für Sie kosteneffiziente Lösungen zu finden, deshalb w
 
 **Kosten für einen Hausbesuch**
 
-Wir besuchen Sie gerne in ganz Wien. Dabei wird je nach Distanz zu unserer Ordination eine feste Fahrpauschale berechnet.  Zu dieser Pauschale fallen dann die regulären Behandlungskosten an, wie sie auch in der Ordination anfallen würden.
+Wir besuchen Sie gerne in ganz Wien. Dabei wird je nach Distanz zu unserer Ordination eine feste Fahrpauschale berechnet. Zu dieser Pauschale fallen dann die regulären Behandlungskosten an, wie sie auch in der Ordination anfallen würden.
 
 **Alle Möglichkeiten**
 
