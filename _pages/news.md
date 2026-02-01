@@ -8,7 +8,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/news.jpg
-excerpt: Aktuelles und spannende Artikel über Prävention, Kranktheiten und Therapien
+excerpt: Aktuelles und spannende Artikel über Prävention, Krankheiten und Therapien
 
 ---
 
