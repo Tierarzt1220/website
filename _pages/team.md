@@ -64,5 +64,5 @@ Unser Team besteht aus fünf erfahrenen Tierärztinnen und Tierärzten sowie ein
 
  Kontaktieren Sie uns noch heute, um einen Termin zu vereinbaren und erfahren Sie mehr darüber, wie wir Ihnen und Ihren Haustieren helfen können.
 
-Einblicke in unseren Arbeitsalltag bekommen Sie in unserer Fotogallerie!
-[Zur Fotogallerie](/gallery/)
+Einblicke in unseren Arbeitsalltag bekommen Sie in unserer Fotogalerie!
+[Zur Fotogalerie](/gallery/)
