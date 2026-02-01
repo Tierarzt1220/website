@@ -40,7 +40,7 @@ Unsere Website ist so gestaltet, dass sie keine Cookies benutzt.
 
 **Datenverwendung bei Anmeldung zur Impferinnerung**
 
-Wenn Sie sich zu einem unserer Impferinnerung anmelden, verwenden wir die hierfür erforderlichen, von Ihnen mitgeteilten personenbezogenen Daten, um Ihnen anlässlich der Fälligkeit der nächsten Impfung Ihres Haustiers eine E-Mail an Sie zu senden. Bei der Anmeldung werden personenbezogene Daten auch an unseren IT-Diensleister weitergegeben. Die Abmeldung von Impferinnerungen ist jederzeit möglich und kann entweder per E-Mail erfolgen. Mit der Abmeldung löschen wir umgehend Ihre personenbezogenen Daten im Zusammenhang mit dem Impferinnerungs-Versand.
+Wenn Sie sich zu einem unserer Impferinnerung anmelden, verwenden wir die hierfür erforderlichen, von Ihnen mitgeteilten personenbezogenen Daten, um Ihnen anlässlich der Fälligkeit der nächsten Impfung Ihres Haustiers eine E-Mail an Sie zu senden. Bei der Anmeldung werden personenbezogene Daten auch an unseren IT-Dienstleister weitergegeben. Die Abmeldung von Impferinnerungen ist jederzeit möglich und kann entweder per E-Mail erfolgen. Mit der Abmeldung löschen wir umgehend Ihre personenbezogenen Daten im Zusammenhang mit dem Impferinnerungs-Versand.
 Informationen zu den Drittanbietern:
 -	Impferinnerungen: CHD Electronic Engineering, Christian Dumhart Sperlgasse 13, 2284 Untersiebenbrunn
 
@@ -53,7 +53,7 @@ Informationen zum Drittanbieter:
 **Verwendung von Google-Diensten für Statistiken**
 
 Google Conversion Tracking Tag 
-Auf dieser Website kommt das Google Conversion Tag zum Einsatz. Conversion Tag ist ein Tool zur Bestätigung von Buchungen über google ads. Das Tool selbst erfasst keine personenbezogenen Daten. Es erfasst lediglich eine technische ID. 
+Auf dieser Website kommt das Google Conversion Tag zum Einsatz. Conversion Tag ist ein Tool zur Bestätigung von Buchungen über Google Ads. Das Tool selbst erfasst keine personenbezogenen Daten. Es erfasst lediglich eine technische ID. 
 [Details in der Anleidung zu Google Tags](https://developers.google.com/tag-platform/devguides/cross-domain)
 [Datenschutzerklärung von Google](https://policies.google.com/privacy)
 [Datenverarbeitungsbedingungen für Google Ads](https://privacy.google.com/businesses/processorterms/)
@@ -68,7 +68,7 @@ Wir binden Inhalte Dritter auf unserer Website ein, um unser Angebot zu vervolls
 
 **Ihre Rechte**
 
-Sie haben das Recht auf jederzeitige unentgeltliche Auskunft über die bei uns zu Ihrer Person gespeicherten Daten sowie ein Recht auf Berichtigung und Löschung dieser personenbezogenen Daten. Sie haben weiters das Recht auf Einschränkung der Verarbeitung sämtlicher erhobener Daten. Sie können die ungehinderte und uneingeschränkte Übermittlung erhobener personenbezogener Daten an einen Dritten verlangen. Haben Sie uns eine Einwilligung zur Datenverarbeitung erteilt, so können Sie diese jederzeit für die zukünfitge Verarbeitung widerrufen. 
+Sie haben das Recht auf jederzeitige unentgeltliche Auskunft über die bei uns zu Ihrer Person gespeicherten Daten sowie ein Recht auf Berichtigung und Löschung dieser personenbezogenen Daten. Sie haben weiters das Recht auf Einschränkung der Verarbeitung sämtlicher erhobener Daten. Sie können die ungehinderte und uneingeschränkte Übermittlung erhobener personenbezogener Daten an einen Dritten verlangen. Haben Sie uns eine Einwilligung zur Datenverarbeitung erteilt, so können Sie diese jederzeit für die zukünftige Verarbeitung widerrufen. 
 Sie können aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung Sie betreffender personenbezogener Daten, die zur Wahrung berechtigter Interessen des Verantwortlichen oder eines Dritten erforderlich sind, Widerspruch einlegen. Ihre Daten werden nach Widerspruch nicht mehr verarbeitet, es sei denn, es liegen zwingende schutzwürdige Gründe für die Verarbeitung vor, die Ihre Interessen, Rechte und Freiheiten überwiegen oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen. 
 Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt oder Ihre datenschutzrechtlichen Ansprüche sonst in einer Weise verletzt worden sind, können Sie sich bei der Aufsichtsbehörde beschweren. In Österreich ist dies die Datenschutzbehörde (dsb@dsb.gv.at; Barichgasse 40-42, 1030 Wien).  
 
