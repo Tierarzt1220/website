@@ -1,5 +1,5 @@
 ---
-title: Gallerie
+title: Galerie
 permalink: /gallery/
 gallery:
   - url: assets/images/blutdruck_large.jpeg
@@ -20,7 +20,7 @@ gallery:
     title: "Cassy"
 ---
 
-## Willkommen bei unserer Fotogallerie
+## Willkommen bei unserer Fotogalerie
 Hier zeigen wir Ihnen von Zeit zu Zeit ein paar Schnappschüsse von unserem Ordinationsalltag.
 
 {% include gallery layout="half" %}
