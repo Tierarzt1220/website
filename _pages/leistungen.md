@@ -22,7 +22,7 @@ feature_row:
   - image_path: /assets/images/blutdruck.jpeg
     alt: "Diagnostik"
     title: "Diagnostik"
-    excerpt: "Digital Röntgen, Ultraschall, EKG, In-House Labor, Blutdruckmessung"
+    excerpt: "Digitales Röntgen, Ultraschall, EKG, In-House Labor, Blutdruckmessung"
     url: "/diagnostik/"
     btn_label: "Mehr lesen"
     btn_class: "btn--inverse"
@@ -35,7 +35,7 @@ feature_row:
     btn_class: "btn--inverse"
 ---
 
-Dafür haben wir alle möglichkeiten der modernen Schulmedizin. Zusätzlich helfen komplementärmedizinische Therapien, die Selbstheilungskräfte des Körpers zu stärken und ein langfristiges Gleichgewicht wieder herzustellen.
+Dafür haben wir alle Möglichkeiten der modernen Schulmedizin. Zusätzlich helfen komplementärmedizinische Therapien, die Selbstheilungskräfte des Körpers zu stärken und ein langfristiges Gleichgewicht wiederherzustellen.
 
 Hier finden Sie einen Überblick über die medizinischen Bereiche, unsere Möglichkeiten der Diagnostik sowie darüber hinausgehende medizinische Betreuung und Dienstleistungen für unsere Patienten.
 
