@@ -11,7 +11,7 @@ header:
   overlay_image: /assets/images/kontakt.jpg
   actions:
     - label: "Termin buchen!"
-      url: "mailto:praxis@tierarzt.cc"
+      url: "/buchungstool/"
 ---
 
 ## Liebe Tierbesitzerinnen und Tierbesitzer,
