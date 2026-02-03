@@ -15,10 +15,10 @@ excerpt: "Ihr Termin bei uns in 1220 Wien"
 **Willkommen bei unserem Buchungssystem!**
 
 
-{: .notice--success}
-Leider ist unser Buchungstool aktuell noch nicht verfügbar. Sobald es online ist, werden Sie es an genau dieser Stelle finden. Danke für Ihr Verständnis!
-{: .notice}
 
+<!-- Google Calendar Appointment Scheduling begin -->
+<iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ2t375kzHzVSuROY7an2pDtjuOuEIU_1pjczjm5DAdvflV_9SF3YjkivJ_n1gbTgO-huoMgtEyr?gv=true" style="border: 0" width="100%" height="600" frameborder="0"></iframe>
+<!-- end Google Calendar Appointment Scheduling -->
 
 ### Buchen Sie Ihren Tierarzttermin gleich online... 
 ...oder rufen Sie unter <a href="tel:+43 1 28 32 779">+43 1 28 32 779</a> in unserer Ordination an. Wir beraten Sie gerne.
