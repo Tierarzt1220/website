@@ -8,7 +8,7 @@ excerpt: "Liebevolle Tierärztinnen und Tierärzte, moderne Geräte - Ihr Hausti
 header:
   overlay_color: "#fff"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/kontakt.jpg
+  overlay_image: /assets/images/oben.png
   actions:
     - label: "Termin buchen!"
       url: "/buchungstool/"
