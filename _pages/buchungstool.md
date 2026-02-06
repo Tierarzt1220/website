@@ -20,29 +20,23 @@ header:
      data-gcal-src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ2t375kzHzVSuROY7an2pDtjuOuEIU_1pjczjm5DAdvflV_9SF3YjkivJ_n1gbTgO-huoMgtEyr?gv=true"
      data-gcal-height="600">
 
-  <div class="gcal-consent-card" role="group" aria-label="Online Terminbuchung">
-    <div class="gcal-consent-card__badge">
-      <span class="gcal-consent-card__dot" aria-hidden="true"></span>
-      Externer Inhalt (Google Kalender)
-    </div>
-
-    <h3 class="gcal-consent-card__title">Online-Terminbuchung</h3>
-    <p class="gcal-consent-card__subtitle">
-      Zum Laden der Terminbuchung werden Inhalte von Google (Google Kalender) eingebunden.
+  <!-- Orange Warnbox wie in der vorigen Version (Minimal Mistakes Notice) -->
+  <div class="notice notice--warning" role="group" aria-label="Online Terminbuchung">
+    <p style="margin: 0 0 .75rem 0;">
+      <strong>Online-Terminbuchung</strong><br>
+      Beim Laden werden Inhalte von Google (Google Kalender) eingebunden.
       Dabei können Daten übertragen und Cookies/ähnliche Technologien genutzt werden.
     </p>
 
-    <div class="gcal-consent-card__actions">
-      <button
-        type="button"
-        class="btn btn--primary gcal-2click__btn"
-        style="font-size: 1.05rem; padding: .9rem 1.2rem; border-radius: .9rem;"
-      >
-        Zustimmen und Terminbuchung laden
-      </button>
-    </div>
+    <button
+      type="button"
+      class="btn btn--primary gcal-2click__btn"
+      style="font-size: 1.05rem; padding: .9rem 1.2rem; border-radius: .9rem;"
+    >
+      Zustimmen und Buchungstool laden
+    </button>
 
-    <p class="gcal-consent-card__fineprint">
+    <p style="margin: .75rem 0 0 0; font-size: .9em;">
       Mehr Infos in der <a href="/datenschutz/">Datenschutzerklärung</a>.
     </p>
   </div>
