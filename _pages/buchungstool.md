@@ -33,7 +33,7 @@ header:
       class="btn btn--primary gcal-2click__btn"
       style="font-size: 1.05rem; padding: .9rem 1.2rem; border-radius: .9rem;"
     >
-      Zustimmen und Buchungstool laden
+      Zustimmen und Buchungssystem laden
     </button>
 
     <p style="margin: .75rem 0 0 0; font-size: .9em;">
