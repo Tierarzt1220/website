@@ -34,8 +34,11 @@ Langobardenstraße 44<br />
 
 | Tag | Öffnungszeiten |
 |-------|--------|
-| Montag | 15:00 - 19:00 |
+| Montag | 09:30 - 19:00 |
 | Dienstag | 15:00 - 19:00 |
 | Mittwoch | 15:00 - 19:00 |
 | Donnerstag | 15:00 - 19:00 |
 | Freitag | 09:30 - 19:00 |
+| Samstag | 09:30 - 13:30 |
+
+
