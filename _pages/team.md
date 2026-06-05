@@ -55,6 +55,20 @@ feature_row:
     url: "/team/johannamihalko/"
     btn_label: "Mehr"
     btn_class: "btn--inverse"
+  - image_path: "/assets/images/sarah.jpg" 
+    alt: "Mag. med. vet. Sarah Pittrich-Pernt"
+    title: "Mag. med. vet. Sarah Pittrich-Pernt"
+    excerpt: "Tierärztin"
+    url: "/team/sarahpittrich/"
+    btn_label: "Mehr"
+    btn_class: "btn--inverse"
+  - image_path: "/assets/images/tab_animals_sml.webp" 
+    alt: "Mag. med. vet. Jennifer Malandi"
+    title: "Mag. med. vet. Jennifer Malandi"
+    excerpt: "Tierärztin"
+    url: "/team/jennifermalandi/"
+    btn_label: "Mehr"
+    btn_class: "btn--inverse"
 ---
 Wir freuen uns, Ihnen unser professionelles und engagiertes Tierarzt-Team vorzustellen.
 
