@@ -1,7 +1,7 @@
 ---
 title: Vortrag FTA Mag. Jennifer Malandi 
-description: "ERSTE HILFE FÜR KANINCHEN, MEERSCHWEINCHEN, RATTEN & CO"
-excerpt: "NOTFALL? KEINE PANIK! ERSTE HILFE FÜR KANINCHEN, MEERSCHWEINCHEN, RATTEN & CO ONLINE AM 14.9.2026 VON 19 BIS 21"
+description: "Erste Hilfe für Kaninchen, Meerschweinchen, Ratten & co"
+excerpt: "Notfall? Keine Panik! Erste Hilfe für Kaninchen, Meerschweinchen, Ratten & co ONLINE AM 14.9.2026 VON 19 BIS 21"
 ---
 
 🐰🐹🐭 Erste Hilfe für kleine Heimtiere – was tun im Notfall? 🚑
