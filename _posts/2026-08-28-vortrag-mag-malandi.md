@@ -10,9 +10,27 @@ Am 14. September lädt unsere Fachtierärztin Mag. Jennifer Malandi zu einem spa
 
 Was ist ein echter Notfall? Was kann ich zu Hause tun? Und wann muss mein Tier sofort zum Tierarzt?
 Erfahren Sie, wie Sie im Ernstfall richtig handeln und Ihrem kleinen Liebling schnell helfen können. ❤️
+
 Anmeldungen bitte an : vereinbiophilie@gmail.com
 
-📅 14. September
+📅 14. September - 19:00 - Online!
+
+Notfälle erkennen – richtig handeln – Leben retten
+Kleine Heimtiere sind Meister darin, Krankheiten und Schmerzen zu verbergen. Umso wichtiger ist es, Warnsignale frühzeitig zu erkennen und in Notfällen richtig zu reagieren.
+In diesem praxisnahen Online-Vortrag erfahren Tierhalterinnen und Tierhalter, woran man einen Notfall erkennt, welche Maßnahmen zu Hause sinnvoll und sicher sind und wann unverzüglich tierärztliche Hilfe erforderlich ist.
+
+Themen des Vortrags:
+
+ Notfälle erkennen und richtig einschätzen
+🐰 Atemnot – was tun, wenn jede Sekunde zählt?
+🐭 Inappetenz und Verdauungsprobleme früh erkennen
+🐹 Biss- und Verletzungswunden richtig versorgen
+☠️ Vergiftungen – typische Gefahren im Haushalt
+🩺 Was gehört in die Notfallapotheke für Heimtiere?
+📞 Wann kann man beobachten und wann muss sofort eine Tierarztpraxis oder Tierklinik aufgesucht werden?
+
+Der Vortrag richtet sich an Halterinnen und Halter von Kaninchen, Meerschweinchen, Ratten und anderen Kleinsäugern, die mehr Sicherheit im Umgang mit möglichen Notfällen gewinnen möchten.
+
 ![Hyperthyreose](/assets/images/202608vortragjennifer.jpeg)
 
 [Unser Team](/team/)
