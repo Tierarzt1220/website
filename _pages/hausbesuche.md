@@ -14,7 +14,7 @@ excerpt: "Um zu helfen, kommen wir gerne zu Ihnen."
 **Ihre Tierärztinnen und Tierärzte in Wien**
 
 Tierarztpraxis am Mühlgrund 
-Langobardenstrasse 44, 1220 Wien  
+Langobardenstraße 44, 1220 Wien  
 <i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@tierarzt.cc">praxis@tierarzt.cc</a>  
 <i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 28 32 779">+43 1 28 32 779</a>
 {: .notice}
@@ -39,7 +39,7 @@ Je nach Lage, kommen wir zu Fuß, oder mit unserem Ordinationsauto zu Ihnen. Wir
 Wenn Sie einen Hausbesuch wünschen, melden Sie sich bitte telefonisch oder via E-Mail bei uns, um alle Details abzuklären.
 
 Tierarztpraxis am Mühlgrund 
-Langobardenstrasse 44, 1220 Wien  
+Langobardenstraße 44, 1220 Wien  
 <i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@tierarzt.cc">praxis@tierarzt.cc</a>  
 <i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 28 32 779">+43 1 28 32 779</a>
 {: .notice}
