@@ -32,7 +32,7 @@ email: "praxis@tierarzt.cc"
 locale: de_AT
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: "tierarzt.cc"
-url: "https://www.tierarzt.cc" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tierarzt.cc" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 #github_username: migocode
 social:
