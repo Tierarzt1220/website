@@ -13,7 +13,7 @@ excerpt: "Zentral gelegen und leicht zu erreichen."
 **Tierarztpraxis am Mühlgrund im 22. Bezirk**  
 
 Mag. Corinna Rotsejdl  
-Langobardenstrasse 44, 1220 Wien  
+Langobardenstraße 44, 1220 Wien  
 <i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@tierarzt.cc">praxis@tierarzt.cc</a>  
 <i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 28 32 779">+43 1 28 32 779</a>
 {: .notice}
@@ -34,7 +34,7 @@ Langobardenstrasse 44, 1220 Wien
 **Derzeit kein Notdienst!**
 
 **So finden Sie zu uns:**
-<iframe width="100%" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://maps.google.com/maps?width=100%25&amp;height=450&amp;hl=en&amp;q=Langobardenstrasse%2044+(Tierarztpraxis%20am%20M%C3%BChlgrund)&amp;t=&amp;z=16&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
+<iframe width="100%" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://maps.google.com/maps?width=100%25&amp;height=450&amp;hl=en&amp;q=Langobardenstraße%2044+(Tierarztpraxis%20am%20M%C3%BChlgrund)&amp;t=&amp;z=16&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
 
 **Ihr Tierarzt in der Nähe!**
 
