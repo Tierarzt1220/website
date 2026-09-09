@@ -12,6 +12,6 @@ excerpt: Aktuelles und spannende Artikel über Prävention, Krankheiten und Ther
 
 ---
 
-## Neuigkeiten und lesenswertes...
+## Neuigkeiten und Lesenswertes …
 ... von der Tierarztpraxis am Mühlgrund finden Sie hier, aber auch auf unseren Facebook und Instagram Seiten!
 
