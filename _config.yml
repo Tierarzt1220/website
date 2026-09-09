@@ -76,8 +76,7 @@ defaults:
 include: ["_pages"]
 
 author:
-  name: "Tierarztpraxis am Mühlgrund <br/> <br/>
-  Mag. Corinna Rotsejdl"
+  name: "Tierarztpraxis am Mühlgrund"
   bio: "<b>Unsere Öffnungszeiten</b><br/>
 Mo: 09:30 - 19:00 <br/>
 Di, Mi,Do: 15:00 - 19:00 <br/>
