@@ -16,7 +16,7 @@ header:
 **Tierarztpraxis am Mühlgrund**
 
 Tierarztpraxis am Mühlgrund - Mag. Corinna Rotsejdl<br />
-Langobardenstrasse 44<br />
+Langobardenstraße 44<br />
 1220 Wien<br />
 Österreich<br />
 Website: [tierarzt.cc](https://tierarzt.cc)<br />
