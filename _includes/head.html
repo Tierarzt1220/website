@@ -27,6 +27,13 @@
 {% endif %}
 {% seo %}
 
+{% if page.url == "/" or page.url == "/english/" or page.url == "/espanol/" %}
+<link rel="alternate" hreflang="de-AT" href="{{ '/' | absolute_url }}">
+<link rel="alternate" hreflang="en" href="{{ '/english/' | absolute_url }}">
+<link rel="alternate" hreflang="es" href="{{ '/espanol/' | absolute_url }}">
+<link rel="alternate" hreflang="x-default" href="{{ '/' | absolute_url }}">
+{% endif %}
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
