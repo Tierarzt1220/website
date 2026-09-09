@@ -4,7 +4,7 @@ description: Veterinario de habla inglesa 1220 Viena.
 classes: wide
 layout: single
 locale: es_ES
-canonical_url: 'https://tierarzt.cc/'
+canonical_url: 'https://tierarzt.cc/espanol/'
 permalink: /espanol/
 header:
   overlay_color: "#000"
