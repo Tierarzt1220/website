@@ -4,7 +4,7 @@ description: English speaking veterinary surgeon 1220 Vienna.
 classes: wide
 layout: single
 locale: en_US
-canonical_url: 'https://tierarzt.cc/'
+canonical_url: 'https://tierarzt.cc/english/'
 permalink: /english/
 header:
   overlay_color: "#000"
