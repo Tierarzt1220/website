@@ -28,7 +28,7 @@ Wir bieten Ihnen das komplette Leistungsspektrum der modernen Veterinärmedizin 
 - Kardiologie
 - Herzultraschall
 - Orthopädie
-- Chirurgie
+- [Chirurgie](/chirurgie/)
 - Kastration
 - Geburtshilfe
 - Impfberatung und Impfungen

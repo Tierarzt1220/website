@@ -15,7 +15,7 @@ feature_row:
   - image_path: /assets/images/juan.jpeg
     alt: "Fachgebiete"
     title: "Fachgebiete"
-    excerpt: "Innere Medizin, Gynäkologie, Urologie, Dermatologie, Kardiologie, Orthopädie, Chirurgie, Zahnbehandlung, Ophthalmologie"
+    excerpt: "Innere Medizin, Gynäkologie, Urologie, Dermatologie, Kardiologie, Orthopädie, [Chirurgie](/chirurgie/), Zahnbehandlung, Ophthalmologie"
     url: "/fachgebiete/"
     btn_label: "Mehr lesen"
     btn_class: "btn--inverse"
@@ -40,7 +40,3 @@ Dafür haben wir alle Möglichkeiten der modernen Schulmedizin. Zusätzlich helf
 Hier finden Sie einen Überblick über die medizinischen Bereiche, unsere Möglichkeiten der Diagnostik sowie darüber hinausgehende medizinische Betreuung und Dienstleistungen für unsere Patienten.
 
 {% include feature_row %}
-
-### Chirurgie
-
-Wie wir Ihr Tier vor, während und nach einem Eingriff begleiten, erfahren Sie auf unserer Seite über [Narkose, Operation und Aufwachphase](/chirurgie/).
