@@ -37,7 +37,9 @@ Eine vollständige zahnmedizinische Untersuchung und gründliche Behandlung erfo
 
 Je nach Befund können die Entfernung von Belägen oberhalb und unterhalb des Zahnfleischrandes, die Beurteilung des Zahnhalteapparats und weitere Maßnahmen erforderlich sein. Nicht erhaltungsfähige Zähne müssen gegebenenfalls entfernt werden. Ziel ist ein möglichst schmerzfreies, funktionelles Gebiss — nicht nur eine saubere Oberfläche.
 
-Dentalröntgen kann Veränderungen an Zahnwurzeln und Knochen sichtbar machen. Welche weiterführende Diagnostik benötigt wird und wo sie erfolgt, klären wir vor der Behandlung mit Ihnen.
+## Zahnsanierung
+
+Bei einer Zahnsanierung entfernen wir Zahnstein und reinigen die Zähne gründlich. Anschließend werden die Zahnoberflächen poliert. Welche weiteren Behandlungsschritte nötig sind, hängt vom Zustand der Zähne und des Zahnfleisches ab. Wir besprechen den voraussichtlichen Umfang vorab mit Ihnen und planen eine passende Schmerztherapie. So begleiten wir Ihr Tier auf dem Weg zu mehr Wohlbefinden beim Fressen und im Alltag.
 
 ## Nach der Behandlung
 
