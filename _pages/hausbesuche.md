@@ -28,7 +28,7 @@ Wir sind stets bemüht, für Sie kosteneffiziente Lösungen zu finden, deshalb w
 
 **Kosten für einen Hausbesuch**
 
-Wir besuchen Sie gerne in ganz Wien. Dabei wird je nach Distanz zu unserer Ordination eine feste Fahrpauschale berechnet. Zu dieser Pauschale fallen dann die regulären Behandlungskosten an, wie sie auch in der Ordination anfallen würden.
+Wir besuchen Sie gerne in Wien. Dabei wird je nach Distanz zu unserer Ordination eine feste Fahrpauschale berechnet. Zu dieser Pauschale fallen dann die regulären Behandlungskosten an, wie sie auch in der Ordination anfallen würden.
 
 **Alle Möglichkeiten**
 
@@ -46,6 +46,6 @@ Langobardenstraße 44, 1220 Wien
 
 **Region**
 
-Wir besuchen Sie gerne in ganz Wien! Fragen Sie uns nach der jeweiligen Fahrkostenpauschale für Ihre Adresse!
+Wir besuchen Sie gerne in Wien! Fragen Sie uns nach der jeweiligen Fahrkostenpauschale für Ihre Adresse!
 
 Für Termine vor Ort, in unserer Ordination können Sie gerne auch unser Buchungstool benutzen: [Buchungstool](./buchungstool.md) 
