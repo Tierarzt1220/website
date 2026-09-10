@@ -31,7 +31,7 @@ Auch vor einer Narkose oder im Rahmen der Altersvorsorge können Laborwerte zus�
 
 ## Untersuchung vor Ort oder im Partnerlabor?
 
-Viele Routineanalysen lassen sich direkt bei uns auswerten. Für spezielle Fragestellungen senden wir Proben an externe Labore. Welche Untersuchung wo erfolgt und wann Ergebnisse zu erwarten sind, erklären wir Ihnen beim Termin. Nicht jeder Spezialtest ist sofort verfügbar.
+Viele Routineanalysen lassen sich direkt bei uns auswerten. Für spezielle Fragestellungen senden wir Proben an externe Labore. Welche Untersuchung wo erfolgt und wann Ergebnisse zu erwarten sind, erklären wir Ihnen beim Termin.
 
 Neben Blut können je nach Fragestellung auch Harn oder andere Proben wichtig sein. Bitte fragen Sie vor dem Sammeln nach: Behälter, Entnahmeart und Aufbewahrung beeinflussen die Aussagekraft.
 
