@@ -40,3 +40,7 @@ Dafür haben wir alle Möglichkeiten der modernen Schulmedizin. Zusätzlich helf
 Hier finden Sie einen Überblick über die medizinischen Bereiche, unsere Möglichkeiten der Diagnostik sowie darüber hinausgehende medizinische Betreuung und Dienstleistungen für unsere Patienten.
 
 {% include feature_row %}
+
+### Chirurgie
+
+Wie wir Ihr Tier vor, während und nach einem Eingriff begleiten, erfahren Sie auf unserer Seite über [Narkose, Operation und Aufwachphase](/chirurgie/).
