@@ -19,8 +19,7 @@ image: /assets/images/service-review/ernaehrungsberatung.jpg
 Beim Thema Tierfutter gibt es viele Meinungen — und nicht jede passt zu Ihrem Tier. Wir möchten Ihnen Orientierung geben, ohne die Fütterung unnötig kompliziert zu machen. Entscheidend sind eine bedarfsgerechte Versorgung, gute Verträglichkeit und ein Plan, der im Alltag funktioniert.
 
 <figure>
-  <img src="/assets/images/service-review/ernaehrungsberatung.jpg" alt="Symbolbild einer Fütterungsberatung mit Hund, Futternapf und Waage" width="1200" height="800" decoding="async" style="width:100%;height:auto;">
-  <figcaption>KI-generiertes Symbolbild; keine Aufnahme unserer Praxis.</figcaption>
+  <img src="/assets/images/service-review/ernaehrungsberatung.jpg" alt="Comicillustration einer Ernährungsberatung mit einem Hund" width="1200" height="800" decoding="async" style="width:100%;height:auto;">
 </figure>
 
 ## Was braucht Ihr Tier wirklich?

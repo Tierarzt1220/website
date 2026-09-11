@@ -19,8 +19,7 @@ image: /assets/images/service-review/dermatologie.jpg
 Ständiges Kratzen, Lecken oder Kopfschütteln kann für Tiere sehr belastend sein — und auch Ihnen den Schlaf rauben. Wir nehmen Haut- und Ohrenbeschwerden ernst. Unser Ziel ist, Beschwerden zu lindern und ihre Ursache möglichst gezielt zu klären.
 
 <figure>
-  <img src="/assets/images/service-review/dermatologie.jpg" alt="Symbolbild einer behutsamen Untersuchung von Haut und Ohr beim Hund" width="1200" height="800" decoding="async" style="width:100%;height:auto;">
-  <figcaption>KI-generiertes Symbolbild; keine Aufnahme unserer Praxis.</figcaption>
+  <img src="/assets/images/service-review/dermatologie.jpg" alt="Comicillustration einer Hautuntersuchung bei einem Hund" width="1200" height="800" decoding="async" style="width:100%;height:auto;">
 </figure>
 
 ## Nicht jeder Juckreiz ist eine Allergie

@@ -19,8 +19,7 @@ image: /assets/images/service-review/vorsorge-impfungen.jpg
 Gesundheitsvorsorge beginnt oft mit kleinen Beobachtungen: Frisst Ihr Tier anders? Trinkt es mehr? Zieht es sich zurück oder bewegt es sich weniger gern? Regelmäßige Untersuchungen geben Raum für solche Fragen — auch dann, wenn Ihr Tier auf den ersten Blick gesund wirkt.
 
 <figure>
-  <img src="/assets/images/service-review/vorsorge-impfungen.jpg" alt="Symbolbild von Hund und Katze bei Vorsorgeuntersuchungen mit Impfunterlagen" width="1200" height="800" decoding="async" style="width:100%;height:auto;">
-  <figcaption>KI-generiertes Symbolbild; keine Aufnahme unserer Praxis.</figcaption>
+  <img src="/assets/images/service-review/vorsorge-impfungen.jpg" alt="Comicillustration einer Vorsorgeuntersuchung bei einer Katze" width="1200" height="800" decoding="async" style="width:100%;height:auto;">
 </figure>
 
 ## Was gehört zur Vorsorgeuntersuchung?

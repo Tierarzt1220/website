@@ -19,8 +19,7 @@ image: /assets/images/service-review/ultraschall.jpg
 Wenn Ihr Tier Beschwerden hat, möchten Sie wissen, was dahintersteckt. Ultraschall kann uns helfen, Veränderungen im Körper genauer einzuordnen — ohne Röntgenstrahlen. In unserer Tierarztpraxis am Mühlgrund gehört die Sonografie zu den Möglichkeiten, mit denen wir Hunde und Katzen untersuchen.
 
 <figure>
-  <img src="/assets/images/service-review/ultraschall.jpg" alt="Symbolbild einer behutsamen Ultraschalluntersuchung bei einer Katze" width="1200" height="800" decoding="async" style="width:100%;height:auto;">
-  <figcaption>KI-generiertes Symbolbild; keine Aufnahme unserer Praxis.</figcaption>
+  <img src="/assets/images/service-review/ultraschall.jpg" alt="Comicillustration einer Ultraschalluntersuchung bei einem Hund" width="1200" height="800" decoding="async" style="width:100%;height:auto;">
 </figure>
 
 ## Was lässt sich mit Ultraschall untersuchen?

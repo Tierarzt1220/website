@@ -19,8 +19,7 @@ image: /assets/images/service-review/kardiologie.jpg
 Die Nachricht, dass beim Abhören etwas aufgefallen ist, kann verunsichern. Ein Herzgeräusch ist zunächst ein Untersuchungsbefund — noch keine vollständige Diagnose. Mit gezielter Abklärung können wir besser beurteilen, ob eine Herzerkrankung vorliegt und welche Betreuung Ihr Tier braucht.
 
 <figure>
-  <img src="/assets/images/service-review/kardiologie.jpg" alt="Symbolbild eines Hundes beim Abhören des Herzens" width="1200" height="800" decoding="async" style="width:100%;height:auto;">
-  <figcaption>KI-generiertes Symbolbild; keine Aufnahme unserer Praxis.</figcaption>
+  <img src="/assets/images/service-review/kardiologie.jpg" alt="Comicillustration einer Herzuntersuchung bei einem Hund" width="1200" height="800" decoding="async" style="width:100%;height:auto;">
 </figure>
 
 ## Wann ist eine Herzuntersuchung sinnvoll?

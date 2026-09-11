@@ -19,8 +19,7 @@ image: /assets/images/service-review/zahnmedizin.jpg
 Gesunde Zähne bedeuten mehr als einen frischen Atem. Schmerzen im Maul können Fressen, Spielen und Wohlbefinden beeinträchtigen. Viele Tiere zeigen ihre Beschwerden jedoch kaum. In unserer Praxis nehmen wir Zahn- und Maulgesundheit deshalb ernst — auch wenn Ihr Tier noch normal frisst.
 
 <figure>
-  <img src="/assets/images/service-review/zahnmedizin.jpg" alt="Symbolbild einer vorsichtigen Zahnkontrolle beim wachen Hund" width="1200" height="800" decoding="async" style="width:100%;height:auto;">
-  <figcaption>KI-generiertes Symbolbild; keine Aufnahme unserer Praxis.</figcaption>
+  <img src="/assets/images/service-review/zahnmedizin.jpg" alt="Comicillustration einer Zahnkontrolle bei einem Hund" width="1200" height="800" decoding="async" style="width:100%;height:auto;">
 </figure>
 
 ## Welche Veränderungen sollten Sie abklären lassen?

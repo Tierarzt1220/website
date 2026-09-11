@@ -19,8 +19,7 @@ image: /assets/images/service-review/in-house-labor.jpg
 Wenn es Ihrem Tier nicht gut geht, kann eine Laboruntersuchung wichtige Hinweise geben. Unser In-House-Labor ermöglicht es, viele gängige Blutuntersuchungen direkt in der Ordination durchzuführen. Das kann den Weg zur passenden Behandlung verkürzen.
 
 <figure>
-  <img src="/assets/images/service-review/in-house-labor.jpg" alt="Symbolbild eines tierärztlichen Labors mit Mikroskop und Probenröhrchen" width="1200" height="800" decoding="async" style="width:100%;height:auto;">
-  <figcaption>KI-generiertes Symbolbild; keine Aufnahme unserer Praxis.</figcaption>
+  <img src="/assets/images/service-review/in-house-labor.jpg" alt="Comicillustration von Isabella Cada bei der Arbeit im Labor" width="1200" height="800" decoding="async" style="width:100%;height:auto;">
 </figure>
 
 ## Wobei helfen Laborwerte?

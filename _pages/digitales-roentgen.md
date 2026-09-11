@@ -19,8 +19,7 @@ image: /assets/images/service-review/digitales-roentgen.jpg
 Manche Ursachen für Schmerzen oder Beschwerden bleiben von außen verborgen. Röntgenaufnahmen können dabei helfen, solche Veränderungen sichtbar zu machen. In unserer Praxis am Mühlgrund nutzen wir digitales Röntgen als Teil einer gezielten diagnostischen Abklärung.
 
 <figure>
-  <img src="/assets/images/service-review/digitales-roentgen.jpg" alt="Symbolbild eines Hundes auf einem tierärztlichen Röntgentisch" width="1200" height="800" decoding="async" style="width:100%;height:auto;">
-  <figcaption>KI-generiertes Symbolbild; keine Aufnahme unserer Praxis.</figcaption>
+  <img src="/assets/images/service-review/digitales-roentgen.jpg" alt="Comicillustration einer Besprechung von Röntgenaufnahmen mit einem Hund" width="1200" height="800" decoding="async" style="width:100%;height:auto;">
 </figure>
 
 ## Wann kann eine Röntgenuntersuchung helfen?

@@ -19,8 +19,7 @@ image: /assets/images/service-review/kastration.jpg
 Ob eine Kastration sinnvoll ist und wann sie erfolgen sollte, lässt sich nicht für jedes Tier gleich beantworten. Wir nehmen uns Zeit, Ihre Fragen zu besprechen und Nutzen, mögliche Nachteile und Alternativen abzuwägen. In unserer Praxis führen wir Kastrationen bei Hunden, Katzen und verschiedenen kleinen Heimtieren durch.
 
 <figure>
-  <img src="/assets/images/service-review/kastration.jpg" alt="Symbolbild einer Katze bei der behutsamen Betreuung rund um einen Eingriff" width="1200" height="800" decoding="async" style="width:100%;height:auto;">
-  <figcaption>KI-generiertes Symbolbild; keine Aufnahme unserer Praxis.</figcaption>
+  <img src="/assets/images/service-review/kastration.jpg" alt="Comicillustration einer Katze während der Nachbetreuung" width="1200" height="800" decoding="async" style="width:100%;height:auto;">
 </figure>
 
 ## Was bedeutet Kastration?

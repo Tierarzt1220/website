@@ -19,8 +19,7 @@ image: /assets/images/service-review/kleine-heimtiere.jpg
 Klein in der Größe, groß in ihrer Bedeutung: Kaninchen, Meerschweinchen, Ratten und andere kleine Heimtiere sind für viele Familien feste Begleiter. Gleichzeitig haben sie sehr unterschiedliche Bedürfnisse. In unserer Tierarztpraxis am Mühlgrund berücksichtigen wir diese Unterschiede bei Untersuchung und Beratung.
 
 <figure>
-  <img src="/assets/images/service-review/kleine-heimtiere.jpg" alt="Symbolbild von Kaninchen und Meerschweinchen bei getrennten behutsamen Untersuchungen" width="1200" height="800" decoding="async" style="width:100%;height:auto;">
-  <figcaption>KI-generiertes Symbolbild; keine Aufnahme unserer Praxis.</figcaption>
+  <img src="/assets/images/service-review/kleine-heimtiere.jpg" alt="Comicillustration von Jennifer Malandi bei der Untersuchung eines Meerschweinchens" width="1200" height="800" decoding="async" style="width:100%;height:auto;">
 </figure>
 
 ## Genau hinsehen lohnt sich
