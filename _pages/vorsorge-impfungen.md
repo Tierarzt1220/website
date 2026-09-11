@@ -6,9 +6,9 @@ classes: ""
 toc: false
 author_profile: false
 share: false
-search: false
-sitemap: false
-service_review: true
+search: true
+sitemap: true
+service_review: false
 permalink: /vorsorge-impfungen/
 canonical_url: https://tierarzt.cc/vorsorge-impfungen/
 image: /assets/images/service-review/vorsorge-impfungen.jpg

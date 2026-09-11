@@ -6,9 +6,9 @@ classes: ""
 toc: false
 author_profile: false
 share: false
-search: false
-sitemap: false
-service_review: true
+search: true
+sitemap: true
+service_review: false
 permalink: /dermatologie/
 canonical_url: https://tierarzt.cc/dermatologie/
 image: /assets/images/service-review/dermatologie.jpg

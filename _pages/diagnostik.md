@@ -25,24 +25,24 @@ feature_row:
 
 <i class="fa-solid fa-arrow-left-long"></i> [Zurück zu den Leistungen](/leistungen/)
 
-## Röntgen
+## [Röntgen](/digitales-roentgen/)
 
 Wir bieten Röntgenuntersuchungen mit unserer digitalen Röntgenanlage. Dank der hohen Bildqualität des Röntgengerätes, lassen sich Verletzungen im Bereich des Skelett- und tw. des Bänderapparats schnell und einfach diagnostizieren. Auch Veränderungen an den Organen (Herz, Lunge oder z.B. Darm oder Blase) oder an den Zähnen können erkannt werden. Das Röntgenbild ist seit jeher ein wichtiges diagnostisches Hilfsmittel in der tierärztlichen Praxis. Die digitale Röntgentechnologie hebt dieses Hilfsmittel auf ein neues Niveau.
 
 {% include feature_row %}
 
-## In-House-Labor
+## [In-House-Labor](/in-house-labor/)
 
 Mit unserem modernen In-House-Labor können wir alle gängigen Blutuntersuchungen direkt bei uns in der Ordination durchführen. 
 Die Analyse von Blut oder anderen Körperflüssigkeiten (wie z.B. Harn) ist ein wichtiges diagnostisches Hilfsmittel. Man kann damit oft frühzeitig Organschäden (z.B. die chronische Niereninsuffizienz) feststellen, noch bevor klinische Symptome auftreten und so schon eine Therapie einleiten, bevor sich das Krankheitsbild verschlechtert. 
 Dank unseres In-House-Labors entfällt die übliche Wartezeit auf das Ergebnis. Da bei vielen Krankheitsbildern die Zeit eine große Rolle spielt, ist dies ein enormer Mehrwert. Für ausgefallene, komplexere Untersuchungen schicken wir Proben auch an verschiedene Labors im In- und Ausland.
 
-## Ultraschall
+## [Ultraschall](/ultraschall/)
 
 Unser top modernes Ultraschallgerät erlaubt uns die sonografische Untersuchung Ihres Lieblings. Dabei bringt das Gerät Schallwellen außerhalb des hörbaren Bereiches zum Einsatz. Diese Schallwellen werden bei der Untersuchung an den Grenzflächen der Organe reflektiert und das Ultraschallgerät stellt diese Informationen dann als Bild dar.
 Schallwellen eignen sich besonders zur Untersuchung von Bauchorganen und Weichteilen. Ebenso ist die Kontrolle einer Trächtigkeit ein wichtiger Anwendungsfall. 
 
-## Herzultraschall
+## [Herzultraschall](/kardiologie/)
 Die Ultraschall Untersuchung des Herzens (kurz Herzschall) ist eine Spezialform der Ultraschalluntersuchung. Dabei kommt eine eigene Sonde und spezielle Software zum Einsatz. Ziel ist es, das Herz genau zu überprüfen und gegebenenfalls Probleme frühzeitig zu erkennen. Die meisten Herzprobleme können mit Medikamenten gut eingestellt werden.
 
 ## Blutdruckmessung

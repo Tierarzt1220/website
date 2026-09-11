@@ -6,9 +6,9 @@ classes: ""
 toc: false
 author_profile: false
 share: false
-search: false
-sitemap: false
-service_review: true
+search: true
+sitemap: true
+service_review: false
 permalink: /in-house-labor/
 canonical_url: https://tierarzt.cc/in-house-labor/
 image: /assets/images/service-review/in-house-labor.jpg

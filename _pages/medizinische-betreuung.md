@@ -8,7 +8,7 @@ permalink: /medizinische-betreuung/
 
 <i class="fa-solid fa-arrow-left-long"></i>  [Zurück zu den Leistungen](/leistungen/)
 
-## Gesundheitsvorsorge
+## [Gesundheitsvorsorge](/vorsorge-impfungen/)
 
 Damit Krankheiten oder gesundheitliche Probleme möglichst frühzeitig erkannt und behandelt werden können, ist es ratsam, Ihr Tier in regelmässigen Abständen tierärztlich untersuchen zu lassen. 1x pro Jahr (bei älteren Tieren eher 2-3x jährlich) empfiehlt sich zumindest eine klinische Untersuchung (Zähne und Maulhöhle, Abhören von Herz und Lunge, Abtasten des Bauches etc), um eine grobe Einschätzung des Gesundheitszustandes Ihres Lieblings vornehmen zu können. Bei Bedarf kann dann die Untersuchung um Labortests oder bildgebende Diagnostik erweitert werden.
 
@@ -18,7 +18,7 @@ Die Jahre gehen leider auch an unseren Tieren nicht spurlos vorüber und mit dem
 
 Nahrungsergänzungen oder Spezialfutter für Senioren helfen in vielen Fällen, eine Besserung zu erzielen und dem Tier wieder Vitalität zu schenken!
 
-## Ernährungsberatung / B.A.R.F.E.N.
+## [Ernährungsberatung / B.A.R.F.E.N.](/ernaehrungsberatung/)
 
 Das Thema gesunde Ernährung ist nicht nur für uns Menschen, sondern auch für unsere Haustiere immer wichtiger geworden. Heutzutage gibt es eine Vielzahl an unterschiedlichen Ernährungsformen und -angeboten, die Auswahl ist fast unendlich. Gleichzeitig leiden immer mehr Tiere an Nahrungsmittelunverträglichkeiten oder Allergien, wodurch es noch wichtiger ist, sich genauer mit dem Thema Fütterung auseinander zu setzen.
 
@@ -49,13 +49,13 @@ Wir führen eine tierärztliche Hausapotheke, um Sie möglichst schnell und unko
 
 Bitte haben Sie dafür Verständnis, dass mit Ausnahme von durch uns verordneten Dauermedikationen, die Abgabe von Medikamenten OHNE eine vorherige Untersuchung des Tieres aus rechtlichen Gründen nicht gestattet ist.
 
-## Impfberatung
+## [Impfberatung](/vorsorge-impfungen/)
 
 Impfen hat immer noch einen sehr grossen Stellenwert in der (Tier-)Medizin, um ansteckende Krankheiten zu vermeiden. Gerade durch die immer häufiger vorkommenden illegalen Welpenimporte aus den ehemaligen Ländern des Ostblocks, treten nun wieder vermehrt tödliche Krankheiten wie die Parvovirose des Hundes auf.
 
 Wir beraten Sie gern individuell zu den notwendigen Impfungen für Ihr Tier, denn natürlich kommt es auch auf die Lebensumstände an, wieviel Schutz Ihr Liebling braucht.
 
-## Nagerberatung
+## [Nagerberatung](/kleine-heimtiere/)
 
 Unsere kleinen Freunde wie Kaninchen, Chinchillas, Ratten, Gerbils, Hamster, Mäuse und auch die Meerschweinchen haben ganz andere Ansprüche an Haltung und Fütterung als Hunde und Katzen.
 
