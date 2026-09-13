@@ -7,7 +7,9 @@ permalink: /team/
 description: "Wir sind aus Überzeugung für Tiere da."
 excerpt: "Wir arbeiten aus Liebe zum Tier."
 header:
- 
+  overlay_color: "#000"
+  overlay_filter: "0.45"
+  overlay_image: /assets/images/team-comic-2026-blue.jpg
   actions:
   - label: "Termin buchen!"
     url: "/buchungstool/"
@@ -80,3 +82,4 @@ Unser Team besteht aus fünf erfahrenen Tierärztinnen und Tierärzten sowie ein
 
 Einblicke in unseren Arbeitsalltag bekommen Sie in unserer Fotogalerie!
 [Zur Fotogalerie](/gallery/)
+
