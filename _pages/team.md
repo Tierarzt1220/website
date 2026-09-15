@@ -9,7 +9,7 @@ excerpt: "Wir arbeiten aus Liebe zum Tier."
 header:
   overlay_color: "#000"
   overlay_filter: "0.45"
-  overlay_image: /assets/images/team-comic-2026-blue.jpg
+  overlay_image: /assets/images/team-comic-2026-v-formation-comic.webp
   actions:
   - label: "Termin buchen!"
     url: "/buchungstool/"
