@@ -1,6 +1,6 @@
 ---
 title: Ihr Tierarzt Team in 1220 Wien!
-description: "Liebevolles Tierarzt Team in 1220 Wien, Modernste Geräte, Ultraschall, Digital Röntgen, In-House Labor, Bestes Service, Günstig gelegen, Tierarztpraxis im 22. Bezirk."
+description: "Tierarztpraxis am Mühlgrund, Langobardenstraße 44, 1220 Wien. Tel. +43 1 28 32 779 · praxis@tierarzt.cc. Termine für Hund, Katze & Kleintiere."
 layout: home
 classes: wide
 author_profile: false
@@ -17,18 +17,17 @@ header:
 ## Liebe Tierbesitzerinnen und Tierbesitzer,
 
 wir begrüßen Sie herzlich auf der neuen Website der Tierarztpraxis am Mühlgrund.
+
+**Tierarztpraxis am Mühlgrund**  
+Langobardenstraße 44, 1220 Wien · Tel. [+43 1 28 32 779](tel:+4312832779) · [praxis@tierarzt.cc](mailto:praxis@tierarzt.cc)
+{: .notice}
+
 Mit dem wohlverdienten Ruhestand unserer geschätzten Kollegin Dipl.-Tierärztin Eva Panner-Frisch wird die Ordination von Mag. Corinna Rotsejdl und ihrem erfahrenen Team weitergeführt. Wir sind mit großer Freude und viel Engagement für die medizinischen Bedürfnisse Ihres Haustieres da – mit besonderem Wert auf individuelle Beratung und persönliche Betreuung.
 Als eingespieltes Team aus Tierärztinnen und Tierärzten betreiben wir bereits erfolgreich die beliebte Tierarztpraxis am Bacherplatz im 5. Bezirk. Umso mehr freuen wir uns, seit 1. Jänner 2026 unsere Erfahrung, Kompetenz und Tierliebe auch hier am Mühlgrund einzubringen. Unser Anspruch ist es, die persönliche Atmosphäre einer kleinen Praxis mit der Professionalität einer Tierklinik zu vereinen.
 Unsere Sprechstunden bieten wir in Deutsch, [Englisch](/english/), Ungarisch und [Spanisch](/espanol/) an.
 Wir freuen uns sehr auf Ihren Besuch – und darauf, Sie und Ihr Tier kennenzulernen!
 
 Mag. Corinna Rotsejdl und Team
-
-Tierarztpraxis am Mühlgrund<br />
-Langobardenstraße 44<br />
-1220 Wien  <br />
-<i class="fas fa-fw fa-envelope"></i> <a href="mailto:praxis@tierarzt.cc">praxis@tierarzt.cc</a>  
-<i class="fas fa-fw fa-phone"></i> <a href="tel: + 43 1 28 32 779">+43 1 28 32 779</a>
 
 ## Unsere Öffnungszeiten:
 
