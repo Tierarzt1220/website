@@ -22,9 +22,9 @@ liquid:
   error_mode: strict
 
 logo: /assets/images/tab_animals_sml.webp
-name: "Ihr Tierarzt Team in 1220 Wien"
-title: "Tierarztpraxis Mühlgrund"
-tagline: "Ihr Tierarzt in Wien"
+name: "Tierarztpraxis am Mühlgrund"
+title: "Tierarztpraxis am Mühlgrund"
+tagline: "Tierarzt in 1220 Wien"
 description:  "Ihre kompetenten TierärztInnen in 1220 Wien. Wir freuen uns, für Ihr Haustier da sein zu dürfen. Hund, Katze, Maus, alle Tiere sind bei uns willkommen."
 image: "/assets/images/tab_animals_sml.webp"
 
@@ -122,10 +122,7 @@ atom_feed:
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
+# the internal "default list."
 #
 # exclude:
 #   - .sass-cache/
@@ -137,4 +134,3 @@ atom_feed:
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
-#   - vendor/ruby/
