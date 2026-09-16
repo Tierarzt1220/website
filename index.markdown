@@ -1,6 +1,6 @@
 ---
-title: Ihr Tierarzt Team in 1220 Wien!
-description: "Tierarztpraxis am Mühlgrund, Langobardenstraße 44, 1220 Wien. Tel. +43 1 28 32 779 · praxis@tierarzt.cc. Termine für Hund, Katze & Kleintiere."
+title: Tierarztpraxis am Mühlgrund
+description: "Tierarztpraxis am Mühlgrund in Wien-Donaustadt. Adresse: Langobardenstraße 44, 1220 Wien. Tel. +43 1 28 32 779 · praxis@tierarzt.cc."
 layout: home
 classes: wide
 author_profile: false
@@ -19,7 +19,9 @@ header:
 wir begrüßen Sie herzlich auf der neuen Website der Tierarztpraxis am Mühlgrund.
 
 **Tierarztpraxis am Mühlgrund**  
-Langobardenstraße 44, 1220 Wien · Tel. [+43 1 28 32 779](tel:+4312832779) · [praxis@tierarzt.cc](mailto:praxis@tierarzt.cc)
+**Adresse:** Langobardenstraße 44, 1220 Wien  
+**Telefon:** [+43 1 28 32 779](tel:+4312832779)  
+**E-Mail:** [praxis@tierarzt.cc](mailto:praxis@tierarzt.cc)
 {: .notice}
 
 Mit dem wohlverdienten Ruhestand unserer geschätzten Kollegin Dipl.-Tierärztin Eva Panner-Frisch wird die Ordination von Mag. Corinna Rotsejdl und ihrem erfahrenen Team weitergeführt. Wir sind mit großer Freude und viel Engagement für die medizinischen Bedürfnisse Ihres Haustieres da – mit besonderem Wert auf individuelle Beratung und persönliche Betreuung.
@@ -28,6 +30,8 @@ Unsere Sprechstunden bieten wir in Deutsch, [Englisch](/english/), Ungarisch und
 Wir freuen uns sehr auf Ihren Besuch – und darauf, Sie und Ihr Tier kennenzulernen!
 
 Mag. Corinna Rotsejdl und Team
+
+<div data-nosnippet markdown="1">
 
 ## Unsere Öffnungszeiten:
 
@@ -40,4 +44,4 @@ Mag. Corinna Rotsejdl und Team
 | Freitag | 09:30 - 19:00 |
 | Samstag | 09:30 - 13:30 |
 
-
+</div>
