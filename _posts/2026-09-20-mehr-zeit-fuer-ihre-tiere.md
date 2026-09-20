@@ -3,6 +3,11 @@ title: "Mehr Zeit für Ihre Tiere: Neue Öffnungszeiten ab 1. Oktober 2026"
 description: "Die Tierarztpraxis am Mühlgrund in der Langobardenstraße 44, 1220 Wien, erweitert ab 1. Oktober 2026 ihre Öffnungszeiten: Montag bis Freitag 9:30–19:00 Uhr, Samstag 9:30–13:30 Uhr."
 excerpt: "Wir haben etwas zu feiern: Ab 1. Oktober sind wir Montag bis Freitag ganztägig für Sie und Ihre Tiere da!"
 published: true
+header:
+  image: /assets/images/mehr-zeit-oeffnungszeiten-2026.webp
+  teaser: /assets/images/mehr-zeit-oeffnungszeiten-2026.webp
+  og_image: /assets/images/mehr-zeit-oeffnungszeiten-2026.webp
+  image_description: "Mehr Zeit für Ihre Tiere – neue Öffnungszeiten ab 1. Oktober 2026 in der Tierarztpraxis am Mühlgrund"
 ---
 
 # Wir haben etwas zu feiern – und Sie haben auch etwas davon!
