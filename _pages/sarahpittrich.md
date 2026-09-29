@@ -3,7 +3,7 @@ title: "Mag. med. vet. Sarah Pittrich-Pernt"
 description: "Tierärztin"
 layout: single
 permalink: /team/sarahpittrich/
-canonical_url: 'https://tierarzt.cc/team/'
+canonical_url: 'https://tierarzt.cc/team/sarahpittrich/'
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

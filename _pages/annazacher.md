@@ -3,7 +3,7 @@ title: "Mag. med. vet. Anna Zacher"
 description: "Tierarzt"
 layout: single
 permalink: /team/annazacher/
-canonical_url: 'https://tierarzt.cc/team/'
+canonical_url: 'https://tierarzt.cc/team/annazacher/'
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

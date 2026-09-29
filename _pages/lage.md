@@ -4,7 +4,7 @@ description: "Als Ihr Tierarzt in Wien sind wir leicht zu erreichen"
 author_profile: false
 layout: single
 permalink: /lage/
-canonical_url: 'https://tierarzt.cc/'
+canonical_url: 'https://tierarzt.cc/lage/'
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -53,4 +53,4 @@ Mit unserem Online Buchungstool können Sie zu jeder Tageszeit einen Termin bei 
 
 **Besuchen Sie auch unsere Zweigstelle in der Margareten - die Tierarztpraxis am Bacherplatz!**
 
-Im Herzen von 1050 Wien! [www.vetcat.at](www.vetcat.at)
+Im Herzen von 1050 Wien! [www.vetcat.at](https://vetcat.at/)

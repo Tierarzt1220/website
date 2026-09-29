@@ -3,7 +3,7 @@ title: "Mag. med. vet. Johanna Mihalko"
 description: "Tierärztin"
 layout: single
 permalink: /team/johannamihalko/
-canonical_url: 'https://tierarzt.cc/team/'
+canonical_url: 'https://tierarzt.cc/team/johannamihalko/'
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
