@@ -6,9 +6,9 @@ classes: wide
 author_profile: false
 excerpt: "Liebevolle Tierärztinnen und Tierärzte, moderne Geräte - Ihr Haustier in besten Händen!"
 header:
-  overlay_color: "#fff"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/oben.png
+  overlay_color: "#000"
+  overlay_filter: "0.45"
+  overlay_image: /assets/images/team-comic-2026-v-formation-comic.webp
   actions:
     - label: "Termin buchen!"
       url: "/buchungstool/"

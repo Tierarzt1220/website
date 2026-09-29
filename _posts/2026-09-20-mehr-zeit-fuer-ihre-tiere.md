@@ -10,7 +10,7 @@ header:
   image_description: "Mehr Zeit für Ihre Tiere – neue Öffnungszeiten ab 1. Oktober 2026 in der Tierarztpraxis am Mühlgrund"
 ---
 
-# Wir haben etwas zu feiern – und Sie haben auch etwas davon!
+## Wir haben etwas zu feiern – und Sie haben auch etwas davon!
 
 Unsere Tierarztpraxis am Mühlgrund in der Langobardenstraße 44 wird von immer mehr Tierhalter:innen besucht. Darüber freuen wir uns sehr und möchten uns herzlich für das Vertrauen bedanken, das Sie uns und unserem Team entgegenbringen.
 
