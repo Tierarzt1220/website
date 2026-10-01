@@ -54,9 +54,9 @@ Langobardenstraße 44, 1220 Wien
 | día | tiempo |
 |-------|--------|
 | Lunes | 09:30 - 19:00 |
-| Martes | 15:00 - 19:00 |
-| Miércoles | 15:00 - 19:00 |
-| Jueves | 15:00 - 19:00 |
+| Martes | 09:30 - 19:00 |
+| Miércoles | 09:30 - 19:00 |
+| Jueves | 09:30 - 19:00 |
 | Viernes | 09:30 - 19:00 |
 | Sábado | 09:30 - 13:30 | 
 

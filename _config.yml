@@ -79,9 +79,7 @@ author:
   name: "Tierarztpraxis am Mühlgrund"
   type: Organization
   bio: "<b>Unsere Öffnungszeiten</b><br/>
-Mo: 09:30 - 19:00 <br/>
-Di, Mi,Do: 15:00 - 19:00 <br/>
-Fr: 09:30 - 19:00 <br/>
+Mo–Fr: 09:30 - 19:00 <br/>
 Sa: 09:30 - 13:30"
   avatar: "/assets/images/corinna-2.jpg"
   links:
