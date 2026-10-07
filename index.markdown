@@ -10,6 +10,9 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.45"
   overlay_image: /assets/images/team-comic-2026-v-formation-comic.webp
+  image_description: "Gezeichnetes Team der Tierarztpraxis am Mühlgrund in V-Formation mit weißem Hund"
+  image_width: 1774
+  image_height: 887
   actions:
     - label: "Termin buchen!"
       url: "/buchungstool/"
