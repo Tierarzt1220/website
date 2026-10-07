@@ -99,7 +99,8 @@ classes: wide
     </summary>
 
     <div class="shop-notice-content">
-      In unserem Webshop in Kooperation mit VetNative finden Sie ein umfangreiches Sortiment.
+      In unserem Webshop in Kooperation mit VetNative und Tierarztpraxis am Bacherplatz finden Sie ein umfangreiches Sortiment.
+
       <strong>Bitte beachten Sie:</strong> Einige der angebotenen Produkte sind für besondere
       medizinische oder ernährungsphysiologische Bedürfnisse bestimmt. Diätfuttermittel und
       Nahrungsergänzungsmittel dürfen daher nur nach tierärztlicher Beratung verwendet werden,
