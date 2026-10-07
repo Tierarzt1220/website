@@ -35,9 +35,9 @@ Veterinarian Corinna Rotsejdl and the veterinary team of the animal outpatient c
 
 Our ordination in 1220 Vienna is equipped with the most modern equipment at the clinic level. Our goal is to combine the personal care of a small practice with the performance of a large veterinary clinic.
 
-We offer consultation hours in German, English and also Spanish.
+We offer consultations in German, English, Spanish and [Hungarian](/magyar/). Please let us know your preferred language when booking.
 
-In order to avoid waiting times, we kindly ask you to register with us before your visit. Either in our [online calendar (only available in German, but easy to use)](./buchungstool.md) or by phone at  <a href="tel: + 43 1 28 32 779">+43 1 28 32 779</a>.
+In order to avoid waiting times, we kindly ask you to register with us before your visit. Either in our [online calendar (only available in German, but easy to use)](/buchungstool/) or by phone at  <a href="tel: + 43 1 28 32 779">+43 1 28 32 779</a>.
 We'd love to help you.
 
 We are looking forward to your visit!
@@ -79,3 +79,4 @@ Langobardenstraße 44, 1220 Wien
   <b>Wiener Linien Stations near us:</b><br />  <i class="fa-solid fa-fw fa-train-subway"></i> U2 Hardeggasse<br />
   <i class="fa-solid fa-fw fa-bus"></i> Bus 95A, Tramway 25<br />
 </div>{: .notice}
+

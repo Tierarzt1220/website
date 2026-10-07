@@ -27,10 +27,11 @@
 {% endif %}
 {% seo %}
 
-{% if page.url == "/" or page.url == "/english/" or page.url == "/espanol/" %}
+{% if page.url == "/" or page.url == "/english/" or page.url == "/espanol/" or page.url == "/magyar/" %}
 <link rel="alternate" hreflang="de-AT" href="{{ '/' | absolute_url }}">
 <link rel="alternate" hreflang="en" href="{{ '/english/' | absolute_url }}">
 <link rel="alternate" hreflang="es" href="{{ '/espanol/' | absolute_url }}">
+<link rel="alternate" hreflang="hu" href="{{ '/magyar/' | absolute_url }}">
 <link rel="alternate" hreflang="x-default" href="{{ '/' | absolute_url }}">
 {% endif %}
 
@@ -126,3 +127,4 @@
 <link rel="manifest" href="/assets/images/site.webmanifest">
 <link rel="mask-icon" href="/assets/images/safari-pinned-tab.svg" color="#5bbad5">
 <link rel="shortcut icon" href="/assets/images/favicon-32x32.png">
+

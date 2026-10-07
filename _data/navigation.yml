@@ -11,6 +11,8 @@ main:
     url: /english/
   - title: "Español"
     url: /espanol/
+  - title: "Magyar"
+    url: /magyar/
   - title: "Blog"
     url: /news/    
     

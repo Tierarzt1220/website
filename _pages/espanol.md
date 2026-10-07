@@ -34,9 +34,9 @@ La Médica Veterinaria Corinna Rotsejdl y su equipo del consultorio veterinario 
 
 Nuestro consultorio veterinario, ubicado en el distrito 22 de Viena, está equipado con los equipos más modernos, que están al nivel de una clínica veterinaria. Nuestro objetivo es el combinar la atención personal de una pequeña práctica con el desempeño de una gran clínica veterinaria.
 
-Nosotros estamos atendiendo consulta en alemán, inglés y español.
+Ofrecemos consultas en alemán, inglés, español y [húngaro](/magyar/). Indíquenos su idioma preferido al reservar la cita.
 
-Para disminuir el tiempo de espera, le pedimos que haga una cita previa, puede ser en nuestro [calendario de citas en línea (esta solo disponible en alemán, pero es muy fácil de usar)](./buchungstool.md) o estaremos atentos de atenderlos en nuestro teléfono +43 1 28 32 779.
+Para disminuir el tiempo de espera, le pedimos que haga una cita previa, puede ser en nuestro [calendario de citas en línea (esta solo disponible en alemán, pero es muy fácil de usar)](/buchungstool/) o estaremos atentos de atenderlos en nuestro teléfono +43 1 28 32 779.
 
 Esperamos su visita.
 
@@ -76,3 +76,4 @@ Langobardenstraße 44, 1220 Wien
   <i class="fa-solid fa-fw fa-train-subway"></i>Metro U2 (Hardeggasse)<br />
   <i class="fa-solid fa-fw fa-tram"></i>Tranvía 25<br />
 </div>{: .notice}
+
