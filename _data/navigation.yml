@@ -1,6 +1,8 @@
 main:
   - title: "Terminbuchung"
     url: /buchungstool/
+  - title: "Shop"
+    url: /shop/
   - title: "Team"
     url: /team/
   - title: "Leistungen"
