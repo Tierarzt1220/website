@@ -52,6 +52,10 @@ Starke Schmerzen, eine plötzlich geschwollene Ohrmuschel oder rasch zunehmende 
 
 Sie müssen die Ursache nicht selbst herausfinden. Wir gehen die nächsten Schritte mit Ihnen gemeinsam durch.
 
+## Weitere passende Informationen
+
+Je nach Fragestellung können Untersuchungen in unserem [In-House-Labor](/in-house-labor/) oder eine strukturierte [Ernährungsberatung](/ernaehrungsberatung/) ergänzend sinnvoll sein.
+
 ## Termin in unserer Praxis
 
 Gerne besprechen wir Ihre Fragen in der Tierarztpraxis am Mühlgrund, Langobardenstraße 44, 1220 Wien. [Kontaktieren Sie uns](/kontakt/) oder nutzen Sie die [Terminbuchung](/buchungstool/). Bei akuten Beschwerden melden Sie sich bitte telefonisch.

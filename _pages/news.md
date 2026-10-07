@@ -1,6 +1,7 @@
 ---
 title: News & Blog
 description: Hier finden Sie aktuelles und spannende Artikel von unserem Tierarzt Team!
+image: "/assets/images/news.jpg"
 classes: wide
 layout: posts
 permalink: /news/
@@ -9,7 +10,6 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/news.jpg
 excerpt: Aktuelles und spannende Artikel über Prävention, Krankheiten und Therapien
-
 ---
 
 ## Neuigkeiten und Lesenswertes …

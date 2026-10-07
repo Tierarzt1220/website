@@ -1,6 +1,7 @@
 ---
 title: Leistungen
 description: So können wir Ihrem Tier helfen
+image: "/assets/images/animal2.jpg"
 layout: single
 classes: wide
 permalink: /leistungen/

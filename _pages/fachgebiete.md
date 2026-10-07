@@ -1,6 +1,7 @@
 ---
 title: Fachgebiete
 description: Unsere Fachgebiete!
+image: "/assets/images/juan_large.jpeg"
 layout: single
 toc: false
 permalink: /fachgebiete/

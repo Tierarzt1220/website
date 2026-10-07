@@ -1,6 +1,7 @@
 ---
 title: Tierarztpraxis am Mühlgrund
 description: "Tierarztpraxis am Mühlgrund in Wien-Donaustadt. Adresse: Langobardenstraße 44, 1220 Wien. Tel. +43 1 28 32 779 · praxis@tierarzt.cc."
+image: "/assets/images/team-comic-2026-v-formation-comic.webp"
 layout: home
 classes: wide
 author_profile: false

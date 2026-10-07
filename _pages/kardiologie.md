@@ -52,6 +52,10 @@ Bei einer bekannten Erkrankung können Beobachtungen zu Hause wichtig werden, et
 
 Atemnot, Kollaps oder plötzlich gelähmte, schmerzhafte Hinterbeine bei einer Katze erfordern sofortige tierärztliche Hilfe. Kontaktieren Sie eine erreichbare Praxis oder Tierklinik; warten Sie nicht auf einen regulären Online-Termin.
 
+## Weitere passende Informationen
+
+Ergänzend finden Sie Informationen zu [Ultraschalluntersuchungen](/ultraschall/) und zu Untersuchungen in unserem [In-House-Labor](/in-house-labor/).
+
 ## Termin in unserer Praxis
 
 Gerne besprechen wir Ihre Fragen in der Tierarztpraxis am Mühlgrund, Langobardenstraße 44, 1220 Wien. [Kontaktieren Sie uns](/kontakt/) oder nutzen Sie die [Terminbuchung](/buchungstool/). Bei akuten Beschwerden melden Sie sich bitte telefonisch.

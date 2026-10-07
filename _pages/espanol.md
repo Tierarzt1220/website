@@ -1,6 +1,7 @@
 ---
 title: ¡Bienvenidos, hispanohablantes!
 description: Veterinario de habla española en Viena 1220. Atención veterinaria personal para perros, gatos y pequeños animales.
+image: "/assets/images/kontakt.jpg"
 classes: wide
 layout: single
 locale: es_ES

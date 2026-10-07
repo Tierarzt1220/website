@@ -1,6 +1,7 @@
 ---
 title: Chirurgie
 description: "Chirurgische Eingriffe für Hunde, Katzen und kleine Heimtiere mit individuell angepasster Narkose, kontinuierlicher Überwachung und persönlicher Betreuung in der Aufwachphase."
+image: "/assets/images/chirurgie-operation.jpg"
 excerpt: "Sorgfältig begleitet – von der Vorbereitung der Narkose bis zur Aufwachphase."
 layout: single
 toc: false
@@ -8,16 +9,22 @@ permalink: /chirurgie/
 
 feature_row:
   - image_path: "/assets/images/chirurgie-narkose.jpg"
+    width: 1536
+    height: 1024
     alt: "Vorbereitung und Narkose eines Hundes"
     title: "Narkose"
     excerpt: "Jede Narkose wird individuell an das Tier, seinen Gesundheitszustand und den geplanten Eingriff angepasst."
 
   - image_path: "/assets/images/chirurgie-operation.jpg"
+    width: 1536
+    height: 1024
     alt: "Chirurgischer Eingriff in der Tierarztpraxis"
     title: "Operation"
     excerpt: "Während des Eingriffs arbeitet unser OP-Team konzentriert und unter sterilen Bedingungen."
 
   - image_path: "/assets/images/aufwachen.jpeg"
+    width: 600
+    height: 600
     alt: "Tier in der betreuten Aufwachphase"
     title: "Aufwachphase"
     excerpt: "Nach der Operation bleibt Ihr Tier unter persönlicher Beobachtung, bis es sich ausreichend von der Narkose erholt hat."

@@ -5,6 +5,7 @@ layout: single
 classes: wide
 permalink: /team/
 description: "Wir sind aus Überzeugung für Tiere da."
+image: "/assets/images/team-comic-2026-v-formation-comic.webp"
 excerpt: "Wir arbeiten aus Liebe zum Tier."
 header:
   overlay_color: "#000"
@@ -16,6 +17,8 @@ header:
 
 feature_row:
   - image_path: "/assets/images/corinna2022.jpeg"
+    width: 600
+    height: 600
     alt: "Mag. med. vet. Corinna Rotsejdl"
     title: "Mag. med. vet. Corinna Rotsejdl"
     excerpt: "Tierärztin, Praxisleitung"

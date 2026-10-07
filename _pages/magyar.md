@@ -1,6 +1,7 @@
 ---
 title: Állatorvosi rendelő Bécs 22. kerületében
 description: 'Tierarztpraxis am Mühlgrund: Langobardenstraße 44, 1220 Wien. Állatorvosi ellátás kutyáknak, macskáknak és kisemlősöknek. Időpontfoglalás és elérhetőségek.'
+image: "/assets/images/kontakt.jpg"
 classes: wide
 layout: single
 locale: hu_HU

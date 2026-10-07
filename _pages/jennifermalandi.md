@@ -1,6 +1,7 @@
 ---
 title: "Mag. med. vet. Jennifer Malandi"
 description: "Tierärztin"
+image: "/assets/images/jennifer.jpg"
 layout: single
 permalink: /team/jennifermalandi/
 canonical_url: 'https://tierarzt.cc/team/jennifermalandi/'

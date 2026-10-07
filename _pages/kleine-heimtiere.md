@@ -46,6 +46,10 @@ Eine sichere Transportbox mit rutschfester Unterlage erleichtert die Fahrt. Brin
 
 Kaninchen und Meerschweinchen sollen vor einer Untersuchung oder Narkose grundsätzlich nicht wie Hunde oder Katzen nüchtern gehalten werden. Individuelle Anweisungen erhalten Sie von uns. Gemeinsam finden wir eine Betreuung, die zu Ihrem kleinen Familienmitglied passt.
 
+## Weitere passende Informationen
+
+Mehr erfahren Sie über [Zahnmedizin](/zahnmedizin/), [Ernährungsberatung](/ernaehrungsberatung/) und [Vorsorge](/vorsorge-impfungen/).
+
 ## Termin in unserer Praxis
 
 Gerne besprechen wir Ihre Fragen in der Tierarztpraxis am Mühlgrund, Langobardenstraße 44, 1220 Wien. [Kontaktieren Sie uns](/kontakt/) oder nutzen Sie die [Terminbuchung](/buchungstool/). Bei akuten Beschwerden melden Sie sich bitte telefonisch.

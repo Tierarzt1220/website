@@ -46,6 +46,10 @@ Röntgen arbeitet mit ionisierender Strahlung. Auch digitale Aufnahmen sind nich
 
 Bitte bringen Sie frühere Aufnahmen und Befunde mit, soweit vorhanden. Besondere Vorbereitungen stimmen wir individuell mit Ihnen ab. Nach der Untersuchung erklären wir, was die Bilder zeigen, welche Grenzen bestehen und ob weitere Schritte notwendig sind. So wird aus einem Bild eine nachvollziehbare Entscheidung für Ihr Tier.
 
+## Weitere passende Informationen
+
+Weitere Informationen finden Sie zu [Chirurgie und Narkose](/chirurgie/) sowie zu [Ultraschalluntersuchungen](/ultraschall/).
+
 ## Termin in unserer Praxis
 
 Gerne besprechen wir Ihre Fragen in der Tierarztpraxis am Mühlgrund, Langobardenstraße 44, 1220 Wien. [Kontaktieren Sie uns](/kontakt/) oder nutzen Sie die [Terminbuchung](/buchungstool/). Bei akuten Beschwerden melden Sie sich bitte telefonisch.

@@ -1,6 +1,7 @@
 ---
 title: "Kontakt"
 description: "Kontakt Tierarztpraxis am Mühlgrund: Langobardenstraße 44, 1220 Wien · +43 1 28 32 779 · praxis@tierarzt.cc."
+image: "/assets/images/title.jpg"
 author_profile: false
 layout: single
 permalink: /kontakt/

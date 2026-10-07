@@ -1,6 +1,7 @@
 ---
 title: Medizinische Betreuung
 description: Medizinische Betreuung für Ihren Liebling
+image: "/assets/images/animal2.jpg"
 layout: single
 toc: false
 permalink: /medizinische-betreuung/

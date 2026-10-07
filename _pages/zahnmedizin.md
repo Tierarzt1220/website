@@ -50,6 +50,10 @@ Regelmäßiges, behutsam aufgebautes Zähneputzen kann Zahnbelag reduzieren. Ver
 
 Wir helfen Ihnen, eine alltagstaugliche Zahnpflege zu finden, die zu Ihrem Tier passt. Wenn Ihr Tier Berührungen am Maul plötzlich abwehrt, lassen Sie es bitte untersuchen, statt das Putzen zu erzwingen.
 
+## Weitere passende Informationen
+
+Lesen Sie auch, wie wir Ihr Tier bei [Chirurgie und Narkose](/chirurgie/) begleiten und welche Rolle regelmäßige [Vorsorgeuntersuchungen](/vorsorge-impfungen/) spielen.
+
 ## Termin in unserer Praxis
 
 Gerne besprechen wir Ihre Fragen in der Tierarztpraxis am Mühlgrund, Langobardenstraße 44, 1220 Wien. [Kontaktieren Sie uns](/kontakt/) oder nutzen Sie die [Terminbuchung](/buchungstool/). Bei akuten Beschwerden melden Sie sich bitte telefonisch.

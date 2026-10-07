@@ -50,6 +50,10 @@ Bitte geben Sie keine Schmerzmittel aus der Hausapotheke für Menschen. Bei Blut
 
 Wir klären vorab, welches Verfahren geplant ist und welche Kosten voraussichtlich entstehen. Sie sollen die Entscheidung für Ihr Tier gut informiert treffen können.
 
+## Weitere passende Informationen
+
+Wie wir Narkose, Eingriff und Aufwachphase begleiten, erklären wir auf der Seite [Chirurgie](/chirurgie/). Informationen zur allgemeinen Gesundheitskontrolle finden Sie unter [Vorsorge](/vorsorge-impfungen/).
+
 ## Termin in unserer Praxis
 
 Gerne besprechen wir Ihre Fragen in der Tierarztpraxis am Mühlgrund, Langobardenstraße 44, 1220 Wien. [Kontaktieren Sie uns](/kontakt/) oder nutzen Sie die [Terminbuchung](/buchungstool/). Bei akuten Beschwerden melden Sie sich bitte telefonisch.

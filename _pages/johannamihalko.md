@@ -1,6 +1,7 @@
 ---
 title: "Mag. med. vet. Johanna Mihalko"
 description: "Tierärztin"
+image: "/assets/images/johanna.jpg"
 layout: single
 permalink: /team/johannamihalko/
 canonical_url: 'https://tierarzt.cc/team/johannamihalko/'

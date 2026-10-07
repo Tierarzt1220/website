@@ -1,22 +1,29 @@
 ---
 title: Diagnostik
 description: Unsere diagnostischen Möglichkeiten!
+image: "/assets/images/roe1s.jpeg"
 layout: single
 toc: false
 permalink: /diagnostik/
 
 feature_row:
   - image_path: "/assets/images/roe1s.jpeg"
+    width: 640
+    height: 640
     alt: "Röntgenanlage"
     title: "Röntgenanlage"
     excerpt: "Wir haben 2022 in eine komplett neue Röntgenanlage am letzten Stand der Technik investiert. Das Hightech Gerät produziert erheblich bessere Bilder bei einer wesentlich verringerten Strahlendosis."
 
   - image_path: "/assets/images/roe2s.jpeg"
+    width: 640
+    height: 640
     alt: "Digital Röntgen"
     title: "Digital Röntgen"
     excerpt: "Der Flachbilddetektor von FUJIFILM ist das Herzstück unserer Röntgenanlage und macht den Unterschied in Hinblick auf die Bildqualität."
 
   - image_path: "/assets/images/roentgenbild.jpeg"
+    width: 1279
+    height: 1280
     alt: "Röntgenbild"
     title: "Röntgenbild"
     excerpt: "Die modernen Geräte ermöglichen uns hochauflösende Aufnahmen bei kleinstmöglicher Strahlendosis. Die intelligente Software von FUJIFILM stellt zum Schluss noch die Bildparameter perfekt ein."

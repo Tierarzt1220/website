@@ -54,6 +54,10 @@ Kaninchen, Meerschweinchen und Ratten lassen sich ernährungsphysiologisch nicht
 
 Notieren Sie möglichst mehrere Tage lang Futterprodukte, Mengen und sämtliche Extras. Fotos der Verpackungen, frühere Gewichte und medizinische Befunde sind hilfreich. Gemeinsam suchen wir eine Lösung, die Ihrem Tier guttut und für Sie praktikabel bleibt.
 
+## Weitere passende Informationen
+
+Passend dazu informieren wir über [Vorsorgeuntersuchungen](/vorsorge-impfungen/) und die besonderen Bedürfnisse [kleiner Heimtiere](/kleine-heimtiere/).
+
 ## Termin in unserer Praxis
 
 Gerne besprechen wir Ihre Fragen in der Tierarztpraxis am Mühlgrund, Langobardenstraße 44, 1220 Wien. [Kontaktieren Sie uns](/kontakt/) oder nutzen Sie die [Terminbuchung](/buchungstool/). Bei akuten Beschwerden melden Sie sich bitte telefonisch.

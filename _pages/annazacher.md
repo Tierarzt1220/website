@@ -1,6 +1,7 @@
 ---
 title: "Mag. med. vet. Anna Zacher"
 description: "Tierarzt"
+image: "/assets/images/anna.jpg"
 layout: single
 permalink: /team/annazacher/
 canonical_url: 'https://tierarzt.cc/team/annazacher/'

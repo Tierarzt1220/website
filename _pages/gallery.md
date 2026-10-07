@@ -1,5 +1,6 @@
 ---
 title: Galerie
+image: "/assets/images/blutdruck.jpeg"
 permalink: /gallery/
 gallery:
   - url: assets/images/blutdruck_large.jpeg

@@ -1,6 +1,7 @@
 ---
 title: "Isabella Cada"
 description: "Tierpflegerin"
+image: "/assets/images/bella1.jpeg"
 layout: single
 permalink: /team/isabellacada/
 canonical_url: 'https://tierarzt.cc/team/isabellacada/'

@@ -1,6 +1,7 @@
 ---
 title: "Online-Terminbuchung"
 description: "Tierarzttermin online buchen in Wien 1220 (Donaustadt) – schnell & bequem. Alternativ telefonisch: +43 1 28 32 779."
+image: "/assets/images/termin.jpg"
 excerpt: "Tierarzttermin online buchen, bei der Tierarztpraxis am Mühlgrund in 1220 Wien."
 layout: single
 author_profile: false

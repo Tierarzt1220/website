@@ -1,6 +1,7 @@
 ---
 title: Welcome English speakers!
 description: English speaking veterinary surgeon 1220 Vienna.
+image: "/assets/images/kontakt.jpg"
 classes: wide
 layout: single
 locale: en_US

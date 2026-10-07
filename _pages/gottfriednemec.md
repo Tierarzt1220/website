@@ -1,6 +1,7 @@
 ---
 title: "Mag. med. vet. Gottfried Nemec"
 description: "Tierarzt"
+image: "/assets/images/gottfried.jpeg"
 layout: single
 permalink: /team/gottfriednemec/
 canonical_url: 'https://tierarzt.cc/team/gottfriednemec/'

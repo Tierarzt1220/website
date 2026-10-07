@@ -38,83 +38,323 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "VeterinaryCare",
-  "@id": "https://tierarzt.cc/#praxis",
-  "name": "Tierarztpraxis am Mühlgrund",
-  "legalName": "Tierarztpraxis am Mühlgrund - Mag. Corinna Rotsejdl",
-  "url": "https://tierarzt.cc/",
-  "email": "praxis@tierarzt.cc",
-  "telephone": "+43 1 28 32 779",
-
-  "logo": {
-    "@type": "ImageObject",
-    "url": "https://tierarzt.cc/assets/images/logo-small.jpg"
-  },
-  "image": [
-    "https://tierarzt.cc/assets/images/logo-small.jpg",
-    "https://tierarzt.cc/assets/images/corinna2022_large.jpeg",
-    "https://tierarzt.cc/assets/images/logo-large.gif"
-  ],
-
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "Langobardenstraße 44",
-    "postalCode": "1220",
-    "addressLocality": "Wien",
-    "addressRegion": "Wien",
-    "addressCountry": "AT"
-  },
-  "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 48.2226857,
-    "longitude": 16.4570042
-  },
-  "hasMap": "https://www.google.com/maps/place/Tierarztpraxis+Am+M%C3%BChlgrund/@48.2226892,16.4544293,17z/data=!3m2!4b1!5s0x476d0128c15b7825:0xaeefb9ab4cbf63af!4m6!3m5!1s0x476d0128c1255555:0xbd2202e85f919284!8m2!3d48.2226857!4d16.4570042!16s%2Fg%2F11fsmv4pnb",
-
-  "openingHoursSpecification": [
+  "@graph": [
     {
-      "@type": "OpeningHoursSpecification",
-      "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
-      "opens": "09:30",
-      "closes": "19:00"
+      "@type": "VeterinaryCare",
+      "@id": "https://tierarzt.cc/#praxis",
+      "name": "Tierarztpraxis am Mühlgrund",
+      "legalName": "Tierarztpraxis am Mühlgrund - Mag. Corinna Rotsejdl",
+      "url": "https://tierarzt.cc/",
+      "email": "praxis@tierarzt.cc",
+      "telephone": "+43 1 28 32 779",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tierarzt.cc/assets/images/logo-small.jpg"
+      },
+      "image": [
+        "https://tierarzt.cc/assets/images/logo-small.jpg",
+        "https://tierarzt.cc/assets/images/team-comic-2026-v-formation-comic.webp"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Langobardenstraße 44",
+        "postalCode": "1220",
+        "addressLocality": "Wien",
+        "addressRegion": "Wien",
+        "addressCountry": "AT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 48.2226857,
+        "longitude": 16.4570042
+      },
+      "hasMap": "https://www.google.com/maps/place/Tierarztpraxis+Am+M%C3%BChlgrund/@48.2226892,16.4544293,17z/data=!3m2!4b1!5s0x476d0128c15b7825:0xaeefb9ab4cbf63af!4m6!3m5!1s0x476d0128c1255555:0xbd2202e85f919284!8m2!3d48.2226857!4d16.4570042!16s%2Fg%2F11fsmv4pnb",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:30",
+          "closes": "19:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": "Saturday",
+          "opens": "09:30",
+          "closes": "13:30"
+        }
+      ],
+      "availableLanguage": [
+        "de",
+        "en",
+        "es",
+        "hu"
+      ],
+      "sameAs": [
+        "https://www.facebook.com/199155823471124",
+        "https://www.instagram.com/tierarztpraxisammuehlgrund"
+      ],
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "telephone": "+43 1 28 32 779",
+          "contactType": "customer service",
+          "availableLanguage": [
+            "de",
+            "en",
+            "es",
+            "hu"
+          ]
+        }
+      ],
+      "employee": [
+        {
+          "@id": "https://tierarzt.cc/team/#corinna-rotsejdl"
+        },
+        {
+          "@id": "https://tierarzt.cc/team/#juan-allina"
+        },
+        {
+          "@id": "https://tierarzt.cc/team/#gottfried-nemec"
+        },
+        {
+          "@id": "https://tierarzt.cc/team/#anna-zacher"
+        },
+        {
+          "@id": "https://tierarzt.cc/team/#johanna-mihalko"
+        },
+        {
+          "@id": "https://tierarzt.cc/team/#sarah-pittrich-pernt"
+        },
+        {
+          "@id": "https://tierarzt.cc/team/#jennifer-malandi"
+        }
+      ],
+      "makesOffer": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Vorsorgeuntersuchung"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Impfungen"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Parasitenprophylaxe (Zecken, Flöhe, Würmer)"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Zahnbehandlung"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Chirurgie (Weichteilchirurgie)"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Kastration"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Innere Medizin"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Dermatologie / Allergieabklärung"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Labor (Blut, Urin, Kot)"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Ultraschall"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Röntgen"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Notfall-Erstversorgung"
+          }
+        }
+      ]
     },
     {
-      "@type": "OpeningHoursSpecification",
-      "dayOfWeek": "Saturday",
-      "opens": "09:30",
-      "closes": "13:30"
-    }
-  ],
-
-  "availableLanguage": ["de", "en", "hu", "es"],
-
-  "sameAs": [
-    "https://www.facebook.com/199155823471124",
-    "https://www.instagram.com/tierarztpraxisammuehlgrund"
-  ],
-
-  "contactPoint": [
+      "@type": "Person",
+      "@id": "https://tierarzt.cc/team/#corinna-rotsejdl",
+      "name": "Mag. med. vet. Corinna Rotsejdl",
+      "jobTitle": "Tierärztin und Praxisleitung",
+      "url": "https://tierarzt.cc/team/corinnarotsejdl/",
+      "image": "https://tierarzt.cc/assets/images/corinna2022.jpeg",
+      "sameAs": [
+        "https://vetcat.at/team/corinnarotsejdl/"
+      ],
+      "worksFor": [
+        {
+          "@id": "https://tierarzt.cc/#praxis"
+        },
+        {
+          "@id": "https://vetcat.at/#praxis"
+        }
+      ]
+    },
     {
-      "@type": "ContactPoint",
-      "telephone": "+43 1 28 32 779",
-      "contactType": "customer service",
-      "availableLanguage": ["de", "en", "hu", "es"]
+      "@type": "Person",
+      "@id": "https://tierarzt.cc/team/#juan-allina",
+      "name": "Mag. med. vet. Juan Allina",
+      "jobTitle": "Tierarzt",
+      "url": "https://tierarzt.cc/team/juanallina/",
+      "image": "https://tierarzt.cc/assets/images/juan1.jpeg",
+      "sameAs": [
+        "https://vetcat.at/team/juanallina/"
+      ],
+      "worksFor": [
+        {
+          "@id": "https://tierarzt.cc/#praxis"
+        },
+        {
+          "@id": "https://vetcat.at/#praxis"
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://tierarzt.cc/team/#gottfried-nemec",
+      "name": "Mag. med. vet. Gottfried Nemec",
+      "jobTitle": "Tierarzt",
+      "url": "https://tierarzt.cc/team/gottfriednemec/",
+      "image": "https://tierarzt.cc/assets/images/gottfried.jpeg",
+      "sameAs": [
+        "https://vetcat.at/team/gottfriednemec/"
+      ],
+      "worksFor": [
+        {
+          "@id": "https://tierarzt.cc/#praxis"
+        },
+        {
+          "@id": "https://vetcat.at/#praxis"
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://tierarzt.cc/team/#anna-zacher",
+      "name": "Mag. med. vet. Anna Zacher",
+      "jobTitle": "Tierärztin",
+      "url": "https://tierarzt.cc/team/annazacher/",
+      "image": "https://tierarzt.cc/assets/images/anna.jpg",
+      "sameAs": [
+        "https://vetcat.at/team/annazacher/"
+      ],
+      "worksFor": [
+        {
+          "@id": "https://tierarzt.cc/#praxis"
+        },
+        {
+          "@id": "https://vetcat.at/#praxis"
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://tierarzt.cc/team/#johanna-mihalko",
+      "name": "Mag. med. vet. Johanna Mihalko",
+      "jobTitle": "Tierärztin",
+      "url": "https://tierarzt.cc/team/johannamihalko/",
+      "image": "https://tierarzt.cc/assets/images/johanna.jpg",
+      "sameAs": [
+        "https://vetcat.at/team/johannamihalko/"
+      ],
+      "worksFor": [
+        {
+          "@id": "https://tierarzt.cc/#praxis"
+        },
+        {
+          "@id": "https://vetcat.at/#praxis"
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://tierarzt.cc/team/#sarah-pittrich-pernt",
+      "name": "Mag. med. vet. Sarah Pittrich-Pernt",
+      "jobTitle": "Tierärztin",
+      "url": "https://tierarzt.cc/team/sarahpittrich/",
+      "image": "https://tierarzt.cc/assets/images/sarah.jpg",
+      "sameAs": [
+        "https://vetcat.at/team/sarahpittrich/"
+      ],
+      "worksFor": [
+        {
+          "@id": "https://tierarzt.cc/#praxis"
+        },
+        {
+          "@id": "https://vetcat.at/#praxis"
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://tierarzt.cc/team/#jennifer-malandi",
+      "name": "Mag. med. vet. Jennifer Malandi",
+      "jobTitle": "Tierärztin",
+      "url": "https://tierarzt.cc/team/jennifermalandi/",
+      "image": "https://tierarzt.cc/assets/images/jennifer.jpg",
+      "sameAs": [
+        "https://vetcat.at/team/jennifermalandi/"
+      ],
+      "worksFor": [
+        {
+          "@id": "https://tierarzt.cc/#praxis"
+        },
+        {
+          "@id": "https://vetcat.at/#praxis"
+        }
+      ]
     }
-  ],
-
-  "makesOffer": [
-    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Vorsorgeuntersuchung" } },
-    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Impfungen" } },
-    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Parasitenprophylaxe (Zecken, Flöhe, Würmer)" } },
-    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Zahnbehandlung" } },
-    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Chirurgie (Weichteilchirurgie)" } },
-    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Kastration" } },
-    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Innere Medizin" } },
-    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Dermatologie / Allergieabklärung" } },
-    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Labor (Blut, Urin, Kot)" } },
-    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Ultraschall" } },
-    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Röntgen" } },
-    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Notfall-Erstversorgung" } }
   ]
 }
 </script>

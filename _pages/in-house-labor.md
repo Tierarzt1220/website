@@ -48,6 +48,10 @@ Werte werden immer zusammen mit Untersuchung, Vorgeschichte und weiteren Befunde
 
 Wir erklären Ihnen die Ergebnisse in verständlichen Worten. Falls Kontrollen sinnvoll sind, besprechen wir Zeitpunkt und Ziel. Vorbefunde helfen dabei, Veränderungen über längere Zeit zu erkennen und die Betreuung Ihres Tieres darauf abzustimmen.
 
+## Weitere passende Informationen
+
+Laborbefunde sind häufig Teil einer umfassenden [medizinischen Betreuung](/medizinische-betreuung/). Auch bei der [Vorsorge](/vorsorge-impfungen/) können gezielte Untersuchungen sinnvoll sein.
+
 ## Termin in unserer Praxis
 
 Gerne besprechen wir Ihre Fragen in der Tierarztpraxis am Mühlgrund, Langobardenstraße 44, 1220 Wien. [Kontaktieren Sie uns](/kontakt/) oder nutzen Sie die [Terminbuchung](/buchungstool/). Bei akuten Beschwerden melden Sie sich bitte telefonisch.
