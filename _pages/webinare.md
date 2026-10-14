@@ -22,6 +22,8 @@ In diesem Vortrag beleuchten wir die verschiedenen Fütterungsformen, entschlüs
 
 Die Anmeldung ist ohne Google-Konto möglich. Es gibt keine festgelegte Teilnehmerobergrenze.
 
+Sie erhalten kurz vor Beginn des Webinars eine E-Mail mit dem Teilnahmelink.
+
 <div id="webinar-consent" class="notice--info">
   <p>Das Anmeldeformular wird von Google bereitgestellt. Erst wenn Sie es laden, wird eine Verbindung zu Google hergestellt. Ihre Anmeldung wird zentral von der Tierarztpraxis am Bacherplatz verwaltet.</p>
   <p><a href="https://vetcat.at/datenschutz/" target="_blank" rel="noopener">Datenschutzhinweise</a></p>
