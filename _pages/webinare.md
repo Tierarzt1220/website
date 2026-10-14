@@ -27,14 +27,13 @@ In diesem Vortrag beleuchten wir die verschiedenen Fütterungsformen, entschlüs
 
 Sie erhalten kurz vor Beginn des Webinars eine E-Mail mit dem Teilnahmelink.
 
-<div id="webinar-consent" class="notice--info">
+<div id="webinar-consent" class="notice--info" style="background:#ffe23b;color:#102f47;border:3px solid #f0a000;border-radius:14px;padding:1.5rem;box-shadow:0 6px 20px rgba(240,160,0,0.22);">
   <p>Das Anmeldeformular wird von Google bereitgestellt. Erst wenn Sie es laden, wird eine Verbindung zu Google hergestellt. Ihre Anmeldung wird zentral von der Tierarztpraxis am Bacherplatz verwaltet.</p>
   <p><a href="https://vetcat.at/datenschutz/#webinar-datenschutz" target="_blank" rel="noopener">Datenschutzhinweise</a></p>
-  <button type="button" id="webinar-load" class="btn btn--primary" aria-controls="webinar-frame" aria-expanded="false">Anmeldeformular laden</button>
+  <button type="button" id="webinar-load" class="btn btn--primary" style="background:#0059a8;color:#fff;border:2px solid #003d75;padding:0.85rem 1.3rem;font-size:1.05em;font-weight:700;" aria-controls="webinar-frame" aria-expanded="false">Anmeldeformular laden</button>
 </div>
 <div id="webinar-frame"></div>
 <noscript><p>Bitte aktivieren Sie JavaScript, um das Anmeldeformular zu laden.</p></noscript>
-<p>Fragen oder Abmeldung? Schreiben Sie an <a href="mailto:praxis@vetcat.at">praxis@vetcat.at</a>.</p>
 
 <script>
 (function () {
