@@ -1,10 +1,10 @@
 main:
-  - title: "Webinare"
-    url: /webinare/
   - title: "Terminbuchung"
     url: /buchungstool/
   - title: "Shop"
     url: /shop/
+  - title: "Webinar"
+    url: /webinare/
   - title: "Team"
     url: /team/
   - title: "Leistungen"
