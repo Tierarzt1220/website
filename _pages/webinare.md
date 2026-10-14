@@ -5,6 +5,9 @@ layout: single
 classes: wide
 author_profile: false
 toc: false
+image: "/assets/images/futterdschungel-hund-webinar.webp"
+header:
+  og_image: /assets/images/futterdschungel-hund-webinar.webp
 description: "Kostenloses Online-Webinar: Futterdschungel Hund mit Fachtierärztin Mag. Jennifer Malandi am 14. November 2026 um 19 Uhr. Jetzt anmelden."
 ---
 
@@ -13,6 +16,8 @@ description: "Kostenloses Online-Webinar: Futterdschungel Hund mit Fachtierärzt
 **14. November 2026 · 19:00 Uhr (Wien) · Online · Kostenlos**
 
 Mit **Fachtierärztin Mag. Jennifer Malandi**.
+
+<p style="text-align:center"><a href="#kostenlos-anmelden" aria-label="Zur kostenlosen Webinar-Anmeldung"><img src="/assets/images/futterdschungel-hund-webinar.webp" alt="Futterdschungel Hund – kostenloses Online-Webinar am 14. November 2026 um 19 Uhr mit Fachtierärztin Mag. Jennifer Malandi" width="1254" height="1254" style="display:block;width:100%;max-width:680px;height:auto;margin:1.5rem auto" fetchpriority="high"></a></p>
 
 Trockenfutter, Nassfutter, BARF oder selbst gekocht? Getreidefrei, hoher Fleischanteil oder hypoallergen? Die Auswahl an Hundefutter ist riesig – und die vielen Werbeversprechen machen die Entscheidung nicht gerade leichter.
 
