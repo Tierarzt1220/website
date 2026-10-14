@@ -20,18 +20,15 @@ In diesem Vortrag beleuchten wir die verschiedenen Fütterungsformen, entschlüs
 
 ### Kostenlos anmelden
 
-Die Anmeldung ist ohne Google-Konto möglich. Es gibt keine festgelegte Teilnehmerobergrenze.
-
 Sie erhalten kurz vor Beginn des Webinars eine E-Mail mit dem Teilnahmelink.
 
 <div id="webinar-consent" class="notice--info">
   <p>Das Anmeldeformular wird von Google bereitgestellt. Erst wenn Sie es laden, wird eine Verbindung zu Google hergestellt. Ihre Anmeldung wird zentral von der Tierarztpraxis am Bacherplatz verwaltet.</p>
-  <p><a href="https://vetcat.at/datenschutz/" target="_blank" rel="noopener">Datenschutzhinweise</a></p>
+  <p><a href="https://vetcat.at/datenschutz/#webinar-datenschutz" target="_blank" rel="noopener">Datenschutzhinweise</a></p>
   <button type="button" id="webinar-load" class="btn btn--primary" aria-controls="webinar-frame" aria-expanded="false">Anmeldeformular laden</button>
 </div>
 <div id="webinar-frame"></div>
-<p><a href="https://script.google.com/macros/s/AKfycbyn-4ZpueNL1nQb8RoLn8hxKhbjRNFYKgBmtB7t-WHcRUNLFdDKqm6BImUf5lc4wH3Y/exec?source=tierarzt.cc&amp;event=futterdschungel-2026-11-14" target="_blank" rel="noopener">Anmeldung in einem eigenen Fenster öffnen</a></p>
-<noscript><p>Bitte verwenden Sie den Link oben, um das Formular in einem eigenen Fenster zu öffnen.</p></noscript>
+<noscript><p>Bitte aktivieren Sie JavaScript, um das Anmeldeformular zu laden.</p></noscript>
 <p>Fragen oder Abmeldung? Schreiben Sie an <a href="mailto:praxis@vetcat.at">praxis@vetcat.at</a>.</p>
 
 <script>
