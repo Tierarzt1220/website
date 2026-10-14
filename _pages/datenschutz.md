@@ -66,6 +66,29 @@ Wir binden Inhalte Dritter auf unserer Website ein, um unser Angebot zu vervolls
 -	Google Maps der Google Ireland Limited, Google Building Gordon House, Barrow St, Dublin 4, Irland.
 
 
+<span id="webinar-datenschutz"></span>
+## Webinar-Anmeldung
+
+**Verantwortliche und Kontakt:** Für die gemeinsame Webinar-Anmeldung über tierarzt.cc und vetcat.at ist Mag. Corinna Rotsejdl, Tierarztpraxis am Bacherplatz, Arbeitergasse 4/4, 1050 Wien, verantwortlich. Kontakt: [praxis@vetcat.at](mailto:praxis@vetcat.at).
+
+**Daten und Zwecke:** Wir verarbeiten Vor- und Nachname, E-Mail-Adresse, ausgewähltes Webinar, Anmeldezeitpunkt, Anmeldestatus, eine technische Anmelde-ID und die Version des bestätigten Datenschutzhinweises. Diese Angaben dienen der Verwaltung Ihrer Anmeldung, der Organisation des Webinars und dem Versand des Teilnahmelinks kurz vor Beginn. Eine Frage an die Vortragende können Sie freiwillig ergänzen; bitte geben Sie dabei keine sensiblen personenbezogenen Daten oder Daten anderer Personen an.
+
+Zusätzlich speichern wir die Quellwebsite (tierarzt.cc oder vetcat.at; bei einem nicht zugeordneten Direktaufruf „direkt“). Damit ordnen wir Anmeldungen unseren beiden Websites zu und können deren Nutzung für die Webinar-Anmeldung auswerten. Dafür verwenden wir den jeweiligen Anmeldelink; eine websiteübergreifende Verfolgung Ihres Surfverhaltens erfolgt durch diese Zuordnung nicht.
+
+**Rechtsgrundlagen:** Die für Ihre gewünschte Webinar-Teilnahme erforderliche Verarbeitung einschließlich des Linkversands erfolgt nach Art. 6 Abs. 1 lit. b DSGVO. Die Bearbeitung freiwillig übermittelter Fragen, die technische Absicherung der Anmeldung und die Zuordnung zur Quellwebsite beruhen auf Art. 6 Abs. 1 lit. f DSGVO. Unsere berechtigten Interessen sind die Beantwortung Ihrer Anfragen, ein sicherer Betrieb und die nachvollziehbare Verwaltung und Auswertung unseres Webinar-Angebots. Gegen diese Verarbeitungen können Sie aus Gründen Ihrer besonderen Situation Widerspruch einlegen.
+
+Die Pflichtangaben sind für die Anmeldung über das Formular erforderlich; ohne diese können wir Ihre Anmeldung darüber nicht bearbeiten. Mit der Anmeldung abonnieren Sie keinen Newsletter. Eine automatisierte Entscheidung mit rechtlicher oder vergleichbar erheblicher Wirkung findet nicht statt.
+
+**Google-Dienste:** Das Formular wird über Google Apps Script bereitgestellt; die Teilnehmerliste wird zugriffsbeschränkt in Google Sheets/Google Drive im Praxiskonto gespeichert. Anbieter im Europäischen Wirtschaftsraum ist Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland. Zugriff erhalten die mit der Organisation betrauten berechtigten Personen und die für die Bereitstellung eingesetzten technischen Dienstleister. Die Teilnehmerliste wird nicht öffentlich veröffentlicht.
+
+Eine Verbindung zum Formularanbieter entsteht erst, wenn Sie das Formular laden oder den externen Anmeldelink öffnen. Dabei werden technisch erforderliche Verbindungsdaten, insbesondere IP-Adresse und Browserinformationen, an Google übertragen. Verarbeitung außerhalb des Europäischen Wirtschaftsraums, insbesondere in den USA, ist möglich. Google LLC ist nach dem EU-US Data Privacy Framework zertifiziert; für davon erfasste Übermittlungen besteht ein Angemessenheitsbeschluss. Google beschreibt weitere vertragliche Absicherungen, insbesondere Standardvertragsklauseln, in seinen Datenverarbeitungsbedingungen. Einzelheiten: [Google-Datenschutzerklärung](https://policies.google.com/privacy?hl=de), [Übermittlungsgrundlagen](https://policies.google.com/privacy/frameworks?hl=de) und [Datenverarbeitungsbedingungen](https://cloud.google.com/terms/data-processing-addendum/).
+
+**Löschung und Ihre Rechte:** Die Anmeldedaten werden regulär 30 Tage nach dem Webinar im Rahmen des täglichen Löschlaufs aus der operativen Teilnehmerliste entfernt. Soweit einzelne Daten zur Erfüllung gesetzlicher Pflichten oder zur Klärung konkreter Rechtsansprüche weiterhin erforderlich sind, werden nur diese Daten gesondert und zweckgebunden bis zum Wegfall dieses Grundes aufbewahrt. Für technische Sicherungen und Versionsverläufe gelten ergänzend die Löschverfahren des Dienstleisters. Auch von uns angefertigte Teilnehmerexporte unterliegen der genannten Löschfrist.
+
+Eine Abmeldung sowie Anfragen zu Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit oder Widerspruch richten Sie bitte an [praxis@vetcat.at](mailto:praxis@vetcat.at). Die Rechte bestehen jeweils unter den gesetzlichen Voraussetzungen. Sie können sich außerdem bei der österreichischen Datenschutzbehörde beschweren; deren Kontaktdaten finden Sie im Abschnitt „Ihre Rechte“.
+
+*Stand dieses Abschnitts: 14. Oktober 2026.*
+
 **Ihre Rechte**
 
 Sie haben das Recht auf jederzeitige unentgeltliche Auskunft über die bei uns zu Ihrer Person gespeicherten Daten sowie ein Recht auf Berichtigung und Löschung dieser personenbezogenen Daten. Sie haben weiters das Recht auf Einschränkung der Verarbeitung sämtlicher erhobener Daten. Sie können die ungehinderte und uneingeschränkte Übermittlung erhobener personenbezogener Daten an einen Dritten verlangen. Haben Sie uns eine Einwilligung zur Datenverarbeitung erteilt, so können Sie diese jederzeit für die zukünftige Verarbeitung widerrufen. 
