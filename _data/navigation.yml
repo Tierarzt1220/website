@@ -1,4 +1,6 @@
 main:
+  - title: "Webinare"
+    url: /webinare/
   - title: "Terminbuchung"
     url: /buchungstool/
   - title: "Shop"
