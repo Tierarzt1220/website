@@ -1,0 +1,188 @@
+{% assign career = page.career %}
+{% assign vacancies = site.data.stellen | where: "active", true %}
+{% capture initiative_subject %}Initiativbewerbung – {{ career.practice }}{% endcapture %}
+{% capture initiative_body %}Liebes Praxisteam,
+
+ich möchte mich initiativ bei euch vorstellen.
+
+Gewünschte Tätigkeit:
+Ausbildung und bisherige Erfahrung:
+Gewünschtes Stundenausmaß:
+Möglicher Beginn:
+Wunschstandort: {{ career.practice }}, {{ career.postal_code }} Wien
+Telefonnummer für Rückfragen (freiwillig):
+
+Ein paar Worte zu mir und meiner Motivation:
+
+Meinen Lebenslauf füge ich bei.
+
+Liebe Grüße
+{% endcapture %}
+{% capture internship_subject %}Praktikumsanfrage – {{ career.practice }}{% endcapture %}
+{% capture internship_body %}Liebes Praxisteam,
+
+ich interessiere mich für ein Praktikum in eurer Tierarztpraxis.
+
+Ausbildung / Studium:
+Art des Praktikums und mögliche Vorgaben:
+Gewünschter Zeitraum und Dauer:
+Alternative Zeiträume:
+Wunschstandort: {{ career.practice }}, {{ career.postal_code }} Wien
+Telefonnummer für Rückfragen (freiwillig):
+
+Das möchte ich bei euch kennenlernen:
+
+Liebe Grüße
+{% endcapture %}
+{% capture school_subject %}Berufspraktische Tage – {{ career.practice }}{% endcapture %}
+{% capture school_body %}Liebes Praxisteam,
+
+ich möchte meine berufspraktischen Tage gerne bei euch verbringen.
+
+Name:
+Schule und Schulstufe:
+Gewünschter Zeitraum und Dauer:
+Alternative Zeiträume (falls möglich):
+Vorgaben meiner Schule:
+Wunschstandort: {{ career.practice }}, {{ career.postal_code }} Wien
+Telefonnummer für Rückfragen (freiwillig):
+
+Darum interessiert mich der Beruf:
+
+Liebe Grüße
+{% endcapture %}
+
+<div class="career">
+  <div class="career-intro">
+    <p class="career-eyebrow">Karriere mit Tieren · {{ career.district | escape }}</p>
+    <h2 class="career-headline">Vielleicht fehlst genau du.</h2>
+    <p class="career-lead">{{ career.intro | escape }}</p>
+    <nav class="career-quicklinks" aria-label="Bereiche der Karriereseite">
+      <a class="career-button career-button--primary" href="#offene-stellen">Offene Stellen</a>
+      <a class="career-button" href="#initiativbewerbung">Initiativbewerbung</a>
+      <a class="career-button" href="#praktikum">Praktikum &amp; Schnuppertage</a>
+    </nav>
+  </div>
+
+  <figure class="career-team">
+    <img src="{{ '/assets/images/karriere-team-du.webp' | relative_url }}" srcset="{{ '/assets/images/karriere-team-du-960.webp' | relative_url }} 960w, {{ '/assets/images/karriere-team-du.webp' | relative_url }} 1942w" sizes="(max-width: 1024px) 100vw, 1100px" width="{{ career.image_width }}" height="{{ career.image_height }}" alt="Unser Tierarzt-Team mit weißem Hund im Comic-Stil und einer gestrichelten Personen-Silhouette mit der Aufschrift Du?" decoding="async" fetchpriority="high">
+    <figcaption>Ein Team. Viele Stärken. Vielleicht bald auch deine?</figcaption>
+  </figure>
+
+  <section class="career-section" id="offene-stellen" aria-labelledby="career-jobs-title">
+    <p class="career-eyebrow">Stellenangebote</p>
+    <h2 id="career-jobs-title">Offene Stellen in unserer Tierarztpraxis</h2>
+    {% if vacancies.size > 0 %}
+    <div class="career-job-list">
+      {% for job in vacancies %}
+      <article class="career-card career-job">
+        <h3><a href="{{ job.url | relative_url }}">{{ job.title | escape }}</a></h3>
+        <p>{{ job.summary | escape }}</p>
+        {% if job.workload %}<p class="career-job-meta">{{ job.workload | escape }} · {{ career.district | escape }}</p>{% endif %}
+        <a class="career-text-link" href="{{ job.url | relative_url }}">Zur Stellenausschreibung <span aria-hidden="true">→</span></a>
+      </article>
+      {% endfor %}
+    </div>
+    {% else %}
+    <div class="career-empty">
+      <span class="career-status">Aktuell keine ausgeschriebenen Stellen</span>
+      <h3>Deine Bewerbung muss darauf nicht warten.</h3>
+      <p>Wir haben derzeit keine offenen Stellen ausgeschrieben. Wenn du unser Team gerne kennenlernen möchtest, freuen wir uns trotzdem über deine Initiativbewerbung.</p>
+      <a class="career-text-link" href="#initiativbewerbung">Stell dich bei uns vor <span aria-hidden="true">→</span></a>
+    </div>
+    {% endif %}
+  </section>
+
+  <section class="career-section" id="initiativbewerbung" aria-labelledby="career-initiative-title">
+    <p class="career-eyebrow">Auch ohne passende Ausschreibung</p>
+    <h2 id="career-initiative-title">Initiativbewerbung: Dein Weg in unser Tierarzt-Team</h2>
+    <p>Du suchst einen Job als Tierärztin oder Tierarzt in Wien, möchtest in der tierärztlichen Ordinationsassistenz arbeiten oder bringst Erfahrung in der Tierpflege mit? Erzähl uns, was dich begeistert und wie du dich bei uns einbringen möchtest.</p>
+    <div class="career-tags" aria-label="Berufliche Interessen für eine Initiativbewerbung">
+      <span>Tierärztinnen &amp; Tierärzte</span>
+      <span>Tierärztliche Ordinationsassistenz</span>
+      <span>Tierpflege &amp; Praxisorganisation</span>
+    </div>
+    <p>Wir möchten Menschen kennenlernen, die aufmerksam mit Tieren umgehen, offen auf Tierhalterinnen und Tierhalter zugehen und gerne im Team arbeiten. Ob sich eine passende Möglichkeit ergibt, besprechen wir individuell mit dir.</p>
+    <a class="career-button career-button--primary" href="mailto:{{ career.email | escape }}?subject={{ initiative_subject | strip | url_encode }}&amp;body={{ initiative_body | strip | url_encode }}">Initiativbewerbung per E-Mail</a>
+  </section>
+
+  <section class="career-section" id="praktikum" aria-labelledby="career-internship-title">
+    <p class="career-eyebrow">Erste Einblicke &amp; praktische Erfahrung</p>
+    <h2 id="career-internship-title">Praktikum beim Tierarzt in Wien</h2>
+    <p>Wie sieht der Alltag in einer Tierarztpraxis wirklich aus? Bei uns kannst du ihn kennenlernen. Wir nehmen gerne Praktikantinnen und Praktikanten auf – soweit unsere Platzverhältnisse und die Möglichkeiten zur Betreuung es zulassen.</p>
+    <aside class="career-notice" aria-labelledby="career-early-title">
+      <h3 id="career-early-title">Bitte möglichst frühzeitig bewerben</h3>
+      <p>Die Nachfrage nach Praktikumsplätzen und berufspraktischen Tagen ist enorm. Melde dich deshalb am besten, sobald dein gewünschter Zeitraum feststeht. Wenn du zeitlich flexibel bist, nenne uns gerne mehrere mögliche Termine.</p>
+    </aside>
+    <div class="career-grid">
+      <article class="career-card">
+        <span class="career-card-number" aria-hidden="true">01</span>
+        <h3>Praktika für Studierende &amp; in Ausbildung</h3>
+        <p>Du studierst Veterinärmedizin oder möchtest im Rahmen deiner Ausbildung praktische Erfahrungen sammeln? Für ein Pflichtpraktikum oder Ferialpraktikum klären wir gemeinsam, ob Zeitraum, Lernziele und Betreuung zusammenpassen.</p>
+        <p>Schick uns deine Ausbildung, den gewünschten Zeitraum, die Dauer und etwaige Vorgaben deiner Ausbildungsstätte.</p>
+        <a class="career-button" href="mailto:{{ career.email | escape }}?subject={{ internship_subject | strip | url_encode }}&amp;body={{ internship_body | strip | url_encode }}">Praktikum anfragen</a>
+      </article>
+      <article class="career-card">
+        <span class="career-card-number" aria-hidden="true">02</span>
+        <h3>Berufspraktische Tage &amp; Schnuppertage</h3>
+        <p>Auch Schülerinnen und Schüler sind herzlich willkommen. Du möchtest wissen, ob ein Beruf mit Tieren zu dir passt? Bei berufspraktischen Tagen kannst du unser Team begleiten und erste Einblicke in die Arbeit beim Tierarzt gewinnen.</p>
+        <p>Nenne uns bitte deine Schule, Schulstufe, den vorgesehenen Zeitraum und die schulischen Vorgaben. Berufserfahrung brauchst du dafür nicht – Neugier und Interesse sind ein guter Anfang.</p>
+        <a class="career-button" href="mailto:{{ career.email | escape }}?subject={{ school_subject | strip | url_encode }}&amp;body={{ school_body | strip | url_encode }}">Berufspraktische Tage anfragen</a>
+      </article>
+    </div>
+  </section>
+
+  <section class="career-section career-insight" aria-labelledby="career-insight-title">
+    <div>
+      <p class="career-eyebrow">Lerne uns kennen</p>
+      <h2 id="career-insight-title">Tiermedizin hat viele Seiten. Unser Team auch.</h2>
+      <p>{{ career.local_text | escape }}</p>
+      <p>Von der Vorsorge über Labor und bildgebende Diagnostik bis zur Chirurgie: Unsere <a href="{{ '/fachgebiete/' | relative_url }}">Fachgebiete</a> geben dir einen Eindruck von unserem Praxisalltag. Bei Praktika richten sich deine Einblicke und Aufgaben nach Ausbildungsstand, Rahmenbedingungen und dem jeweiligen Tagesablauf.</p>
+      <div class="career-quicklinks">
+        <a class="career-button" href="{{ '/team/' | relative_url }}">Unser Team kennenlernen</a>
+        <a class="career-text-link" href="{{ '/gallery/' | relative_url }}">Einblicke in die Praxis <span aria-hidden="true">→</span></a>
+      </div>
+    </div>
+  </section>
+
+  <section class="career-section" id="bewerbung" aria-labelledby="career-apply-title">
+    <p class="career-eyebrow">Unkompliziert Kontakt aufnehmen</p>
+    <h2 id="career-apply-title">So bewirbst du dich bei uns</h2>
+    <ol class="career-steps">
+      <li><strong>Erzähl uns von dir.</strong><span>Schreib kurz, wofür du dich interessierst und warum du unser Team kennenlernen möchtest.</span></li>
+      <li><strong>Nenne Tätigkeit &amp; Zeitraum.</strong><span>Für einen Job: Ausbildung, Erfahrung, gewünschte Stunden und möglicher Beginn. Für ein Praktikum: Art, Dauer, Wunschzeitraum und Vorgaben von Schule oder Studium.</span></li>
+      <li><strong>Schick uns deine E-Mail.</strong><span>Bei einer Initiativbewerbung freuen wir uns über deinen Lebenslauf. Für berufspraktische Tage reicht zum ersten Kennenlernen eine kurze Nachricht mit den Angaben oben.</span></li>
+    </ol>
+    <div class="career-contact">
+      <h3>Dein Kontakt zur Praxisleitung</h3>
+      <p><strong>Mag. Corinna Rotsejdl · {{ career.practice | escape }}</strong><br>{{ career.street | escape }}, {{ career.postal_code }} Wien</p>
+      <a class="career-email" href="mailto:{{ career.email | escape }}">{{ career.email | escape }}</a>
+      <p class="career-small">Die Bewerbungsbuttons öffnen dein E-Mail-Programm mit einer Vorlage. Du kannst uns auch direkt an diese Adresse schreiben. Bitte sende nur die für deine Bewerbung notwendigen Unterlagen. Informationen zum Umgang mit personenbezogenen Daten findest du in unserer <a href="{{ '/datenschutz/' | relative_url }}">Datenschutzerklärung</a>.</p>
+    </div>
+  </section>
+
+  <section class="career-section career-faq" aria-labelledby="career-faq-title">
+    <p class="career-eyebrow">Gut zu wissen</p>
+    <h2 id="career-faq-title">Fragen zu Bewerbung &amp; Praktikum</h2>
+    <details>
+      <summary>Kann ich mich bewerben, obwohl keine Stelle ausgeschrieben ist?</summary>
+      <p>Ja, gerne. Mit einer Initiativbewerbung kannst du uns unabhängig von einer offenen Stelle kennenlernen. Nenne uns deine gewünschte Tätigkeit, deine Ausbildung und deinen möglichen Starttermin. Eine konkrete Stelle ist damit noch nicht zugesagt.</p>
+    </details>
+    <details>
+      <summary>Wie früh sollte ich mich um ein Praktikum kümmern?</summary>
+      <p>Möglichst frühzeitig, sobald dein Zeitraum feststeht. Die Nachfrage ist enorm, und unsere Plätze hängen von den räumlichen Möglichkeiten und der verfügbaren Betreuung ab. Alternative Zeiträume helfen uns bei der Planung.</p>
+    </details>
+    <details>
+      <summary>Nehmt ihr auch Schülerinnen und Schüler für berufspraktische Tage auf?</summary>
+      <p>Ja. Wenn Platz und Betreuung es zulassen, ermöglichen wir Schülerinnen und Schülern gerne berufspraktische Tage beziehungsweise Schnuppertage in der Tierarztpraxis. Bitte schick uns Schule, Schulstufe, Zeitraum, Dauer und die schulischen Vorgaben.</p>
+    </details>
+    <details>
+      <summary>Wie lange kann ein Praktikum dauern und welche Aufgaben lerne ich kennen?</summary>
+      <p>Das stimmen wir mit dir und gegebenenfalls deiner Schule oder Ausbildungsstätte ab. Entscheidend sind dein Ausbildungsstand, deine Lernziele, der Zeitraum und unsere Möglichkeiten zur Betreuung. Die Aufgaben und Einblicke besprechen wir vorab.</p>
+    </details>
+    <details>
+      <summary>Kann ich mich für beide Wiener Ordinationen interessieren?</summary>
+      <p>Gerne. Nenne in deiner Nachricht deinen Wunschstandort oder schreib dazu, dass du für beide Standorte offen bist. Eine Nachricht genügt; bitte führe auch deinen gewünschten Zeitraum an.</p>
+    </details>
+  </section>
+</div>

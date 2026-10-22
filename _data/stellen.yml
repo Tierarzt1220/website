@@ -1,0 +1,6 @@
+# Ausschließlich konkrete, freigegebene Stellenanzeigen eintragen.
+# Die Liste ist aktuell bewusst leer. Initiativbewerbungen sind keine offenen Stellen.
+# Künftige Einträge: active (true/false), title, summary, workload und url.
+# url verweist auf eine eigene Detailseite mit vollständiger Stellenausschreibung.
+# JobPosting-Markup gehört nur auf diese konkrete Detailseite, nicht auf die Übersicht.
+[]

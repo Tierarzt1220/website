@@ -89,3 +89,8 @@ Unser Team besteht aus sieben erfahrenen Tierärztinnen und Tierärzten sowie ei
 Einblicke in unseren Arbeitsalltag bekommen Sie in unserer Fotogalerie!
 [Zur Fotogalerie](/gallery/)
 
+## Vielleicht fehlst genau du.
+
+Du möchtest unser Team beruflich kennenlernen oder suchst ein Praktikum beziehungsweise berufspraktische Tage beim Tierarzt? Auf unserer Karriereseite findest du Informationen zu offenen Stellen, Initiativbewerbungen und Praktika.
+
+[Zu Jobs & Praktika in unserer Tierarztpraxis](/karriere/)
