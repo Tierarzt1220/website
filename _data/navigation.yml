@@ -7,8 +7,6 @@ main:
     url: /webinare/
   - title: "Team"
     url: /team/
-  - title: "Karriere"
-    url: /karriere/
   - title: "Leistungen"
     url: /leistungen/
   - title: "Kontakt"
