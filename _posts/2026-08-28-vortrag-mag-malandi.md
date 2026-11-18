@@ -1,38 +1,19 @@
 ---
-title: Vortrag FTA Mag. Jennifer Malandi 
-description: "Erste Hilfe für Kaninchen, Meerschweinchen, Ratten & co"
-excerpt: "Notfall? Keine Panik! Erste Hilfe für Kaninchen, Meerschweinchen, Ratten & co ONLINE AM 14.9.2026 VON 19 BIS 21"
+title: "Erste Hilfe für kleine Heimtiere: Rückblick auf den Vortrag"
+description: "Beim Online-Vortrag am 14. September 2026 erklärte Fachtierärztin Mag. Jennifer Malandi, wie Sie Notfälle bei Kaninchen, Meerschweinchen und Ratten erkennen."
+excerpt: "Rückblick auf den 14. September 2026: Welche Veränderungen bei kleinen Heimtieren sind Warnzeichen, und wann braucht ein Tier sofort Hilfe?"
+last_modified_at: 2026-11-18
+image: /assets/images/service-review/kleine-heimtiere.jpg
 ---
 
-🐰🐹🐭 Erste Hilfe für kleine Heimtiere – was tun im Notfall? 🚑
+Am **14. September 2026** sprach Fachtierärztin [Mag. Jennifer Malandi](/team/jennifermalandi/) über Erste Hilfe für Kaninchen, Meerschweinchen und Ratten. Im Mittelpunkt stand eine Frage, die zu Hause oft schwer zu beantworten ist: Kann ich mein Tier noch beobachten, oder braucht es sofort tierärztliche Hilfe?
 
-Am 14. September lädt unsere Fachtierärztin Mag. Jennifer Malandi zu einem spannenden Vortrag rund um das Thema Erste Hilfe bei Kaninchen, Meerschweinchen, Ratten & Co. ein.
+## Wenn kleine Veränderungen auffallen
 
-Was ist ein echter Notfall? Was kann ich zu Hause tun? Und wann muss mein Tier sofort zum Tierarzt?
-Erfahren Sie, wie Sie im Ernstfall richtig handeln und Ihrem kleinen Liebling schnell helfen können. ❤️
+Kleine Heimtiere zeigen oft nur unauffällig, dass es ihnen schlecht geht. Der Vortrag nahm deshalb Situationen aus dem Alltag in den Blick: Ein Kaninchen lässt sein Futter liegen, ein Meerschweinchen atmet angestrengt, oder nach einem Streit im Gehege fällt eine Bisswunde auf. Auch der Verdacht auf eine Vergiftung und die Ausstattung einer Notfallapotheke für Heimtiere waren Thema.
 
-Anmeldungen bitte an : vereinbiophilie@gmail.com
+<figure>
+  <img src="/assets/images/service-review/kleine-heimtiere.jpg" alt="Jennifer Malandi untersucht ein Meerschweinchen – Illustration aus unserer Praxis" width="1200" height="800" loading="lazy" decoding="async" style="width:100%;max-width:740px;height:auto;">
+</figure>
 
-📅 14. September - 19:00 - Online!
-
-Notfälle erkennen – richtig handeln – Leben retten
-Kleine Heimtiere sind Meister darin, Krankheiten und Schmerzen zu verbergen. Umso wichtiger ist es, Warnsignale frühzeitig zu erkennen und in Notfällen richtig zu reagieren.
-In diesem praxisnahen Online-Vortrag erfahren Tierhalterinnen und Tierhalter, woran man einen Notfall erkennt, welche Maßnahmen zu Hause sinnvoll und sicher sind und wann unverzüglich tierärztliche Hilfe erforderlich ist.
-
-Themen des Vortrags:
-
- Notfälle erkennen und richtig einschätzen
-🐰 Atemnot – was tun, wenn jede Sekunde zählt?
-🐭 Inappetenz und Verdauungsprobleme früh erkennen
-🐹 Biss- und Verletzungswunden richtig versorgen
-☠️ Vergiftungen – typische Gefahren im Haushalt
-🩺 Was gehört in die Notfallapotheke für Heimtiere?
-📞 Wann kann man beobachten und wann muss sofort eine Tierarztpraxis oder Tierklinik aufgesucht werden?
-
-Der Vortrag richtet sich an Halterinnen und Halter von Kaninchen, Meerschweinchen, Ratten und anderen Kleinsäugern, die mehr Sicherheit im Umgang mit möglichen Notfällen gewinnen möchten.
-
-![Hyperthyreose](/assets/images/202608vortragjennifer.jpeg)
-
-[Unser Team](/team/)
-
-[Terminbuchung](/buchungstool/)
+Mehr über die [Untersuchung kleiner Heimtiere in unserer Ordination](/kleine-heimtiere/). Weitere Veranstaltungstermine finden Sie, sobald sie feststehen, in unserer [Webinarübersicht](/webinare/).

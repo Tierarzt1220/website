@@ -1,42 +1,28 @@
 ---
-title: "Futterdschungel Hund: Kostenloses Online-Webinar am 14. November"
-description: "Was kommt wirklich in den Napf? Kostenloses Online-Webinar mit Fachtierärztin Mag. Jennifer Malandi am 14. November 2026 um 19 Uhr. Jetzt anmelden."
-excerpt: "Trockenfutter, Nassfutter, BARF oder selbst gekocht? Wir bringen Licht in den Futterdschungel – kostenlos und bequem von zu Hause."
+title: "Futterdschungel Hund: Rückblick auf das Webinar zur Hundeernährung"
+description: "Rückblick auf das Webinar vom 14. November 2026: Jennifer Malandi erklärte, wie sich Hundefutter vergleichen lässt und was Angaben auf der Packung bedeuten."
+excerpt: "Trockenfutter, Nassfutter, BARF oder selbst gekocht? Das waren die Fragen beim Webinar mit Fachtierärztin Mag. Jennifer Malandi am 14. November 2026."
 permalink: /news/futterdschungel-hund-webinar/
 date: 2026-10-14 13:05:00 +0200
 published: true
-image: /assets/images/futterdschungel-hund-webinar.webp
+last_modified_at: 2026-11-18
+image: /assets/images/service-review/ernaehrungsberatung.jpg
 header:
-  teaser: /assets/images/futterdschungel-hund-webinar.webp
-  og_image: /assets/images/futterdschungel-hund-webinar.webp
+  teaser: /assets/images/service-review/ernaehrungsberatung.jpg
+  og_image: /assets/images/service-review/ernaehrungsberatung.jpg
 ---
 
-Die Tierarztpraxis am Mühlgrund, Langobardenstraße 44, 1220 Wien, lädt Sie zu einem kostenlosen Online-Webinar rund um die Ernährung Ihres Hundes ein.
+**Das Webinar fand am 14. November 2026 statt.** Unter dem Titel „Futterdschungel Hund – Was kommt wirklich in den Napf?“ nahm sich Fachtierärztin [Mag. Jennifer Malandi](/team/jennifermalandi/) die Fragen vor, die viele Hundehalterinnen und Hundehalter schon vor dem Futterregal beschäftigen.
 
-<p style="text-align:center"><a href="/webinare/#kostenlos-anmelden"><img src="/assets/images/futterdschungel-hund-webinar.webp" alt="Futterdschungel Hund – kostenloses Online-Webinar mit Jennifer Malandi am 14. November 2026 um 19 Uhr" width="1254" height="1254" style="display:block;width:100%;max-width:740px;height:auto;margin:1.5rem auto" fetchpriority="high"></a></p>
+## Was sagt die Packung über das Futter aus?
 
-## Was kommt wirklich in den Napf?
+Trockenfutter, Nassfutter, BARF oder selbst gekocht: Im Webinar ging es um die Unterschiede zwischen diesen Fütterungsformen. Ein zweiter Schwerpunkt waren Angaben wie „getreidefrei“, „hypoallergen“ und „hoher Fleischanteil“. Was verraten sie über ein Futter, und was muss man über den eigenen Hund wissen, um es für ihn auswählen zu können?
 
-Trockenfutter, Nassfutter, BARF oder selbst gekocht? Getreidefrei, hoher Fleischanteil oder hypoallergen? Die Auswahl an Hundefutter ist riesig – und die vielen Werbeversprechen machen die Entscheidung nicht gerade leichter.
+<figure>
+  <img src="/assets/images/service-review/ernaehrungsberatung.jpg" alt="Eine Tierärztin erklärt die Futterauswahl für einen Hund – Illustration" width="1200" height="800" loading="lazy" decoding="async" style="width:100%;max-width:740px;height:auto;">
+</figure>
 
-Doch was braucht unser Hund wirklich? Ist Getreide tatsächlich schlecht? Ist möglichst viel Fleisch automatisch besser? Und woran erkennt man ein gutes Fertigfutter?
-
-Im Webinar **„Futterdschungel Hund – Was kommt wirklich in den Napf?“** nimmt **Fachtierärztin Mag. Jennifer Malandi** die Hundeernährung genauer unter die Lupe. Wir beleuchten verschiedene Fütterungsformen, entschlüsseln Angaben auf Futtermittelverpackungen und räumen mit häufigen Ernährungsmythen auf.
-
-Damit Sie im Futterdschungel den Überblick behalten und wissen, was wirklich in den Napf Ihres Hundes gehört!
-
-## Termin und Anmeldung
-
-- **Wann:** Samstag, 14. November 2026, um 19:00 Uhr (Wien)
-- **Wo:** Online – bequem von zu Hause
-- **Vortragende:** Fachtierärztin Mag. Jennifer Malandi
-- **Teilnahme:** Kostenlos, mit vorheriger Anmeldung
-
-[Jetzt kostenlos zum Webinar anmelden](/webinare/#kostenlos-anmelden){: .btn .btn--primary .btn--large}
-
-Sie erhalten kurz vor Beginn des Webinars eine E-Mail mit dem Teilnahmelink. Bei der Anmeldung können Sie auch eine Frage an die Vortragende hinterlassen.
-
-Wir freuen uns auf einen informativen Abend mit Ihnen!
+Wenn Sie die Fütterung Ihres eigenen Hundes besprechen möchten, erfahren Sie hier mehr über unsere [tierärztliche Ernährungsberatung](/ernaehrungsberatung/). Weitere Veranstaltungstermine finden Sie, sobald sie feststehen, in unserer [Webinarübersicht](/webinare/).
 
 **Tierarztpraxis am Mühlgrund**  
 Langobardenstraße 44, 1220 Wien  
