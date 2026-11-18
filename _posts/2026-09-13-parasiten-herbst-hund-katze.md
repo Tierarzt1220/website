@@ -2,7 +2,7 @@
 title: "Parasiten machen keinen Herbsturlaub: Zecken, Flöhe und Herbstgrasmilben"
 description: "Zecken, Flöhe und Herbstgrasmilben können Hund und Katze auch im Herbst beschäftigen. So erkennen Sie typische Anzeichen und reagieren richtig."
 excerpt: "Kühleres Wetter bedeutet nicht automatisch das Ende der Parasitenzeit. Worauf Tierhalterinnen und Tierhalter im Herbst achten sollten."
-image: /assets/images/parasiten-herbst-hund-katze.jpg
+image: /assets/images/parasiten-herbst-hund-katze.webp
 ---
 
 Die Tage werden kürzer, die Temperaturen angenehmer – und viele Tierhalterinnen und Tierhalter glauben, dass damit auch die Parasitenzeit vorbei ist. Leider halten sich Zecken und Flöhe nicht an den Kalender. Spätsommer und Herbst sind außerdem die typische Zeit der Herbstgrasmilben.
@@ -10,7 +10,7 @@ Die Tage werden kürzer, die Temperaturen angenehmer – und viele Tierhalterinn
 Die gute Nachricht: Wer die häufigsten Anzeichen kennt, kann früh reagieren.
 
 <figure>
-  <img src="/assets/images/parasiten-herbst-hund-katze.jpg" alt="Comicillustration einer Hautkontrolle bei Hund und Katze auf Zecken, Flöhe und Herbstgrasmilben" width="1200" height="800" decoding="async" style="width:100%;height:auto;">
+  <img src="/assets/images/parasiten-herbst-hund-katze.webp" alt="Comicillustration einer Hautkontrolle bei Hund und Katze auf Zecken, Flöhe und Herbstgrasmilben" width="1200" height="800" decoding="async" style="width:100%;height:auto;">
 </figure>
 
 ## Zecken sind auch im Herbst aktiv
