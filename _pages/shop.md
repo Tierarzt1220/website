@@ -1,14 +1,27 @@
 ---
-title: "Online-Shop"
+title: "Praxis-Webshop für Tierbedarf"
+description: "Diätfutter und Ergänzungsfuttermittel für Ihr Tier nachbestellen: Die Beratung erfolgt in 1220 Wien, die Bestellung über den VetNative-Shop der Praxis am Bacherplatz."
+image: /assets/images/service-review/ernaehrungsberatung.jpg
 permalink: /shop/
 layout: single
 classes: wide
 ---
 
 <style>
-  /* Seitentitel ausblenden */
-  .page__title {
-    display: none;
+  .shop-intro {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    max-width: 74ch;
+    margin: 0 0 1.25rem;
+  }
+
+  .shop-intro p { margin: 0; }
+  .shop-intro img {
+    width: clamp(4.5rem, 16vw, 8rem);
+    height: auto;
+    flex-shrink: 0;
+    border-radius: 0.35rem;
   }
 
   /* Inhaltsbereich möglichst breit machen */
@@ -92,6 +105,10 @@ classes: wide
 </style>
 
 <div class="shop-wrapper">
+  <div class="shop-intro">
+    <p>Hier können Sie das empfohlene Diätfutter oder ein Ergänzungsfuttermittel nachbestellen. Ihre Bestellung läuft über den VetNative-Webshop der Tierarztpraxis am Bacherplatz. Bei Fragen zur Fütterung berät Sie <a href="/ernaehrungsberatung/">unser Team in 1220 Wien</a>.</p>
+    <img src="/assets/images/service-review/ernaehrungsberatung.jpg" alt="Tierärztliche Ernährungsberatung für einen Hund" width="1200" height="800" decoding="async">
+  </div>
 
   <details class="shop-notice" open>
     <summary>
